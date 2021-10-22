@@ -1,0 +1,110 @@
+1
+00:00:00,000 --> 00:00:00,000
+foo
+
+2
+00:32:04,279 --> 00:32:06,650
+Not so fast...
+
+3
+00:32:07,176 --> 00:32:18,878
+D'you think this is a blimmin' inn... A hotel that you can leave and come back to anytime you want? Eh?
+
+4
+00:32:18,878 --> 00:32:21,015
+What've you been up to all night?
+
+5
+00:32:21,015 --> 00:32:24,568
+What d'you mean? I was at work.
+
+6
+00:32:26,314 --> 00:32:29,023
+I told Kanwal...
+
+7
+00:32:29,291 --> 00:32:33,318
+Yeah, she told me...
+-I'm not talking to you.
+
+8
+00:32:33,318 --> 00:32:36,208
+I'm asking <i>her</i>.</i>
+
+9
+00:32:38,882 --> 00:32:46,013
+Feel free to blame me all you want... But not now. I'm honestly knackered. Can't take another earful.
+
+10
+00:32:46,013 --> 00:32:52,238
+Blimey... You're rude, I give you that!
+
+11
+00:32:52,238 --> 00:32:57,624
+If my daughter dared say that, I would've cut her tongue out!
+
+12
+00:32:57,624 --> 00:32:59,473
+Done?
+
+13
+00:33:01,891 --> 00:33:06,345
+This is my place, young lady. Never forget that.
+
+14
+00:33:06,345 --> 00:33:11,766
+No one dares come and go without my will.
+
+15
+00:33:11,766 --> 00:33:17,046
+If you've got a problem, be my guest and find somewhere else.
+
+16
+00:33:17,046 --> 00:33:18,893
+Mhm hmm... Anything else?
+
+17
+00:33:18,893 --> 00:33:23,342
+I'm dead on my feet... Need to get some rest. Could you please wrap it up a bit quicker?
+
+18
+00:33:23,342 --> 00:33:26,720
+Blimey, you're bigly balky!
+
+19
+00:33:26,720 --> 00:33:28,576
+Thank you.
+
+20
+00:33:31,265 --> 00:33:38,308
+Good Heavens! So insolent and uncouth! The blimmin' savage!
+
+21
+00:33:38,308 --> 00:33:41,089
+Well, what do I care... It's gonna be the end of you!
+
+22
+00:33:41,089 --> 00:33:45,238
+She's gone, Mum! It's okay, Mum!
+-Like, seriously, d'you think I'd care?
+
+23
+00:33:45,238 --> 00:33:46,559
+Shut up!
+
+24
+00:33:46,559 --> 00:33:49,860
+Back to work! C'mon!
+
+25
+00:33:51,346 --> 00:33:54,030
+What next? Clean the whole place?
+
+26
+00:33:54,030 --> 00:33:56,111
+I don't see why not!
+
+27
+00:00:00,000 --> 00:00:00,000
+Translation: Fajr Aurangzeb © 7th Sky
+

@@ -1,0 +1,284 @@
+1
+00:00:00,000 --> 00:00:00,000
+foo
+
+2
+00:05:00,710 --> 00:05:03,130
+Welcome home, dear.
+
+3
+00:05:07,610 --> 00:05:11,269
+Here. Come in.
+
+4
+00:05:12,090 --> 00:05:14,810
+Make yourself at home.
+
+5
+00:05:19,220 --> 00:05:21,059
+Dad...
+
+6
+00:05:30,320 --> 00:05:32,467
+Wait, Dad!
+
+7
+00:05:36,780 --> 00:05:38,616
+Dad...
+
+8
+00:05:48,180 --> 00:05:51,540
+Dad! Dad!
+
+9
+00:00:00,000 --> 00:00:00,000
+ADD
+
+10
+00:14:53,780 --> 00:14:55,283
+Here.
+
+11
+00:14:55,668 --> 00:14:58,483
+I've got this for you.
+
+12
+00:14:58,483 --> 00:15:03,930
+A dress just like this one. I'm sure you'd love it.
+
+13
+00:15:03,930 --> 00:15:07,025
+How do you know us so well?
+
+14
+00:15:07,025 --> 00:15:10,399
+I mean... First time we've met...
+
+15
+00:15:12,926 --> 00:15:18,818
+I don't know much about you...
+
+16
+00:15:18,818 --> 00:15:23,908
+But I've heard Mum and Dad talk about you.
+
+17
+00:15:26,200 --> 00:15:29,370
+Dad always talked about you...
+
+18
+00:15:29,370 --> 00:15:33,999
+Missed you...
+
+19
+00:15:33,999 --> 00:15:37,155
+All of you...
+
+20
+00:00:00,000 --> 00:00:00,000
+ADD
+
+21
+00:16:20,000 --> 00:16:22,042
+For you...
+
+22
+00:16:33,790 --> 00:16:37,364
+Keep it...
+
+23
+00:16:39,390 --> 00:16:42,864
+We don't need your gifts.
+
+24
+00:16:45,630 --> 00:16:50,071
+I'd brought it with love...
+
+25
+00:16:50,970 --> 00:16:54,704
+I would've been happy if...
+
+26
+00:16:54,704 --> 00:16:57,493
+You accepted it...
+
+27
+00:16:58,301 --> 00:17:05,107
+Well, if you care about <i>our</i> happiness, why don't you just leave? Why'd you even come here at all?</i>
+
+28
+00:00:00,000 --> 00:00:00,000
+ADD
+
+29
+00:26:23,780 --> 00:26:30,329
+I don't even think she's a Muslim! Just look at the book she's got...
+
+30
+00:26:30,329 --> 00:26:32,703
+Who?
+
+31
+00:26:34,512 --> 00:26:37,520
+Abdullah's daughter, of course!
+
+32
+00:26:37,520 --> 00:26:42,239
+What book? I don't get it.
+
+33
+00:26:42,780 --> 00:26:48,015
+Whatzit... 'Babel'?
+
+34
+00:26:49,114 --> 00:26:50,584
+Bible?
+
+35
+00:26:50,584 --> 00:26:53,509
+Yeah. That.
+
+36
+00:26:53,857 --> 00:26:59,224
+I've been restless since I saw it! Something's not right!
+
+37
+00:26:59,224 --> 00:27:02,307
+What's the big deal?
+
+38
+00:27:02,307 --> 00:27:08,390
+The Bible is the holy book revealed to Jesus Christ...
+
+39
+00:27:08,390 --> 00:27:12,287
+She probably got it from her mother.
+
+40
+00:27:13,664 --> 00:27:17,219
+But why does she have to keep it?
+
+41
+00:27:18,420 --> 00:27:21,940
+Why do you have to keep your mother's jewellery?
+
+42
+00:27:21,940 --> 00:27:25,744
+They're all that's left of her!
+
+43
+00:27:26,330 --> 00:27:29,396
+Well, maybe that's all that's left of <i>her</i> mother...</i>
+
+44
+00:27:29,396 --> 00:27:32,770
+You don't get it...
+
+45
+00:27:32,770 --> 00:27:35,250
+She's not one of us!
+
+46
+00:27:35,250 --> 00:27:40,645
+Just look at her name!
+
+47
+00:27:41,400 --> 00:27:47,815
+This... Ignorance is not really your fault, Sajida...
+
+48
+00:00:00,000 --> 00:00:00,000
+ADD
+
+49
+00:36:22,340 --> 00:36:23,979
+What?
+
+50
+00:36:25,055 --> 00:36:26,828
+Scared?
+
+51
+00:36:30,060 --> 00:36:33,384
+So it's <i>you</i>!</i>
+
+52
+00:36:33,880 --> 00:36:37,956
+Maria... The one they've all been talking about...
+
+53
+00:36:42,540 --> 00:36:48,797
+Gotta say... Until I saw you, I almost didn't believe you'd be so...
+
+54
+00:36:49,790 --> 00:36:52,052
+Gee, mate, I'm your cousin!
+
+55
+00:36:52,052 --> 00:36:53,955
+Sumair.
+
+56
+00:36:53,955 --> 00:36:56,676
+Ring a bell?
+
+57
+00:36:57,420 --> 00:36:58,909
+No.
+
+58
+00:36:59,529 --> 00:37:02,380
+Not even remotely.
+
+59
+00:37:02,380 --> 00:37:06,430
+I'm sure we can fix that...
+
+60
+00:37:06,430 --> 00:37:09,536
+You're staying here...
+
+61
+00:37:09,536 --> 00:37:14,493
+No way we won't see each other 'round here!
+
+62
+00:37:15,470 --> 00:37:22,164
+Well, guess what, I don't care about random lads on the street.
+
+63
+00:37:22,164 --> 00:37:27,681
+Which is where you're wrong... All the chicks do.
+
+64
+00:37:27,681 --> 00:37:33,635
+That's how you think... Who knows what <i>they</i> may be thinking...</i>
+
+65
+00:37:37,260 --> 00:37:40,934
+As lovely and captivating as yourself...
+
+66
+00:37:40,934 --> 00:37:43,070
+I like the way you talk.
+
+67
+00:37:43,070 --> 00:37:47,359
+Makes coming here... Worthwhile... Thank you...
+
+68
+00:37:50,340 --> 00:37:54,371
+Thank you for giving me a reason to stay here...
+
+69
+00:37:55,960 --> 00:37:58,080
+See ya...
+
+70
+00:37:58,080 --> 00:38:00,750
+Real soon...
+
+71
+00:38:01,000 --> 00:38:03,070
+Translation: Fajr Aurangzeb © 7th Sky
+
