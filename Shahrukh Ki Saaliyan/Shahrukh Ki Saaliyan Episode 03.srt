@@ -1,0 +1,660 @@
+1
+00:00:00,000 --> 00:00:00,000
+foo
+
+2
+00:00:00,000 --> 00:00:00,000
+What're you doing here? Got a job here?
+-Hey...
+
+3
+00:00:00,000 --> 00:00:00,000
+No, I'm designing a set for them...
+
+4
+00:00:00,000 --> 00:00:00,000
+Anyway, see you.
+-Good luck.
+
+5
+00:00:00,000 --> 00:00:00,000
+Thanks.
+
+6
+00:00:00,000 --> 00:00:00,000
+I'm gonna kill you!
+-Calm down...
+
+7
+00:00:00,000 --> 00:00:00,000
+Calm down my foot! I can live as your 'wife', but I can't take an attack on my credibility! They say I've stolen the design!
+
+8
+00:00:00,000 --> 00:00:00,000
+I'll pay you for it...
+-Oh you will? Really?
+
+9
+00:00:00,000 --> 00:00:00,000
+I'm gonna kill you for real! You blasted cheat! I don't wanna see you again, Shahrukh!
+-Hey! Easy! Calm down!
+
+10
+00:00:00,000 --> 00:00:00,000
+Good day... You're the Sarge, yes?
+
+11
+00:00:00,000 --> 00:00:00,000
+I knew it when I saw you!
+
+12
+00:00:00,000 --> 00:00:00,000
+We're Shahrukh's parents.
+-And I'm his landlord.
+
+13
+00:00:00,000 --> 00:00:00,000
+Please, come in...
+
+14
+00:00:00,000 --> 00:00:00,000
+They'll be here in a sec...
+
+15
+00:00:00,000 --> 00:00:00,000
+Hear the royal 'they'? He respects his tenant, I tell you!
+
+16
+00:00:00,000 --> 00:00:00,000
+So...
+
+17
+00:00:00,000 --> 00:00:00,000
+Shahrukh never mentioned you.
+
+18
+00:00:00,000 --> 00:00:00,000
+He doesn't need to... I mean, everyone's got parents...
+
+19
+00:00:00,000 --> 00:00:00,000
+Everything alright?
+-Well...
+
+20
+00:00:00,000 --> 00:00:00,000
+Shahrukh's getting engaged... So we thought we'd come here...
+
+21
+00:00:00,000 --> 00:00:00,000
+As in... He's marrying a second?
+
+22
+00:00:00,000 --> 00:00:00,000
+Excuse me?
+
+23
+00:00:00,000 --> 00:00:00,000
+I'm a professor... I forget some things... But I sure as anything can't forget my son's marriage!
+
+24
+00:00:00,000 --> 00:00:00,000
+What d'you mean? He's married someone here?
+
+25
+00:00:00,000 --> 00:00:00,000
+So... Haven't you seen his wife? Although, to be honest...
+
+26
+00:00:00,000 --> 00:00:00,000
+I haven't seen her either...
+
+27
+00:00:00,000 --> 00:00:00,000
+How are you so sure if you've never seen her?
+-Aye.
+
+28
+00:00:00,000 --> 00:00:00,000
+She likes to cover up so much... I doubt even Shahrukh's seen her!
+
+29
+00:00:00,000 --> 00:00:00,000
+Ehh?
+
+30
+00:00:00,000 --> 00:00:00,000
+Shahrukh!
+
+31
+00:00:00,000 --> 00:00:00,000
+Would you see who's here? Mum and Dad!
+
+32
+00:00:00,000 --> 00:00:00,000
+Hey...
+
+33
+00:00:00,000 --> 00:00:00,000
+You could've told me...
+
+34
+00:00:00,000 --> 00:00:00,000
+Aye... So you could hide your wife somewhere!
+
+35
+00:00:00,000 --> 00:00:00,000
+What?
+-You didn't tell them you got married?
+
+36
+00:00:00,000 --> 00:00:00,000
+Let's talk in my room?
+
+37
+00:00:00,000 --> 00:00:00,000
+First... Is it true? You married here?
+-Yeah?
+
+38
+00:00:00,000 --> 00:00:00,000
+Married...
+
+39
+00:00:00,000 --> 00:00:00,000
+Aye?
+
+40
+00:00:00,000 --> 00:00:00,000
+Tell them...
+
+41
+00:00:00,000 --> 00:00:00,000
+Aye...
+-Outta here...
+-But Dad! Wait!
+
+42
+00:00:00,000 --> 00:00:00,000
+I'd never forgive him if he were my son, but... It's up to you...
+
+43
+00:00:00,000 --> 00:00:00,000
+I'm never forgiving him!
+
+44
+00:00:00,000 --> 00:00:00,000
+But --
+-Your Dad is so upright!
+
+45
+00:00:00,000 --> 00:00:00,000
+Dunno about your Mum, but...
+
+46
+00:00:00,000 --> 00:00:00,000
+Aye, never...
+
+47
+00:00:00,000 --> 00:00:00,000
+Bless her too... Your parents are so upright! How could you even think of it?
+
+48
+00:00:00,000 --> 00:00:00,000
+I didn't! I -- Let's talk in my room, shall we?
+
+49
+00:00:00,000 --> 00:00:00,000
+No, we're outta here!
+-Let's hear him out...
+-Wait -- Dad!
+
+50
+00:00:00,000 --> 00:00:00,000
+Okay. What've you got?
+
+51
+00:00:00,000 --> 00:00:00,000
+No good, sir... If he had the guts, he wouldn't have hidden it in the first place...
+
+52
+00:00:00,000 --> 00:00:00,000
+Yeah... We're practically forcing you to say it because we dropped in!
+
+53
+00:00:00,000 --> 00:00:00,000
+I say, no point in listening to such a treacherous son...
+
+54
+00:00:00,000 --> 00:00:00,000
+Yeah, right...
+
+55
+00:00:00,000 --> 00:00:00,000
+He's betrayed us... Broken our trust...
+
+56
+00:00:00,000 --> 00:00:00,000
+It's no use... Come!
+
+57
+00:00:00,000 --> 00:00:00,000
+Hey! Dad! Wait! Mum! Lemme explain! Just gimme a minute!
+
+58
+00:00:00,000 --> 00:00:00,000
+Outta my way!
+
+59
+00:00:00,000 --> 00:00:00,000
+Such respect for your dad! Lovely jubly!
+
+60
+00:00:00,000 --> 00:00:00,000
+Learn summit from 'im.
+
+61
+00:00:00,000 --> 00:00:00,000
+Who was it, Dad?
+
+62
+00:00:00,000 --> 00:00:00,000
+That blighter Mahruk -- Shahrukh's parents... They didn't even know he's married!
+
+63
+00:00:00,000 --> 00:00:00,000
+Blimey...
+
+64
+00:00:00,000 --> 00:00:00,000
+Wonder if his wife's in the dark too...
+
+65
+00:00:00,000 --> 00:00:00,000
+She's who he's married, genius!
+
+66
+00:00:00,000 --> 00:00:00,000
+Shahrukh!
+
+67
+00:00:00,000 --> 00:00:00,000
+Ain't you too happy?
+
+68
+00:00:00,000 --> 00:00:00,000
+I'm sure it's because you've met Mum and Dad?
+
+69
+00:00:00,000 --> 00:00:00,000
+How d'you know he's happy?
+
+70
+00:00:00,000 --> 00:00:00,000
+Scientifically speaking... A quiet man is happy... But a quiet woman isn't.
+
+71
+00:00:00,000 --> 00:00:00,000
+A Sarge may retire from the force... But never from suspecting others!
+
+72
+00:00:00,000 --> 00:00:00,000
+I always had a feeling your Mum and Dad don't know you're married!
+
+73
+00:00:00,000 --> 00:00:00,000
+How?
+
+74
+00:00:00,000 --> 00:00:00,000
+The sources of journalists... And the informants of the force... Are always classified...
+
+75
+00:00:00,000 --> 00:00:00,000
+You're low on brains. Get a drip ASAP.
+
+76
+00:00:00,000 --> 00:00:00,000
+Where's your Glucose?
+
+77
+00:00:00,000 --> 00:00:00,000
+We had a domestic... She went to her parents'...
+
+78
+00:00:00,000 --> 00:00:00,000
+Mum, Dad, wife... That's three people you angered in one day! Way to go, mate!
+
+79
+00:00:00,000 --> 00:00:00,000
+A very productive day, if you ask me!
+
+80
+00:00:00,000 --> 00:00:00,000
+Productive? How -- ?
+
+81
+00:00:00,000 --> 00:00:00,000
+He got it.
+
+82
+00:00:00,000 --> 00:00:00,000
+You got to stay here with your wife... So come back... When she's back!
+
+83
+00:00:00,000 --> 00:00:00,000
+I -- I'm gonna need some time...
+
+84
+00:00:00,000 --> 00:00:00,000
+Scientifically sp --
+-The question ain't scientific. Wives ain't scientific.
+
+85
+00:00:00,000 --> 00:00:00,000
+Here's a tip. Take your wife to a mall. Anywhere you find a sale... Get her what she wants, and her anger's gonna cool down for half off.
+
+86
+00:00:00,000 --> 00:00:00,000
+By the way, Dad... As a retired husband... Why don't you give him some tips?
+
+87
+00:00:00,000 --> 00:00:00,000
+You think this is Wives 101?
+
+88
+00:00:00,000 --> 00:00:00,000
+Get going.
+
+89
+00:00:00,000 --> 00:00:00,000
+You were to stay here with your wife. Come back with her and I'll let you in. Get going!
+-But -- She -- Wait! Sir -- Hey!
+
+90
+00:00:00,000 --> 00:00:00,000
+Glucose, boyo! What's wrong with you?
+
+91
+00:00:00,000 --> 00:00:00,000
+You proved me a cheat! Ain't that enough?
+
+92
+00:00:00,000 --> 00:00:00,000
+Anoushay gave me her number for it, mate! Thanks to you, my love story's gonna reach its happy end! You're my hero!
+
+93
+00:00:00,000 --> 00:00:00,000
+Oh, can it... You know, a cop would be a better friend than you. You'd lose 99 times but gain something the 100th time.
+
+94
+00:00:00,000 --> 00:00:00,000
+That's stretching it... You'd gain more than a few times with me... Anyway... Shall we?
+
+95
+00:00:00,000 --> 00:00:00,000
+I don't wanna live with you.
+-What've you got? This road?
+
+96
+00:00:00,000 --> 00:00:00,000
+The Sarge won't let me in without you...
+
+97
+00:00:00,000 --> 00:00:00,000
+Hey!
+
+98
+00:00:00,000 --> 00:00:00,000
+Take your blimmin' veil!
+
+99
+00:00:00,000 --> 00:00:00,000
+I'm off!
+-But where?
+
+100
+00:00:00,000 --> 00:00:00,000
+Shut up!
+-Not cricket!
+
+101
+00:00:00,000 --> 00:00:00,000
+You off your head? Look -- Even the car --
+
+102
+00:00:00,000 --> 00:00:00,000
+Just started!
+
+103
+00:00:00,000 --> 00:00:00,000
+Blimey, that's some real ego! Well then! Have it your way! Get lost! Besides, who's gonna know who's behind the veil?
+
+104
+00:00:00,000 --> 00:00:00,000
+Jaysus...
+
+105
+00:00:00,000 --> 00:00:00,000
+Got something for me? Give it away in the Lord's name... He'd bless you!
+
+106
+00:00:00,000 --> 00:00:00,000
+Looks like He just did!
+
+107
+00:00:00,000 --> 00:00:00,000
+Wonder what you mean.
+
+108
+00:00:00,000 --> 00:00:00,000
+I can give you lots. Good food. As long as you do one thing...
+
+109
+00:00:00,000 --> 00:00:00,000
+That's wot they aw say... I daan't trust them na...
+
+110
+00:00:00,000 --> 00:00:00,000
+I'm different... Just -- Put this veil on and come with me...
+
+111
+00:00:00,000 --> 00:00:00,000
+What d'you mean? I don't get it...
+
+112
+00:00:00,000 --> 00:00:00,000
+Wot do ya mean? I daan't get it...
+
+113
+00:00:00,000 --> 00:00:00,000
+You don't need to... Just put this on...
+
+114
+00:00:00,000 --> 00:00:00,000
+Wot 're ya doin'?
+-Just put it on!
+
+115
+00:00:00,000 --> 00:00:00,000
+But why? Geroff me! 'Ey!
+-Just put it on... And come with me!
+
+116
+00:00:00,000 --> 00:00:00,000
+Why daan't ya put it on yourself? Blimmin' idiot!
+
+117
+00:00:00,000 --> 00:00:00,000
+Hey!
+
+118
+00:00:00,000 --> 00:00:00,000
+Give me Hammer and Tack me Syrup of Fig! Curse ya!
+
+119
+00:00:00,000 --> 00:00:00,000
+Gimme the veil!
+
+120
+00:00:00,000 --> 00:00:00,000
+Gotta say... Lovely gathering...
+
+121
+00:00:00,000 --> 00:00:00,000
+What's Katie thinking?
+
+122
+00:00:00,000 --> 00:00:00,000
+I wonder how we can get a look at his wife...
+
+123
+00:00:00,000 --> 00:00:00,000
+Me too...
+
+124
+00:00:00,000 --> 00:00:00,000
+Not cricket! How can you think what I'm thinking? Back to your own thoughts!
+
+125
+00:00:00,000 --> 00:00:00,000
+I heard she's a bit 'round the twist... Always washing her face!
+
+126
+00:00:00,000 --> 00:00:00,000
+What d'you care? You're a bit 'round the twist too...
+
+127
+00:00:00,000 --> 00:00:00,000
+I've got an idea.
+-Yeah?
+
+128
+00:00:00,000 --> 00:00:00,000
+I'll pull her veil off the moment she steps in.
+
+129
+00:00:00,000 --> 00:00:00,000
+Unveil every secret!
+
+130
+00:00:00,000 --> 00:00:00,000
+Lovely...
+
+131
+00:00:00,000 --> 00:00:00,000
+Where's she, by the way?
+
+132
+00:00:00,000 --> 00:00:00,000
+Had a domestic and left... And Shahrukh's gone to make up to her.
+
+133
+00:00:00,000 --> 00:00:00,000
+Who's Shahrukh?
+
+134
+00:00:00,000 --> 00:00:00,000
+Blimey, Anoushay... You don't pay attention to anything, do you?
+
+135
+00:00:00,000 --> 00:00:00,000
+I mean -- She doesn't even know our tenant's name!
+
+136
+00:00:00,000 --> 00:00:00,000
+Christ knows what she's so busy with...
+
+137
+00:00:00,000 --> 00:00:00,000
+What's the surprise about? He's our new tenant.
+
+138
+00:00:00,000 --> 00:00:00,000
+He?
+
+139
+00:00:00,000 --> 00:00:00,000
+But -- I saw someone else in the morning!
+
+140
+00:00:00,000 --> 00:00:00,000
+I'm sure you saw his friend. He's here sometimes.
+
+141
+00:00:00,000 --> 00:00:00,000
+His wife's always in her veil by the way. You saw her?
+
+142
+00:00:00,000 --> 00:00:00,000
+What?
+
+143
+00:00:00,000 --> 00:00:00,000
+He's married?
+
+144
+00:00:00,000 --> 00:00:00,000
+Yeah.
+
+145
+00:00:00,000 --> 00:00:00,000
+I tried my best, Sarge... But... She won't listen...
+
+146
+00:00:00,000 --> 00:00:00,000
+You don't just try... You gotta beg!
+
+147
+00:00:00,000 --> 00:00:00,000
+If you want to control her... Say you're marrying someone else!
+
+148
+00:00:00,000 --> 00:00:00,000
+She'll do as you say!
+
+149
+00:00:00,000 --> 00:00:00,000
+I tried, but she won't cover up!
+
+150
+00:00:00,000 --> 00:00:00,000
+I expected better.
+
+151
+00:00:00,000 --> 00:00:00,000
+What, having fewer rows?
+-No.
+
+152
+00:00:00,000 --> 00:00:00,000
+You've got a wise girl right in front of you, but you won't even ask her!
+
+153
+00:00:00,000 --> 00:00:00,000
+Aye. Allow me.
+
+154
+00:00:00,000 --> 00:00:00,000
+I meant me...
+
+155
+00:00:00,000 --> 00:00:00,000
+Big words. Remember how Dad always said he was an honest cop?
+
+156
+00:00:00,000 --> 00:00:00,000
+Shut up!
+
+157
+00:00:00,000 --> 00:00:00,000
+You don't leave your wife - or jewels - at your in-laws'. Or you won't get them back.
+
+158
+00:00:00,000 --> 00:00:00,000
+Now go, get her.
+
+159
+00:00:00,000 --> 00:00:00,000
+Translation: Fajr Aurangzeb © 7th Sky Entertainment
+
