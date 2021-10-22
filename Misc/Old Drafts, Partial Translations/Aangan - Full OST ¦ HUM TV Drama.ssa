@@ -1,0 +1,58 @@
+[Script Info]
+; Subtitle script generated with DivXLand Media Subtitler
+; http://www.divxland.org/media-subtitler/
+Title: <untitled>
+Original Script: <unknown>
+ScriptType: v4.00
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Tahoma,28,65535,65535,65535,0,0,0,1,1,1,2,30,30,30,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:03.42,0:00:14.11,Default,NTP,0000,0000,0000,!Effect,{\i1}My eyes are filled with nectar{\i0}
+Dialogue: Marked=0,0:00:08.62,0:00:10.55,Default,NTP,0000,0000,0000,!Effect,What will you do after your F.A.?
+Dialogue: Marked=0,0:00:10.55,0:00:11.59,Default,NTP,0000,0000,0000,!Effect,B.A.
+Dialogue: Marked=0,0:00:12.32,0:00:12.93,Default,NTP,0000,0000,0000,!Effect,And then?
+Dialogue: Marked=0,0:00:13.37,0:00:14.11,Default,NTP,0000,0000,0000,!Effect,A job.
+Dialogue: Marked=0,0:00:17.37,0:00:18.20,Default,NTP,0000,0000,0000,!Effect,That's it?
+Dialogue: Marked=0,0:00:18.43,0:00:19.60,Default,NTP,0000,0000,0000,!Effect,Nothing else?
+Dialogue: Marked=0,0:00:20.58,0:00:22.40,Default,NTP,0000,0000,0000,!Effect,Hand over my first paycheck to Mum and --
+Dialogue: Marked=0,0:00:22.47,0:00:24.97,Default,NTP,0000,0000,0000,!Effect,Your tea's getting cold.
+Dialogue: Marked=0,0:00:24.90,0:00:30.26,Default,NTP,0000,0000,0000,!Effect,{\i1}I've lost myself{\i0}
+Dialogue: Marked=0,0:00:30.45,0:00:36.29,Default,NTP,0000,0000,0000,!Effect,{\i1}The shadow of love falls on the courtyard of my mind{\i0}
+Dialogue: Marked=0,0:00:36.29,0:00:41.82,Default,NTP,0000,0000,0000,!Effect,{\i1}These days and nights don't while away{\i0}
+Dialogue: Marked=0,0:00:41.82,0:00:47.20,Default,NTP,0000,0000,0000,!Effect,{\i1}For you have robbed me of all serenity{\i0}
+Dialogue: Marked=0,0:00:44.98,0:00:47.51,Default,NTP,0000,0000,0000,!Effect,Your love changes like the seasons!
+Dialogue: Marked=0,0:00:47.53,0:00:52.48,Default,NTP,0000,0000,0000,!Effect,{\i1}Thus I sacrifice myself before you{\i0}
+Dialogue: Marked=0,0:00:49.74,0:00:51.54,Default,NTP,0000,0000,0000,!Effect,I have begun to despise love!
+Dialogue: Marked=0,0:00:51.54,0:00:52.80,Default,NTP,0000,0000,0000,!Effect,Not love; you despise me.
+Dialogue: Marked=0,0:00:52.51,0:00:55.15,Default,NTP,0000,0000,0000,!Effect,{\i1}My mind pirouettes, my body pirouettes{\i0}
+Dialogue: Marked=0,0:00:55.15,0:00:57.89,Default,NTP,0000,0000,0000,!Effect,{\i1}In the guise of love, woe pirouettes{\i0}
+Dialogue: Marked=0,0:00:57.89,0:01:00.70,Default,NTP,0000,0000,0000,!Effect,{\i1}He who falls in love pirouettes every moment{\i0}
+Dialogue: Marked=0,0:01:00.70,0:01:03.60,Default,NTP,0000,0000,0000,!Effect,{\i1}He who falls in love pirouettes every moment{\i0}
+Dialogue: Marked=0,0:01:03.60,0:01:06.29,Default,NTP,0000,0000,0000,!Effect,{\i1}My body pirouettes{\i0}
+Dialogue: Marked=0,0:01:06.29,0:01:09.43,Default,NTP,0000,0000,0000,!Effect,{\i1}My mind pirouettes{\i0}
+Dialogue: Marked=0,0:01:09.43,0:01:11.90,Default,NTP,0000,0000,0000,!Effect,{\i1}My body pirouettes{\i0}
+Dialogue: Marked=0,0:01:11.90,0:01:14.86,Default,NTP,0000,0000,0000,!Effect,{\i1}My mind pirouettes{\i0}
+Dialogue: Marked=0,0:01:13.61,0:01:16.96,Default,NTP,0000,0000,0000,!Effect,Behold! With what artful beauty the sorrowful secret conceals itself
+Dialogue: Marked=0,0:01:16.99,0:01:20.75,Default,NTP,0000,0000,0000,!Effect,The arrow has struck my heart, behind the curtain the bowman conceals himself!
+Dialogue: Marked=0,0:01:20.75,0:01:26.26,Default,NTP,0000,0000,0000,!Effect,{\i1}These eyes speak the truth{\i0}
+Dialogue: Marked=0,0:01:26.26,0:01:31.63,Default,NTP,0000,0000,0000,!Effect,{\i1}These eyes have never seen someone like you{\i0}
+Dialogue: Marked=0,0:01:32.19,0:01:37.53,Default,NTP,0000,0000,0000,!Effect,{\i1}These eyes speak the truth{\i0}
+Dialogue: Marked=0,0:01:37.53,0:01:42.33,Default,NTP,0000,0000,0000,!Effect,{\i1}These eyes have never seen someone like you{\i0}
+Dialogue: Marked=0,0:01:42.33,0:01:47.72,Default,NTP,0000,0000,0000,!Effect,{\i1}Days and nights I have spent wide awake{\i0}
+Dialogue: Marked=0,0:01:47.72,0:01:54.28,Default,NTP,0000,0000,0000,!Effect,{\i1}For separation from you has devours me like poison{\i0}
+Dialogue: Marked=0,0:01:54.28,0:01:59.94,Default,NTP,0000,0000,0000,!Effect,{\i1}Thus I sacrifice myself before you{\i0}
+Dialogue: Marked=0,0:01:59.94,0:02:04.86,Default,NTP,0000,0000,0000,!Effect,{\i1}Thus I sacrifice myself before you{\i0}
+Dialogue: Marked=0,0:02:02.18,0:02:03.70,Default,NTP,0000,0000,0000,!Effect,I have never loved you!
+Dialogue: Marked=0,0:02:03.81,0:02:05.15,Default,NTP,0000,0000,0000,!Effect,But I have!
+Dialogue: Marked=0,0:02:04.86,0:02:07.70,Default,NTP,0000,0000,0000,!Effect,{\i1}My mind pirouettes, my body pirouettes{\i0}
+Dialogue: Marked=0,0:02:07.70,0:02:10.46,Default,NTP,0000,0000,0000,!Effect,{\i1}In the guise of love, woe pirouettes{\i0}
+Dialogue: Marked=0,0:02:10.46,0:02:13.32,Default,NTP,0000,0000,0000,!Effect,{\i1}He who falls in love pirouettes every moment{\i0}
+Dialogue: Marked=0,0:02:13.32,0:02:16.23,Default,NTP,0000,0000,0000,!Effect,{\i1}He who falls in love pirouettes every moment{\i0}
+Dialogue: Marked=0,0:02:16.43,0:02:21.98,Default,NTP,0000,0000,0000,!Effect,{\i1}I've lost myself{\i0}
+Dialogue: Marked=0,0:02:21.98,0:02:27.43,Default,NTP,0000,0000,0000,!Effect,{\i1}The shadow of love falls on the courtyard of my mind{\i0}
+Dialogue: Marked=0,0:02:27.43,0:02:33.20,Default,NTP,0000,0000,0000,!Effect,{\i1}I've lost myself{\i0}
+Dialogue: Marked=0,0:02:33.20,0:02:38.79,Default,NTP,0000,0000,0000,!Effect,{\i1}The shadow of love falls on the courtyard of my mind{\i0}
