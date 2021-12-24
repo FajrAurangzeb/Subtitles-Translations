@@ -64,7 +64,7 @@ For my sake...
 
 17
 00:00:00,000 --> 00:00:00,000
-Don't go anywhere...
+Don't leave me in here...
 
 18
 00:00:00,000 --> 00:00:00,000
@@ -596,7 +596,7 @@ Yeah...
 
 150
 00:00:00,000 --> 00:00:00,000
-She's been Gulrez's fiancée for years.
+She's been Gulrez's fiancÃ©e for years.
 
 151
 00:00:00,000 --> 00:00:00,000
@@ -916,5 +916,5 @@ If you see him tormented, crying, just think he's cursing.
 
 230
 00:00:00,000 --> 00:00:00,000
-Translation: Aditya Misra © GEO TV
+Translation: Aditya Misra Â© GEO TV
 

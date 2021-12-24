@@ -636,75 +636,75 @@ She doesn't love Gulrez.
 <i>That those we hold dear to us are the ones who break our heart</i>
 
 160
-00:14:29,450 --> 00:14:31,666
+00:00:00,000 --> 00:00:00,000
 The world's ending, is it?
 
 161
-00:14:34,581 --> 00:14:36,683
+00:00:00,000 --> 00:00:00,000
 Had a nightmare?
 
 162
-00:14:37,873 --> 00:14:39,062
+00:00:00,000 --> 00:00:00,000
 What, then?
 
 163
-00:14:39,062 --> 00:14:42,315
+00:00:00,000 --> 00:00:00,000
 The King's gambit, Maheen!
 
 164
-00:14:42,315 --> 00:14:44,426
+00:00:00,000 --> 00:00:00,000
 What do you mean?
 
 165
-00:14:44,426 --> 00:14:45,615
+00:00:00,000 --> 00:00:00,000
 Who did it?
 
 166
-00:14:45,615 --> 00:14:46,906
+00:00:00,000 --> 00:00:00,000
 Waqar.
 
 167
-00:14:49,303 --> 00:14:49,994
+00:00:00,000 --> 00:00:00,000
 That's what you woke me up for?
 
 168
-00:14:49,994 --> 00:14:51,944
+00:00:00,000 --> 00:00:00,000
 C'mon, now, back to bed!
 
 169
-00:14:51,944 --> 00:14:53,773
+00:00:00,000 --> 00:00:00,000
 Not another word about him!
 
 170
-00:14:53,773 --> 00:14:55,500
+00:00:00,000 --> 00:00:00,000
 As if you can sleep now!
 
 171
-00:14:55,500 --> 00:14:56,313
+00:00:00,000 --> 00:00:00,000
 I can!
 
 172
-00:14:56,313 --> 00:14:58,634
+00:00:00,000 --> 00:00:00,000
 No need to tell me anything about him.
 
 173
-00:14:58,634 --> 00:15:03,064
+00:00:00,000 --> 00:00:00,000
 Who he meets, what he does, which gambit he plays -- I want none of it!
 
 174
-00:15:03,064 --> 00:15:04,731
+00:00:00,000 --> 00:00:00,000
 Really?
 
 175
-00:15:05,526 --> 00:15:07,467
+00:00:00,000 --> 00:00:00,000
 As if I'm lying!
 
 176
-00:15:07,467 --> 00:15:09,287
+00:00:00,000 --> 00:00:00,000
 I'll take my leave, then!
 
 177
-00:15:09,287 --> 00:15:11,094
+00:00:00,000 --> 00:00:00,000
 Please!
 
 178
@@ -728,11 +728,11 @@ One of them French girls?
 Who?
 
 183
-00:15:41,311 --> 00:15:43,465
+00:00:00,000 --> 00:00:00,000
 You'd die where you stand --
 
 184
-00:15:43,465 --> 00:15:45,701
+00:00:00,000 --> 00:00:00,000
 I mean -- where you sit -- if you heard it.
 
 185
@@ -760,11 +760,11 @@ I've heard your reply.
 Reply?
 
 191
-00:16:03,509 --> 00:16:04,840
+00:00:00,000 --> 00:00:00,000
 What do you mean, Fajr?
 
 192
-00:16:04,840 --> 00:16:07,172
+00:00:00,000 --> 00:00:00,000
 Mum's the word!
 
 193
@@ -1008,7 +1008,7 @@ But you don't know that it's just a wish.
 I haven't insisted that it be fulfilled.
 
 253
-00:21:49,665 --> 00:21:51,230
+00:00:00,000 --> 00:00:00,000
 Splendid!
 
 254
@@ -1080,7 +1080,7 @@ She doesn't have the foggiest.
 How do you know?
 
 271
-00:22:54,398 --> 00:22:58,929
+00:00:00,000 --> 00:00:00,000
 Turn back before this very instant if you value your life!
 
 272
@@ -1184,11 +1184,11 @@ Anything, really.
 But please, don't say that I was kidding.
 
 297
-00:24:48,152 --> 00:24:52,409
+00:00:00,000 --> 00:00:00,000
 Feelings can be locked away...
 
 298
-00:24:52,409 --> 00:24:54,831
+00:00:00,000 --> 00:00:00,000
 But not the truth, Uncle.
 
 299
@@ -1931,5 +1931,5 @@ Waqar Ahmed.
 
 483
 00:00:00,000 --> 00:00:00,000
-Translation: Aditya Misra © GEO TV
+Translation: Aditya Misra Â© GEO TV
 

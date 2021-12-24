@@ -1,388 +1,1747 @@
 1
-00:00:19,439 --> 00:00:20,579
+00:00:00,000 --> 00:00:00,000
 Will you come?
 
 2
-00:00:21,540 --> 00:00:22,929
+00:00:00,000 --> 00:00:00,000
 Tell me honestly.
 
 3
-00:00:23,420 --> 00:00:25,350
+00:00:00,000 --> 00:00:00,000
 You won't betray me, would you?
 
 4
-00:00:27,373 --> 00:00:28,403
+00:00:00,000 --> 00:00:00,000
 Done?
 
 5
-00:00:42,204 --> 00:00:43,374
+00:00:00,000 --> 00:00:00,000
 You'll see
 
 6
-00:00:43,603 --> 00:00:46,445
+00:00:00,000 --> 00:00:00,000
 I rise in stature the day you don't start.
 
 7
-00:00:46,704 --> 00:00:49,653
+00:00:00,000 --> 00:00:00,000
 Everything that had been planned for the day get scrapped.
 
 8
-00:01:16,251 --> 00:01:17,871
+00:00:00,000 --> 00:00:00,000
 What are you doing?
 
 9
-00:01:18,881 --> 00:01:20,652
+00:00:00,000 --> 00:00:00,000
 I thought I'd find out
 
 10
-00:01:20,901 --> 00:01:22,881
+00:00:00,000 --> 00:00:00,000
 How today's going to go.
 
 11
-00:01:24,421 --> 00:01:26,522
+00:00:00,000 --> 00:00:00,000
 Don't go to the office today.
 
 12
-00:01:29,356 --> 00:01:31,376
+00:00:00,000 --> 00:00:00,000
 This is what's wrong with you folks.
 
 13
-00:01:32,656 --> 00:01:35,137
+00:00:00,000 --> 00:00:00,000
 You take a leave in moments of merriment,
 
 14
-00:01:35,227 --> 00:01:37,337
+00:00:00,000 --> 00:00:00,000
 As you do in moments of grief.
 
 15
-00:01:41,187 --> 00:01:44,687
+00:00:00,000 --> 00:00:00,000
 This, Neelam, is well and truly submitting to grief on your knees.
 
 16
-00:01:46,380 --> 00:01:47,850
+00:00:00,000 --> 00:00:00,000
 Think about it -
 
 17
-00:01:48,629 --> 00:01:53,899
+00:00:00,000 --> 00:00:00,000
 I couldn't get her, but got the grief of not getting her.
 
 18
-00:01:54,049 --> 00:01:55,918
+00:00:00,000 --> 00:00:00,000
 So what's the price of this grief?
 
 19
-00:01:57,789 --> 00:02:00,259
+00:00:00,000 --> 00:00:00,000
 Now, would a Scrooge such as myself
 
 20
-00:02:01,010 --> 00:02:03,909
+00:00:00,000 --> 00:00:00,000
 Let so valuable a sorrow go by him?
 
 21
-00:02:11,940 --> 00:02:13,501
+00:00:00,000 --> 00:00:00,000
 Shall I go now?
 
 22
-00:02:20,371 --> 00:02:21,701
+00:00:00,000 --> 00:00:00,000
 Go.
 
 23
-00:02:25,430 --> 00:02:27,461
+00:00:00,000 --> 00:00:00,000
 Shall I start the Foxy?
 
 24
-00:02:33,440 --> 00:02:34,850
+00:00:00,000 --> 00:00:00,000
 Start it.
 
 25
 00:00:00,000 --> 00:00:00,000
-ADD HERE
+Dad?
 
 26
 00:00:00,000 --> 00:00:00,000
-Come with me.
+What happened?
 
 27
 00:00:00,000 --> 00:00:00,000
-You're angry with me, aren't you?
+I'm your mother, Jiya...
 
 28
 00:00:00,000 --> 00:00:00,000
-Not at all.
+Your mother who, by the time you get to hear this,
 
 29
 00:00:00,000 --> 00:00:00,000
-I'm very happy.
+Is quite possibly no longer around...
 
 30
 00:00:00,000 --> 00:00:00,000
-You must be eager to slap me on my face.
+The doctors are trying their best,
 
 31
 00:00:00,000 --> 00:00:00,000
-Do you know why I've brought you to this secluded spot?
+But the more they try,
 
 32
 00:00:00,000 --> 00:00:00,000
-So you can slap me hard.
+The more I pray
 
 33
 00:00:00,000 --> 00:00:00,000
-You will be able to vent your anger,
+They fail...
 
 34
 00:00:00,000 --> 00:00:00,000
-Leaving my esteem untarnished.
+After I'm gone, I know
 
 35
-00:18:59,938 --> 00:19:02,028
-I know I've hurt you.
+00:00:00,000 --> 00:00:00,000
+You're gonna face the disgrace I did...
 
 36
-00:19:03,029 --> 00:19:06,949
-I also know that the curse of a broken heart is baneful.
+00:00:00,000 --> 00:00:00,000
+Who knows,
 
 37
-00:19:10,460 --> 00:19:12,710
-I'm not stopping you from cursing me,
+00:00:00,000 --> 00:00:00,000
+By the time you find out the truth,
 
 38
-00:19:14,000 --> 00:19:16,141
-But I'm innocent, Gulrez...
+00:00:00,000 --> 00:00:00,000
+You may have begun to hate me too...
 
 39
-00:19:19,490 --> 00:19:22,980
-I've played life like a cricket match in my ignorance.
+00:00:00,000 --> 00:00:00,000
+The truth, my little doll...
 
 40
-00:19:23,631 --> 00:19:25,840
-You're not bad at winning me a match,
+00:00:00,000 --> 00:00:00,000
+Is... I'm innocent...
 
 41
-00:19:26,771 --> 00:19:28,701
-But my heart said
+00:00:00,000 --> 00:00:00,000
+Aurangzeb... My friend from college...
 
 42
-00:19:28,701 --> 00:19:31,041
-That he should be the one to lead me to victory.
+00:00:00,000 --> 00:00:00,000
+I always wanted to marry him.
 
 43
-00:19:34,121 --> 00:19:35,321
-So,
+00:00:00,000 --> 00:00:00,000
+Always, as in...
 
 44
-00:19:35,792 --> 00:19:37,712
-I've not picked you for my team.
+00:00:00,000 --> 00:00:00,000
+When your Dad was nowhere in the picture.
 
 45
-00:19:40,130 --> 00:19:41,350
-Now,
+00:00:00,000 --> 00:00:00,000
+I couldn't get Aurangzeb... So...
 
 46
-00:19:42,491 --> 00:19:46,100
-Do you forgive me or will you slap me?
+00:00:00,000 --> 00:00:00,000
+Like every other girl in such a situation, I gave in to my parents' will.
 
 47
-00:19:55,732 --> 00:19:57,241
-Why are you smiling?
+00:00:00,000 --> 00:00:00,000
+That's how I got married to your Dad.
 
 48
-00:19:58,432 --> 00:20:00,602
-Who apologises in love?
+00:00:00,000 --> 00:00:00,000
+Come out.
 
 49
-00:20:01,002 --> 00:20:03,102
-You never apologise
+00:00:00,000 --> 00:00:00,000
+Why?
 
 50
-00:20:03,102 --> 00:20:05,262
-To one you've never loved.
+00:00:00,000 --> 00:00:00,000
+She's here to see you.
 
 51
-00:20:07,035 --> 00:20:07,925
-And --
+00:00:00,000 --> 00:00:00,000
+But why?
 
 52
-00:20:08,275 --> 00:20:11,245
-About all your insult? What about that?
+00:00:00,000 --> 00:00:00,000
+She says she shouldn't have created a scene before everyone.
 
 53
-00:20:11,375 --> 00:20:13,025
-I'd written you a letter
+00:00:00,000 --> 00:00:00,000
+What should she have done?
 
 54
-00:20:14,125 --> 00:20:16,195
-That you never give me woe,
+00:00:00,000 --> 00:00:00,000
+What can I say? Why don't you ask her yourself?
 
 55
-00:20:19,876 --> 00:20:21,676
-For I can endure it.
+00:00:00,000 --> 00:00:00,000
+She's blocking the road.
 
 56
-00:20:26,371 --> 00:20:28,541
-I've hurt you so much --
+00:00:00,000 --> 00:00:00,000
+Tell her to move the car aside.
 
 57
-00:20:29,645 --> 00:20:30,865
-So bad...
+00:00:00,000 --> 00:00:00,000
+She won't.
 
 58
-00:20:32,995 --> 00:20:34,695
-Please forgive me...
+00:00:00,000 --> 00:00:00,000
+You gotta get off
 
 59
-00:20:36,565 --> 00:20:37,915
-Again?
+00:00:00,000 --> 00:00:00,000
+And listen to her.
 
 60
-00:20:38,485 --> 00:20:42,516
-I feel I'd not be able to meet your gaze if I'm married to anyone else...
+00:00:00,000 --> 00:00:00,000
+I ain't talking to her.
 
 61
-00:20:43,304 --> 00:20:44,994
-What do you mean, 'anyone else?'
+00:00:00,000 --> 00:00:00,000
+What? You gonna curse her now?
 
 62
-00:20:46,954 --> 00:20:48,794
-You're talking about Waqar.
+00:00:00,000 --> 00:00:00,000
+Like my type could curse anyone!
 
 63
-00:20:51,245 --> 00:20:52,654
-Why not name him?
+00:00:00,000 --> 00:00:00,000
+I can swear if you want.
 
 64
-00:20:57,280 --> 00:20:59,100
-Actually, I've not really decided...
+00:00:00,000 --> 00:00:00,000
+He ain't coming.
 
 65
-00:21:00,481 --> 00:21:02,880
-I just feel -- It could be him...
+00:00:00,000 --> 00:00:00,000
+Why?
 
 66
-00:21:07,772 --> 00:21:10,122
-You glunterpeck! He's an all-rounder!
+00:00:00,000 --> 00:00:00,000
+Says he won't talk.
 
 67
-00:21:12,262 --> 00:21:14,952
-Your team won't do without him.
+00:00:00,000 --> 00:00:00,000
+How dare he?
+-Hold your horses, Maheen! Let him have his way here!
 
 68
-00:21:18,343 --> 00:21:19,672
-Let's go out to lunch.
+00:00:00,000 --> 00:00:00,000
+You're a worse politician than Nano... Left the Government and joined the Opposition in a sec!
 
 69
-00:21:20,637 --> 00:21:21,578
-Lunch?
+00:00:00,000 --> 00:00:00,000
+Well, guess what, Gulrez is now the Opposition. Because you toppled his Government last night.
 
 70
-00:21:21,578 --> 00:21:25,118
-I thought I'd give you a treat from the gang's fund if you didn't slap me.
+00:00:00,000 --> 00:00:00,000
+On your feet.
 
 71
-00:21:25,166 --> 00:21:26,258
-Come!
+00:00:00,000 --> 00:00:00,000
+C'mon.
 
 72
-00:21:51,367 --> 00:21:52,377
-Right here, my friends!
+00:00:00,000 --> 00:00:00,000
+Double time.
 
 73
-00:21:52,377 --> 00:21:53,957
-Enjoy yourselves!
+00:00:00,000 --> 00:00:00,000
+Get in the Foxy and stay on our tail!
 
 74
-00:21:55,258 --> 00:21:58,097
-What's this? 'Enjoy ourselves' on these bleeding 200 Rupees? Keep them!
+00:00:00,000 --> 00:00:00,000
+And you...
 
 75
-00:21:58,328 --> 00:21:59,779
-How much more do you want?
+00:00:00,000 --> 00:00:00,000
+Drive!
 
 76
-00:21:59,779 --> 00:22:01,268
-500.
+00:00:00,000 --> 00:00:00,000
+Will it start?
 
 77
-00:22:01,978 --> 00:22:05,698
-I've called you 'friends.' You folks should be ashamed of yourselves, demanding money like that!
+00:00:00,000 --> 00:00:00,000
+Yeah.
 
 78
-00:22:05,698 --> 00:22:06,968
-Get lost!
+00:00:00,000 --> 00:00:00,000
+Why not?
 
 79
-00:22:10,170 --> 00:22:11,720
-Where did you get this Foxy?
+00:00:00,000 --> 00:00:00,000
+We were living quite a happy life
 
 80
-00:22:11,724 --> 00:22:13,284
-Gulrez gave it to me.
+00:00:00,000 --> 00:00:00,000
+When, seven years later,
 
 81
-00:22:14,615 --> 00:22:16,204
-Gulrez gave you?
+00:00:00,000 --> 00:00:00,000
+A ghost from the past
 
 82
 00:00:00,000 --> 00:00:00,000
-Where's Gulrez?
+Came knocking...
 
 83
 00:00:00,000 --> 00:00:00,000
-With Maheen.
+I was startled to see him,
 
 84
 00:00:00,000 --> 00:00:00,000
-What?
+But he'd grown too close to your Dad.
 
 85
 00:00:00,000 --> 00:00:00,000
-Not 'what,' ask 'why!'
+And I had been so stupid
 
 86
 00:00:00,000 --> 00:00:00,000
-Yes, why has he gone with her?
+To do as I'd been told
 
 87
 00:00:00,000 --> 00:00:00,000
-What are they up to this time?
+And hide my past
 
 88
 00:00:00,000 --> 00:00:00,000
-The blighter shouldn't reply to a greeting of hers after everything that happened last night!
+From my husband.
 
 89
 00:00:00,000 --> 00:00:00,000
-He didn't reply to her greeting,
+He'd come to our place regularly.
 
 90
 00:00:00,000 --> 00:00:00,000
-For she never greeted him.
+He never mentioned anything about our past in the beginning,
 
 91
 00:00:00,000 --> 00:00:00,000
-Stopped the car, bossed around, and took him with her.
+But...
 
 92
 00:00:00,000 --> 00:00:00,000
-Where did she take him?
+Things changed some 8 or 10 months later
 
 93
 00:00:00,000 --> 00:00:00,000
-Somewhere she could apologise, and Gulrez would promptly say, 'I forgive you!'
+When he begun to remind me
 
 94
 00:00:00,000 --> 00:00:00,000
-Oh.
+Of our solemn oaths as unsuccessful lovers back in the day...
 
 95
 00:00:00,000 --> 00:00:00,000
-So now she'll apologise to him.
+I put on my guard,
 
 96
 00:00:00,000 --> 00:00:00,000
-ADD HERE
+But could never muster the courage to tell your Dad...
 
 97
 00:00:00,000 --> 00:00:00,000
-Translation: Aditya Misra © GEO TV
+Then, one day, he came to see me when your Dad was not around...
+
+98
+00:00:00,000 --> 00:00:00,000
+I kicked him out.
+
+99
+00:00:00,000 --> 00:00:00,000
+But, after a few days,
+
+100
+00:00:00,000 --> 00:00:00,000
+He broke in again.
+
+101
+00:00:00,000 --> 00:00:00,000
+Unfortunately for me,
+
+102
+00:00:00,000 --> 00:00:00,000
+Your Dad was not around again.
+
+103
+00:00:00,000 --> 00:00:00,000
+<i>But he was furious.</i>
+
+104
+00:00:00,000 --> 00:00:00,000
+As if he had a right over me!
+
+105
+00:00:00,000 --> 00:00:00,000
+He showed me my old letters
+
+106
+00:00:00,000 --> 00:00:00,000
+And tried to blackmail me.
+
+107
+00:00:00,000 --> 00:00:00,000
+I said I didn't care,
+
+108
+00:00:00,000 --> 00:00:00,000
+And I wouldn't hesitate to tell my husband about everything if I had to.
+
+109
+00:00:00,000 --> 00:00:00,000
+That's when he lost it.
+
+110
+00:00:00,000 --> 00:00:00,000
+He seized my hand.
+
+111
+00:00:00,000 --> 00:00:00,000
+I pushed him away and struck him with a vase,
+
+112
+00:00:00,000 --> 00:00:00,000
+But by then, a car had stopped outside...
+
+113
+00:00:00,000 --> 00:00:00,000
+He made a run for it, rubbing his face,
+
+114
+00:00:00,000 --> 00:00:00,000
+But - curse my luck -
+
+115
+00:00:00,000 --> 00:00:00,000
+Your Dad had seen him...
+
+116
+00:00:00,000 --> 00:00:00,000
+C'mon! Back to it!
+
+117
+00:00:00,000 --> 00:00:00,000
+Quit bummin' around!
+
+118
+00:00:00,000 --> 00:00:00,000
+How much further are we going?
+
+119
+00:00:00,000 --> 00:00:00,000
+Lemme catch my breath!
+
+120
+00:00:00,000 --> 00:00:00,000
+Going through it all... It was almost like... I lost my mind...
+
+121
+00:00:00,000 --> 00:00:00,000
+I could never imagine Aurangzeb doing any of it... Not least to me!
+
+122
+00:00:00,000 --> 00:00:00,000
+I was startled to see your Dad walk in.
+
+123
+00:00:00,000 --> 00:00:00,000
+It felt like being caught red-handed.
+
+124
+00:00:00,000 --> 00:00:00,000
+He asked questions
+
+125
+00:00:00,000 --> 00:00:00,000
+And I said whatever I came up with.
+
+126
+00:00:00,000 --> 00:00:00,000
+That was the moment
+
+127
+00:00:00,000 --> 00:00:00,000
+That ruined my life
+
+128
+00:00:00,000 --> 00:00:00,000
+Forever.
+
+129
+00:00:00,000 --> 00:00:00,000
+By the time I came to,
+
+130
+00:00:00,000 --> 00:00:00,000
+I was at my parents'.
+
+131
+00:00:00,000 --> 00:00:00,000
+Your Dad had begun investigating...
+
+132
+00:00:00,000 --> 00:00:00,000
+And - curse my luck -
+
+133
+00:00:00,000 --> 00:00:00,000
+The man he went to
+
+134
+00:00:00,000 --> 00:00:00,000
+Was none other than
+
+135
+00:00:00,000 --> 00:00:00,000
+Aurangzeb.
+
+136
+00:00:00,000 --> 00:00:00,000
+To cover for himself,
+
+137
+00:00:00,000 --> 00:00:00,000
+He presented your Dad with a bunch of my letters as proof of my betrayal...
+
+138
+00:00:00,000 --> 00:00:00,000
+Saying I'd written them after our marriage...
+
+139
+00:00:00,000 --> 00:00:00,000
+I swear, Jiya...
+
+140
+00:00:00,000 --> 00:00:00,000
+Forget writing letters...
+
+141
+00:00:00,000 --> 00:00:00,000
+I never even thought of him after my marriage...
+
+142
+00:00:00,000 --> 00:00:00,000
+I wish your Dad had come to me with those letters
+
+143
+00:00:00,000 --> 00:00:00,000
+So I could tell him
+
+144
+00:00:00,000 --> 00:00:00,000
+<i>That he had written them.</i>
+
+145
+00:00:00,000 --> 00:00:00,000
+He was an expert at it...
+
+146
+00:00:00,000 --> 00:00:00,000
+He could copy anyone's handwriting.
+
+147
+00:00:00,000 --> 00:00:00,000
+He'd used my letters to write new ones to serve his purpose.
+
+148
+00:00:00,000 --> 00:00:00,000
+The blame was all mine as your Dad just saw the handwriting
+
+149
+00:00:00,000 --> 00:00:00,000
+And sent me
+
+150
+00:00:00,000 --> 00:00:00,000
+Divorce papers...
+
+151
+00:00:00,000 --> 00:00:00,000
+Do you know why he was with me
+
+152
+00:00:00,000 --> 00:00:00,000
+On the day of the accident?
+
+153
+00:00:00,000 --> 00:00:00,000
+I had convinced him
+
+154
+00:00:00,000 --> 00:00:00,000
+After much begging
+
+155
+00:00:00,000 --> 00:00:00,000
+To tell your Dad the truth... And confess his sins...
+
+156
+00:00:00,000 --> 00:00:00,000
+To tell your Dad... That I was innocent...
+
+157
+00:00:00,000 --> 00:00:00,000
+But when fate strikes,
+
+158
+00:00:00,000 --> 00:00:00,000
+It kills you off
+
+159
+00:00:00,000 --> 00:00:00,000
+Where you don't get an ounce of relief...
+
+160
+00:00:00,000 --> 00:00:00,000
+He had an accident
+
+161
+00:00:00,000 --> 00:00:00,000
+And died right there...
+
+162
+00:00:00,000 --> 00:00:00,000
+He died, Jiya...
+
+163
+00:00:00,000 --> 00:00:00,000
+But robbed my life of everything...
+
+164
+00:00:00,000 --> 00:00:00,000
+Who could be more unfortunate
+
+165
+00:00:00,000 --> 00:00:00,000
+Than a woman whose husband bears not her pall,
+
+166
+00:00:00,000 --> 00:00:00,000
+Nor sheds a tear at her grave...
+
+167
+00:00:00,000 --> 00:00:00,000
+I am that woman today.
+
+168
+00:00:00,000 --> 00:00:00,000
+May God protect you. Always.
+
+169
+00:00:00,000 --> 00:00:00,000
+When you see your Dad,
+
+170
+00:00:00,000 --> 00:00:00,000
+Ask him
+
+171
+00:00:00,000 --> 00:00:00,000
+If he could weep for me at my grave someday.
+
+172
+00:00:00,000 --> 00:00:00,000
+Perhaps his tears would be able to wash the blot on my name...
+
+173
+00:00:00,000 --> 00:00:00,000
+Come with me.
+
+174
+00:00:00,000 --> 00:00:00,000
+You're angry with me, aren't you?
+
+175
+00:00:00,000 --> 00:00:00,000
+Not at all.
+
+176
+00:00:00,000 --> 00:00:00,000
+I'm very happy.
+
+177
+00:00:00,000 --> 00:00:00,000
+You must be eager to slap me on my face.
+
+178
+00:00:00,000 --> 00:00:00,000
+Do you know why I've brought you to this secluded spot?
+
+179
+00:00:00,000 --> 00:00:00,000
+So you can slap me hard.
+
+180
+00:00:00,000 --> 00:00:00,000
+You will be able to vent your anger,
+
+181
+00:00:00,000 --> 00:00:00,000
+Leaving my esteem untarnished.
+
+182
+00:00:00,000 --> 00:00:00,000
+I know I've hurt you.
+
+183
+00:00:00,000 --> 00:00:00,000
+I also know that the curse of a broken heart is baneful.
+
+184
+00:00:00,000 --> 00:00:00,000
+But I'm not stopping you from cursing me...
+
+185
+00:00:00,000 --> 00:00:00,000
+All I'm saying, Gulrez, is... I'm innocent...
+
+186
+00:00:00,000 --> 00:00:00,000
+I've played life like a cricket match in my ignorance.
+
+187
+00:00:00,000 --> 00:00:00,000
+You're not bad at winning me a match,
+
+188
+00:00:00,000 --> 00:00:00,000
+But my heart said
+
+189
+00:00:00,000 --> 00:00:00,000
+That he should be the one to lead me to victory.
+
+190
+00:00:00,000 --> 00:00:00,000
+So,
+
+191
+00:00:00,000 --> 00:00:00,000
+You couldn't make the team.
+
+192
+00:00:00,000 --> 00:00:00,000
+Now,
+
+193
+00:00:00,000 --> 00:00:00,000
+Do you forgive me or will you slap me?
+
+194
+00:00:00,000 --> 00:00:00,000
+Why are you smiling?
+
+195
+00:00:00,000 --> 00:00:00,000
+Who apologises in love?
+
+196
+00:00:00,000 --> 00:00:00,000
+You never apologise
+
+197
+00:00:00,000 --> 00:00:00,000
+To one you've never loved.
+
+198
+00:00:00,000 --> 00:00:00,000
+And --
+
+199
+00:00:00,000 --> 00:00:00,000
+About all your insult? What about that?
+
+200
+00:00:00,000 --> 00:00:00,000
+I'd written you a letter...
+
+201
+00:00:00,000 --> 00:00:00,000
+'Never give me woe,'
+
+202
+00:00:00,000 --> 00:00:00,000
+'For I can endure it.'
+
+203
+00:00:00,000 --> 00:00:00,000
+I've hurt you so much --
+
+204
+00:00:00,000 --> 00:00:00,000
+So bad...
+
+205
+00:00:00,000 --> 00:00:00,000
+Please forgive me...
+
+206
+00:00:00,000 --> 00:00:00,000
+Again?
+
+207
+00:00:00,000 --> 00:00:00,000
+I feel I'd never be able to meet your gaze if I'm married to anyone else...
+
+208
+00:00:00,000 --> 00:00:00,000
+What do you mean, 'anyone else'?
+
+209
+00:00:00,000 --> 00:00:00,000
+You're talking about Waqar.
+
+210
+00:00:00,000 --> 00:00:00,000
+Why not name him?
+
+211
+00:00:00,000 --> 00:00:00,000
+Actually, I haven't really decided...
+
+212
+00:00:00,000 --> 00:00:00,000
+I mean -- It could be him...
+
+213
+00:00:00,000 --> 00:00:00,000
+You glunterpeck! He's an all-rounder!
+
+214
+00:00:00,000 --> 00:00:00,000
+Your team won't do without him.
+
+215
+00:00:00,000 --> 00:00:00,000
+Let's go out to lunch.
+
+216
+00:00:00,000 --> 00:00:00,000
+Lunch?
+
+217
+00:00:00,000 --> 00:00:00,000
+I thought I'd give you a treat from the gang's fund if you didn't slap me.
+
+218
+00:00:00,000 --> 00:00:00,000
+Come!
+
+219
+00:00:00,000 --> 00:00:00,000
+Right here, my friends!
+
+220
+00:00:00,000 --> 00:00:00,000
+Enjoy yourselves!
+
+221
+00:00:00,000 --> 00:00:00,000
+What's this? 'Enjoy ourselves' on these bleeding 200 Rupees? Keep them!
+
+222
+00:00:00,000 --> 00:00:00,000
+How much do you want?
+
+223
+00:00:00,000 --> 00:00:00,000
+500.
+
+224
+00:00:00,000 --> 00:00:00,000
+I've called you 'friends'. You folks should be ashamed of yourselves, demanding money like that!
+
+225
+00:00:00,000 --> 00:00:00,000
+Bugger off!
+
+226
+00:00:00,000 --> 00:00:00,000
+Where did you get this Foxy?
+
+227
+00:00:00,000 --> 00:00:00,000
+Gulrez gave it to me.
+
+228
+00:00:00,000 --> 00:00:00,000
+Gulrez gave you?
+
+229
+00:00:00,000 --> 00:00:00,000
+Where's Gulrez?
+
+230
+00:00:00,000 --> 00:00:00,000
+With Maheen.
+
+231
+00:00:00,000 --> 00:00:00,000
+What?
+
+232
+00:00:00,000 --> 00:00:00,000
+Not 'what,' ask 'why!'
+
+233
+00:00:00,000 --> 00:00:00,000
+Yes, why'd he go with her?
+
+234
+00:00:00,000 --> 00:00:00,000
+What are they up to this time?
+
+235
+00:00:00,000 --> 00:00:00,000
+He shouldn't even greet that blighter back after everything that happened last night!
+
+236
+00:00:00,000 --> 00:00:00,000
+He didn't greet her back,
+
+237
+00:00:00,000 --> 00:00:00,000
+Because she never greeted him.
+
+238
+00:00:00,000 --> 00:00:00,000
+She stopped the car, bossed around, and took him with her.
+
+239
+00:00:00,000 --> 00:00:00,000
+But where?
+
+240
+00:00:00,000 --> 00:00:00,000
+Somewhere she could apologise, and Gulrez would say with terror in his eyes, 'I forgive you!'
+
+241
+00:00:00,000 --> 00:00:00,000
+Oh.
+
+242
+00:00:00,000 --> 00:00:00,000
+So now she'll apologise to him.
+
+243
+00:00:00,000 --> 00:00:00,000
+And he'll forgive her!
+
+244
+00:00:00,000 --> 00:00:00,000
+Shouldn't he?
+-No way!
+
+245
+00:00:00,000 --> 00:00:00,000
+Never!
+
+246
+00:00:00,000 --> 00:00:00,000
+Give us our 200.
+
+247
+00:00:00,000 --> 00:00:00,000
+'Bout time you wised up! Here!
+
+248
+00:00:00,000 --> 00:00:00,000
+Naff off already!
+
+249
+00:00:00,000 --> 00:00:00,000
+Aren't you ashamed of yourself, like, ever?
+
+250
+00:00:00,000 --> 00:00:00,000
+You broke the engagement last night, but you're seeing him today!
+
+251
+00:00:00,000 --> 00:00:00,000
+Care to tell me
+
+252
+00:00:00,000 --> 00:00:00,000
+What you're up to?
+
+253
+00:00:00,000 --> 00:00:00,000
+What d'you want this time?
+
+254
+00:00:00,000 --> 00:00:00,000
+I wanted to say sorry.
+
+255
+00:00:00,000 --> 00:00:00,000
+I don't remember you saying sorry to us.
+
+256
+00:00:00,000 --> 00:00:00,000
+I will...
+
+257
+00:00:00,000 --> 00:00:00,000
+But first, I had to apologise to his broken heart.
+
+258
+00:00:00,000 --> 00:00:00,000
+Our hearts are broken too.
+
+259
+00:00:00,000 --> 00:00:00,000
+Mine... Ammi Begum's...
+
+260
+00:00:00,000 --> 00:00:00,000
+Dastoor and Mehrunnisa left this place in disgrace!
+
+261
+00:00:00,000 --> 00:00:00,000
+No one's heart is broken here.
+
+262
+00:00:00,000 --> 00:00:00,000
+They're just... Troubled by the fact they couldn't keep their word from years ago.
+
+263
+00:00:00,000 --> 00:00:00,000
+I'd decided last night
+
+264
+00:00:00,000 --> 00:00:00,000
+That I won't slaughter my heart with my silence for someone's promise...
+
+265
+00:00:00,000 --> 00:00:00,000
+Wait!
+
+266
+00:00:00,000 --> 00:00:00,000
+Come here.
+
+267
+00:00:00,000 --> 00:00:00,000
+Where's he?
+
+268
+00:00:00,000 --> 00:00:00,000
+Went home.
+
+269
+00:00:00,000 --> 00:00:00,000
+No way he's going home.
+
+270
+00:00:00,000 --> 00:00:00,000
+Ammi Begum would break his legs!
+
+271
+00:00:00,000 --> 00:00:00,000
+I'm talking about Gulrez.
+
+272
+00:00:00,000 --> 00:00:00,000
+And I'm asking about the blighter.
+
+273
+00:00:00,000 --> 00:00:00,000
+What do I know?
+
+274
+00:00:00,000 --> 00:00:00,000
+When'd that happen?
+
+275
+00:00:00,000 --> 00:00:00,000
+What d'you do with this phone? Scratch your head?
+
+276
+00:00:00,000 --> 00:00:00,000
+I'm sure you've talked... Found out everything... Got word he's safe wherever he is.
+
+277
+00:00:00,000 --> 00:00:00,000
+So, again, where is he?
+
+278
+00:00:00,000 --> 00:00:00,000
+No idea.
+
+279
+00:00:00,000 --> 00:00:00,000
+The blighter must've gone in hiding! But don't worry... There's no place Ammi Begum can't reach!
+
+280
+00:00:00,000 --> 00:00:00,000
+Not his fault, really. I bet he didn't have the foggiest I'd stop him.
+
+281
+00:00:00,000 --> 00:00:00,000
+I dare him to set foot here.
+
+282
+00:00:00,000 --> 00:00:00,000
+Don't worry, he won't.
+
+283
+00:00:00,000 --> 00:00:00,000
+Isn't he coming here with a proposal?
+
+284
+00:00:00,000 --> 00:00:00,000
+Hey! Why does everyone think there's something going on between us?
+
+285
+00:00:00,000 --> 00:00:00,000
+Good heavens, girl...
+
+286
+00:00:00,000 --> 00:00:00,000
+You broke your engagement,
+
+287
+00:00:00,000 --> 00:00:00,000
+Stopped him from leaving...
+
+288
+00:00:00,000 --> 00:00:00,000
+What else should we wait for before we think you're interested in him?
+
+289
+00:00:00,000 --> 00:00:00,000
+No idea.
+
+290
+00:00:00,000 --> 00:00:00,000
+But I'm really sure about it...
+
+291
+00:00:00,000 --> 00:00:00,000
+The weirdest thing - that's what Gulrez thought too...
+
+292
+00:00:00,000 --> 00:00:00,000
+Send her to blasted Coventry!
+
+293
+00:00:00,000 --> 00:00:00,000
+Coventry?
+
+294
+00:00:00,000 --> 00:00:00,000
+Aye. She's not going anywhere. Not even to University.
+
+295
+00:00:00,000 --> 00:00:00,000
+Okay, but what's that gonna achieve?
+
+296
+00:00:00,000 --> 00:00:00,000
+Confiscate her phone,
+
+297
+00:00:00,000 --> 00:00:00,000
+And if you have to, cut the landline cable!
+
+298
+00:00:00,000 --> 00:00:00,000
+She'll fight back against this tyranny with obstinacy.
+
+299
+00:00:00,000 --> 00:00:00,000
+Precautions, my dear, are not tyranny.
+
+300
+00:00:00,000 --> 00:00:00,000
+But that's what she'd think!
+
+301
+00:00:00,000 --> 00:00:00,000
+Who cares what she thinks?
+
+302
+00:00:00,000 --> 00:00:00,000
+If she starts arguing about it,
+
+303
+00:00:00,000 --> 00:00:00,000
+Tell her that for what she's done to our family,
+
+304
+00:00:00,000 --> 00:00:00,000
+Generations to come would never forgive her.
+
+305
+00:00:00,000 --> 00:00:00,000
+Are we clear?
+
+306
+00:00:00,000 --> 00:00:00,000
+Yes.
+
+307
+00:00:00,000 --> 00:00:00,000
+Remember, Suraiyya...
+
+308
+00:00:00,000 --> 00:00:00,000
+If love like hers ever got to win,
+
+309
+00:00:00,000 --> 00:00:00,000
+Elders such as ourselves would be left getting the groceries like servants.
+
+310
+00:00:00,000 --> 00:00:00,000
+Evidently...
+
+311
+00:00:00,000 --> 00:00:00,000
+And yes...
+
+312
+00:00:00,000 --> 00:00:00,000
+Yes?
+
+313
+00:00:00,000 --> 00:00:00,000
+Lock her room?
+
+314
+00:00:00,000 --> 00:00:00,000
+Lock her room?
+
+315
+00:00:00,000 --> 00:00:00,000
+Like, for real?
+
+316
+00:00:00,000 --> 00:00:00,000
+Don't let her out
+
+317
+00:00:00,000 --> 00:00:00,000
+Until she changes her mind
+
+318
+00:00:00,000 --> 00:00:00,000
+And heart...
+
+319
+00:00:00,000 --> 00:00:00,000
+Where's the twit?
+
+320
+00:00:00,000 --> 00:00:00,000
+Waqar?
+
+321
+00:00:00,000 --> 00:00:00,000
+Don't even mention his name...
+
+322
+00:00:00,000 --> 00:00:00,000
+Just tell me
+
+323
+00:00:00,000 --> 00:00:00,000
+If he's in town or gone for good.
+
+324
+00:00:00,000 --> 00:00:00,000
+No one knows
+
+325
+00:00:00,000 --> 00:00:00,000
+If he's in hiding or gone.
+
+326
+00:00:00,000 --> 00:00:00,000
+I told you
+
+327
+00:00:00,000 --> 00:00:00,000
+He's not going back.
+
+328
+00:00:00,000 --> 00:00:00,000
+You don't know the force that's stopping him.
+
+329
+00:00:00,000 --> 00:00:00,000
+She's just a puny little girl, that sissy.
+
+330
+00:00:00,000 --> 00:00:00,000
+Remember the last time she keeled over while bowling?
+
+331
+00:00:00,000 --> 00:00:00,000
+Someone get some sense into him.
+
+332
+00:00:00,000 --> 00:00:00,000
+Tell him what I'm talking about.
+
+333
+00:00:00,000 --> 00:00:00,000
+She's talking about the force of love.
+
+334
+00:00:00,000 --> 00:00:00,000
+No way.
+
+335
+00:00:00,000 --> 00:00:00,000
+She never said they love each other.
+
+336
+00:00:00,000 --> 00:00:00,000
+If you talk about love, don't you dare talk about anyone but Gulrez!
+
+337
+00:00:00,000 --> 00:00:00,000
+He loves her...
+
+338
+00:00:00,000 --> 00:00:00,000
+Because why not?
+
+339
+00:00:00,000 --> 00:00:00,000
+She's his fiancée... Always has been!
+
+340
+00:00:00,000 --> 00:00:00,000
+Anyway...
+
+341
+00:00:00,000 --> 00:00:00,000
+I'll sort it out myself...
+
+342
+00:00:00,000 --> 00:00:00,000
+Just... Find out about the blighter...
+
+343
+00:00:00,000 --> 00:00:00,000
+And make it clear to him
+
+344
+00:00:00,000 --> 00:00:00,000
+That it's best for his health
+
+345
+00:00:00,000 --> 00:00:00,000
+That he leave this place!
+
+346
+00:00:00,000 --> 00:00:00,000
+London?
+
+347
+00:00:00,000 --> 00:00:00,000
+He can go to hell, for all I care!
+
+348
+00:00:00,000 --> 00:00:00,000
+By that logic, Maheen ought to go to hell too...
+
+349
+00:00:00,000 --> 00:00:00,000
+<i>She's more guilty.</i>
+
+350
+00:00:00,000 --> 00:00:00,000
+I mean --
+
+351
+00:00:00,000 --> 00:00:00,000
+She'd got engaged!
+
+352
+00:00:00,000 --> 00:00:00,000
+She ought to have thought about it!
+
+353
+00:00:00,000 --> 00:00:00,000
+She's under his spell!
+
+354
+00:00:00,000 --> 00:00:00,000
+The blighter knows every wicked English trick in the book... He knows how to get the girls under his spell!
+
+355
+00:00:00,000 --> 00:00:00,000
+It'd be good if we found out by the evening.
+
+356
+00:00:00,000 --> 00:00:00,000
+Or, I've decided...
+
+357
+00:00:00,000 --> 00:00:00,000
+I'll get
+
+358
+00:00:00,000 --> 00:00:00,000
+A declaration of disownment published in the newspapers tomorrow.
+
+359
+00:00:00,000 --> 00:00:00,000
+That's why I never wanted to send him to London...
+
+360
+00:00:00,000 --> 00:00:00,000
+My heart said if he stayed there,
+
+361
+00:00:00,000 --> 00:00:00,000
+He'd learn the wicked ways of the blimmin' East India Company.
+
+362
+00:00:00,000 --> 00:00:00,000
+Could you read her feelings?
+
+363
+00:00:00,000 --> 00:00:00,000
+Feelings?
+
+364
+00:00:00,000 --> 00:00:00,000
+Dado's missing him.
+
+365
+00:00:00,000 --> 00:00:00,000
+Hmm...
+
+366
+00:00:00,000 --> 00:00:00,000
+She can do anything when she's furious, Jiya.
+
+367
+00:00:00,000 --> 00:00:00,000
+She'd slit our throats to keep her word.
+
+368
+00:00:00,000 --> 00:00:00,000
+Disappear. Right now.
+
+369
+00:00:00,000 --> 00:00:00,000
+No.
+
+370
+00:00:00,000 --> 00:00:00,000
+I can't.
+
+371
+00:00:00,000 --> 00:00:00,000
+She'd be left all alone.
+
+372
+00:00:00,000 --> 00:00:00,000
+She's not afraid of her.
+
+373
+00:00:00,000 --> 00:00:00,000
+She is, mate...
+
+374
+00:00:00,000 --> 00:00:00,000
+But I know she's very brave.
+
+375
+00:00:00,000 --> 00:00:00,000
+Very daring.
+
+376
+00:00:00,000 --> 00:00:00,000
+Strange, Waqar...
+
+377
+00:00:00,000 --> 00:00:00,000
+<i>If she were that serious about you...</i>
+
+378
+00:00:00,000 --> 00:00:00,000
+Why'd she have to put up this act with the engagement and all?
+
+379
+00:00:00,000 --> 00:00:00,000
+She could've said all of this way back...
+
+380
+00:00:00,000 --> 00:00:00,000
+Poor Gulrez...
+
+381
+00:00:00,000 --> 00:00:00,000
+Imagine what he'd be going through.
+
+382
+00:00:00,000 --> 00:00:00,000
+He must be on the rack.
+
+383
+00:00:00,000 --> 00:00:00,000
+It's so insulting.
+
+384
+00:00:00,000 --> 00:00:00,000
+I know, mate.
+
+385
+00:00:00,000 --> 00:00:00,000
+But...
+-But?
+
+386
+00:00:00,000 --> 00:00:00,000
+As in, you've got an answer ready!
+
+387
+00:00:00,000 --> 00:00:00,000
+I thought people feared breaking hearts...
+
+388
+00:00:00,000 --> 00:00:00,000
+Never knew you'd be so ready to justify it!
+
+389
+00:00:00,000 --> 00:00:00,000
+That's the problem with all the winners.
+
+390
+00:00:00,000 --> 00:00:00,000
+Triumph blinds them
+
+391
+00:00:00,000 --> 00:00:00,000
+To everything those who lose have to go through.
+
+392
+00:00:00,000 --> 00:00:00,000
+I care about Gulrez too.
+
+393
+00:00:00,000 --> 00:00:00,000
+It hurts me to think
+
+394
+00:00:00,000 --> 00:00:00,000
+That our union would break him.
+
+395
+00:00:00,000 --> 00:00:00,000
+Did you meet?
+
+396
+00:00:00,000 --> 00:00:00,000
+Who?
+
+397
+00:00:00,000 --> 00:00:00,000
+Gulrez, of course.
+
+398
+00:00:00,000 --> 00:00:00,000
+No.
+
+399
+00:00:00,000 --> 00:00:00,000
+Just see him.
+
+400
+00:00:00,000 --> 00:00:00,000
+Check out what losers in love look like.
+
+401
+00:00:00,000 --> 00:00:00,000
+I'll see him.
+
+402
+00:00:00,000 --> 00:00:00,000
+Say sorry too.
+
+403
+00:00:00,000 --> 00:00:00,000
+And?
+
+404
+00:00:00,000 --> 00:00:00,000
+You'd snatch his Maheen for just a puny little sorry and slip away sharpish?
+
+405
+00:00:00,000 --> 00:00:00,000
+Here's a tip -
+
+406
+00:00:00,000 --> 00:00:00,000
+<i>Never see him again.</i>
+
+407
+00:00:00,000 --> 00:00:00,000
+You're confusing me, Jiya.
+
+408
+00:00:00,000 --> 00:00:00,000
+You seem to forget that Maheen and I have the right to love as much as Gulrez.
+
+409
+00:00:00,000 --> 00:00:00,000
+You're mocking me for breaking a heart.
+
+410
+00:00:00,000 --> 00:00:00,000
+What if I broke two?
+
+411
+00:00:00,000 --> 00:00:00,000
+Two?
+
+412
+00:00:00,000 --> 00:00:00,000
+Yours and hers?
+
+413
+00:00:00,000 --> 00:00:00,000
+Wow...
+
+414
+00:00:00,000 --> 00:00:00,000
+Ever care to check
+
+415
+00:00:00,000 --> 00:00:00,000
+If she's actually in love or just taking you for a ride?
+
+416
+00:00:00,000 --> 00:00:00,000
+C'mon, Jiya, we're friends.
+
+417
+00:00:00,000 --> 00:00:00,000
+That's why I'm saying it.
+
+418
+00:00:00,000 --> 00:00:00,000
+I know her better than you.
+
+419
+00:00:00,000 --> 00:00:00,000
+She doesn't speak the truth.
+
+420
+00:00:00,000 --> 00:00:00,000
+But aye, I wouldn't say the same about her diary...
+
+421
+00:00:00,000 --> 00:00:00,000
+Scared?
+
+422
+00:00:00,000 --> 00:00:00,000
+Don't be.
+
+423
+00:00:00,000 --> 00:00:00,000
+She broke her engagement for you.
+
+424
+00:00:00,000 --> 00:00:00,000
+Called you to stop you.
+
+425
+00:00:00,000 --> 00:00:00,000
+Says a lot about who she'd write about.
+
+426
+00:00:00,000 --> 00:00:00,000
+But still...
+
+427
+00:00:00,000 --> 00:00:00,000
+Before you meet your love for the first time...
+
+428
+00:00:00,000 --> 00:00:00,000
+Please, go see Gulrez.
+
+429
+00:00:00,000 --> 00:00:00,000
+Just once? To ease him, you know.
+
+430
+00:00:00,000 --> 00:00:00,000
+Okay, I will.
+
+431
+00:00:00,000 --> 00:00:00,000
+Although it hurts me...
+
+432
+00:00:00,000 --> 00:00:00,000
+I'm ashamed, really...
+
+433
+00:00:00,000 --> 00:00:00,000
+No idea what I'm gonna say to him...
+
+434
+00:00:00,000 --> 00:00:00,000
+But I'll see him.
+
+435
+00:00:00,000 --> 00:00:00,000
+I've got to.
+
+436
+00:00:00,000 --> 00:00:00,000
+Translation: Aditya Misra Â© GEO TV
 
