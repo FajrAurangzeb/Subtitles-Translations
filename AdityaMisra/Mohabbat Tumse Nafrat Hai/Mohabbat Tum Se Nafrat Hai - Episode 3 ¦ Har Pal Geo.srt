@@ -1033,7 +1033,7 @@ What is it you refused to get rid of
 
 258
 00:00:00,000 --> 00:00:00,000
-Because of which you couldn't get rid of <i>your</i> ill fate?</i>
+<i>Because of which you couldn't get rid of your ill fate?</i>
 
 259
 00:00:00,000 --> 00:00:00,000
@@ -1133,7 +1133,7 @@ Watch what you're saying!
 
 283
 00:00:00,000 --> 00:00:00,000
-Watch what <i>you</i>'re sayin'!</i>
+<i>Watch what you're sayin'!</i>
 
 284
 00:00:00,000 --> 00:00:00,000
@@ -1423,101 +1423,842 @@ Poor lad...
 
 355
 00:00:00,000 --> 00:00:00,000
-ADD
+Not so fast!
 
 356
 00:00:00,000 --> 00:00:00,000
-Hello?
+If you knock, she's gonna ask who it is.
 
 357
 00:00:00,000 --> 00:00:00,000
-Hello!
+I'll say, 'It's me'.
 
 358
 00:00:00,000 --> 00:00:00,000
-Who is it?
+She won't open the door.
 
 359
 00:00:00,000 --> 00:00:00,000
-I thought you'd recognise my voice.
+So?
 
 360
 00:00:00,000 --> 00:00:00,000
-Your voice
+I'll say 'It's me'.
 
 361
 00:00:00,000 --> 00:00:00,000
-Sounds familiar.
+I guess I'd better apologise.
 
 362
 00:00:00,000 --> 00:00:00,000
-You sound like my dirty rotten cousin.
+And lose every ounce of respect here.
 
 363
 00:00:00,000 --> 00:00:00,000
-Who are you?
+As if I'd be any better if I knocked!
 
 364
 00:00:00,000 --> 00:00:00,000
-Your dirty rotten cousin.
+Anyway --
 
 365
 00:00:00,000 --> 00:00:00,000
-Hey!
+You!
 
 366
 00:00:00,000 --> 00:00:00,000
-How dare you call me?
+Right outside my room?
 
 367
 00:00:00,000 --> 00:00:00,000
-Heard you cried that day. After the slap...
+How. Dare. You!?
 
 368
 00:00:00,000 --> 00:00:00,000
-So?
+Don't speak English. Dado's downstairs.
 
 369
 00:00:00,000 --> 00:00:00,000
-I feel guilty.
+Why are you here?
 
 370
 00:00:00,000 --> 00:00:00,000
-So?
+Thought I'd make peace.
 
 371
 00:00:00,000 --> 00:00:00,000
-Are you seriously 'so'-ing my sympathy?
+Wow!
 
 372
 00:00:00,000 --> 00:00:00,000
-Listen, Waqar Ahmed,
+Dado wants me to forget everything. I thought that to forget everything, I should remember my fault.
 
 373
 00:00:00,000 --> 00:00:00,000
-Don't you dare call me again.
+You! Get. Lost!
 
 374
 00:00:00,000 --> 00:00:00,000
-You're not allowed. Get it?
+Forget making peace... Or forgiveness!
 
 375
 00:00:00,000 --> 00:00:00,000
-Alright, but I've got one last thing to say to you...
+Aye,
 
 376
 00:00:00,000 --> 00:00:00,000
-Go on.
+There's one way...
 
 377
 00:00:00,000 --> 00:00:00,000
-I hate you.
+To make peace and forgive you...
 
 378
 00:00:00,000 --> 00:00:00,000
-I HATE YOU TOOOOOO!!!
+Go on.
 
 379
+00:00:00,000 --> 00:00:00,000
+How 'bout I
+
+380
+00:00:00,000 --> 00:00:00,000
+Give him
+
+381
+00:00:00,000 --> 00:00:00,000
+A proper slap? Just like his!
+-Hey!
+
+382
+00:00:00,000 --> 00:00:00,000
+She's given you her word.
+
+383
+00:00:00,000 --> 00:00:00,000
+Blimey, Maheen, that slap was real bad...
+
+384
+00:00:00,000 --> 00:00:00,000
+I was right about you.
+
+385
+00:00:00,000 --> 00:00:00,000
+Absolutely right.
+
+386
+00:00:00,000 --> 00:00:00,000
+What?
+
+387
+00:00:00,000 --> 00:00:00,000
+You've got a screw loose! You're barking mad! Occasionally sane, and frequently insane!
+
+388
+00:00:00,000 --> 00:00:00,000
+You actually said that?
+
+389
+00:00:00,000 --> 00:00:00,000
+Oh, I wanted to say a lot more, but Dado ordered me to make peace, so I came here.
+
+390
+00:00:00,000 --> 00:00:00,000
+Im-
+
+391
+00:00:00,000 --> 00:00:00,000
+Im-POSSIBLE!
+
+392
+00:00:00,000 --> 00:00:00,000
+Back to work, everyone...
+
+393
+00:00:00,000 --> 00:00:00,000
+C'mon.
+
+394
+00:00:00,000 --> 00:00:00,000
+C'mon, folks... Guess we're just wastin' time here.
+
+395
+00:00:00,000 --> 00:00:00,000
+Peace be upon you.
+
+396
+00:00:00,000 --> 00:00:00,000
+And upon you, peace.
+
+397
+00:00:00,000 --> 00:00:00,000
+Where were you all day?
+
+398
+00:00:00,000 --> 00:00:00,000
+With the Foxy.
+
+399
+00:00:00,000 --> 00:00:00,000
+Wonder who that is.
+
+400
+00:00:00,000 --> 00:00:00,000
+Gulrez's car.
+
+401
+00:00:00,000 --> 00:00:00,000
+But you've got your own car.
+
+402
+00:00:00,000 --> 00:00:00,000
+Aye, but
+
+403
+00:00:00,000 --> 00:00:00,000
+I had to tow his Foxy
+
+404
+00:00:00,000 --> 00:00:00,000
+To the workshop.
+
+405
+00:00:00,000 --> 00:00:00,000
+Jesus Christ...
+
+406
+00:00:00,000 --> 00:00:00,000
+When will he see sense?
+
+407
+00:00:00,000 --> 00:00:00,000
+I guess there's only one way.
+
+408
+00:00:00,000 --> 00:00:00,000
+Yeah?
+
+409
+00:00:00,000 --> 00:00:00,000
+Ask Maheen she'd better not
+
+410
+00:00:00,000 --> 00:00:00,000
+Accept the proposal
+
+411
+00:00:00,000 --> 00:00:00,000
+While the Foxy lives.
+
+412
+00:00:00,000 --> 00:00:00,000
+What d'you mean, lives?
+
+413
+00:00:00,000 --> 00:00:00,000
+He's betting 70 gee on that geriatric rust bucket.
+
+414
+00:00:00,000 --> 00:00:00,000
+He'd to anything to keep her alive.
+
+415
+00:00:00,000 --> 00:00:00,000
+Come here, mate...
+
+416
+00:00:00,000 --> 00:00:00,000
+Here.
+
+417
+00:00:00,000 --> 00:00:00,000
+Our profits have gone up 11% since last month.
+
+418
+00:00:00,000 --> 00:00:00,000
+Wow...
+
+419
+00:00:00,000 --> 00:00:00,000
+Congratulations.
+
+420
+00:00:00,000 --> 00:00:00,000
+We've hit all our targets
+
+421
+00:00:00,000 --> 00:00:00,000
+And production goals on time.
+
+422
+00:00:00,000 --> 00:00:00,000
+And you know who did it.
+
+423
+00:00:00,000 --> 00:00:00,000
+Not me and you.
+
+424
+00:00:00,000 --> 00:00:00,000
+It's Gulrez.
+
+425
+00:00:00,000 --> 00:00:00,000
+Wow...
+
+426
+00:00:00,000 --> 00:00:00,000
+Hmm!
+
+427
+00:00:00,000 --> 00:00:00,000
+So...
+
+428
+00:00:00,000 --> 00:00:00,000
+What d'you think?
+
+429
+00:00:00,000 --> 00:00:00,000
+D'you think... When she's done 'thinking'...
+
+430
+00:00:00,000 --> 00:00:00,000
+She'd agree?
+
+431
+00:00:00,000 --> 00:00:00,000
+Honestly?
+
+432
+00:00:00,000 --> 00:00:00,000
+No idea.
+
+433
+00:00:00,000 --> 00:00:00,000
+How'd I know?
+
+434
+00:00:00,000 --> 00:00:00,000
+I just know she wants some time to think.
+
+435
+00:00:00,000 --> 00:00:00,000
+Neelam says it's perfectly fine.
+
+436
+00:00:00,000 --> 00:00:00,000
+What d'you say?
+
+437
+00:00:00,000 --> 00:00:00,000
+No idea.
+
+438
+00:00:00,000 --> 00:00:00,000
+But aye, Ammi Begum said
+
+439
+00:00:00,000 --> 00:00:00,000
+It's nothing to worry about.
+
+440
+00:00:00,000 --> 00:00:00,000
+Then why are you so worried?
+
+441
+00:00:00,000 --> 00:00:00,000
+I'm sure she just wants to give Gulrez the frights.
+
+442
+00:00:00,000 --> 00:00:00,000
+Looking at Gulrez, you can't exactly fault her.
+
+443
+00:00:00,000 --> 00:00:00,000
+I think she'd agree
+
+444
+00:00:00,000 --> 00:00:00,000
+After she's done playing with him.
+
+445
+00:00:00,000 --> 00:00:00,000
+Hmm...
+
+446
+00:00:00,000 --> 00:00:00,000
+May God will thus.
+
+447
+00:00:00,000 --> 00:00:00,000
+Tea?
+
+448
+00:00:00,000 --> 00:00:00,000
+Sure.
+
+449
+00:00:00,000 --> 00:00:00,000
+No.
+
+450
+00:00:00,000 --> 00:00:00,000
+No way we can make peace until Doomsday.
+
+451
+00:00:00,000 --> 00:00:00,000
+Who'd want to make peace with that ham-fisted, insolent, arrogant girl?
+
+452
+00:00:00,000 --> 00:00:00,000
+She hasn't got an ounce of decency in her!
+
+453
+00:00:00,000 --> 00:00:00,000
+I mean --
+
+454
+00:00:00,000 --> 00:00:00,000
+Imagine you're back from England after four long years,
+
+455
+00:00:00,000 --> 00:00:00,000
+And go to your cousin's to see her,
+
+456
+00:00:00,000 --> 00:00:00,000
+Only to find out the lady left a birthday party because of some shock over her engagement,
+
+457
+00:00:00,000 --> 00:00:00,000
+And be welcomed as a runagate when you finally see her!
+
+458
+00:00:00,000 --> 00:00:00,000
+Suddenly, she remembers an old slap,
+
+459
+00:00:00,000 --> 00:00:00,000
+And, when you try to make peace,
+
+460
+00:00:00,000 --> 00:00:00,000
+Shuts the door in your face!
+
+461
+00:00:00,000 --> 00:00:00,000
+Tell me - would either of you ever want to see her face again?
+
+462
+00:00:00,000 --> 00:00:00,000
+No, yes?
+
+463
+00:00:00,000 --> 00:00:00,000
+Yes!
+
+464
+00:00:00,000 --> 00:00:00,000
+That's what I think too.
+
+465
+00:00:00,000 --> 00:00:00,000
+We didn't say a word.
+
+466
+00:00:00,000 --> 00:00:00,000
+That's what your silence said.
+
+467
+00:00:00,000 --> 00:00:00,000
+No. Our silence means you're plain wrong.
+
+468
+00:00:00,000 --> 00:00:00,000
+Yes!
+
+469
+00:00:00,000 --> 00:00:00,000
+You're all in it together.
+
+470
+00:00:00,000 --> 00:00:00,000
+Partly, you're right. We took an oath. Pledged our allegiance.
+
+471
+00:00:00,000 --> 00:00:00,000
+Ooh...
+
+472
+00:00:00,000 --> 00:00:00,000
+Now I know who's inflaming her.
+
+473
+00:00:00,000 --> 00:00:00,000
+She's just asking for her right.
+
+474
+00:00:00,000 --> 00:00:00,000
+Which you violated so unashamedly with that slap.
+
+475
+00:00:00,000 --> 00:00:00,000
+Ooh.
+
+476
+00:00:00,000 --> 00:00:00,000
+If you just said a simple sorry instead of that 'ooh', I'm sure she'd forgive you.
+
+477
+00:00:00,000 --> 00:00:00,000
+Wow...
+
+478
+00:00:00,000 --> 00:00:00,000
+The words we recommend to you are the simple...
+
+479
+00:00:00,000 --> 00:00:00,000
+'I am sorry'!
+
+480
+00:00:00,000 --> 00:00:00,000
+Shut. Up!
+
+481
+00:00:00,000 --> 00:00:00,000
+That adds fuel to the fire!
+
+482
+00:00:00,000 --> 00:00:00,000
+I don't care.
+
+483
+00:00:00,000 --> 00:00:00,000
+You have to, Waqar Ahmed. She's my sister.
+
+484
+00:00:00,000 --> 00:00:00,000
+And I'm an eyewitness.
+
+485
+00:00:00,000 --> 00:00:00,000
+I've seen her cry for hours over that slap.
+
+486
+00:00:00,000 --> 00:00:00,000
+But it's your choice...
+
+487
+00:00:00,000 --> 00:00:00,000
+C'mon!
+
+488
+00:00:00,000 --> 00:00:00,000
+Ju -- Just a sec! Hey!
+
+489
+00:00:00,000 --> 00:00:00,000
+On your feet!
+
+490
+00:00:00,000 --> 00:00:00,000
+And I'm an eyewitness.
+
+491
+00:00:00,000 --> 00:00:00,000
+I've seen her cry for hours over that slap.
+
+492
+00:00:00,000 --> 00:00:00,000
+What does the doctor say?
+
+493
+00:00:00,000 --> 00:00:00,000
+I mean, the mechanic...
+
+494
+00:00:00,000 --> 00:00:00,000
+Don't even mention him.
+
+495
+00:00:00,000 --> 00:00:00,000
+I haven't seen such a cheap man!
+
+496
+00:00:00,000 --> 00:00:00,000
+Wali told me everything.
+
+497
+00:00:00,000 --> 00:00:00,000
+She can't be fixed!
+
+498
+00:00:00,000 --> 00:00:00,000
+I know.
+
+499
+00:00:00,000 --> 00:00:00,000
+Then could you please leave this -- Funeral?
+
+500
+00:00:00,000 --> 00:00:00,000
+I was thinking about the palmist.
+
+501
+00:00:00,000 --> 00:00:00,000
+You saw a palmist?
+
+502
+00:00:00,000 --> 00:00:00,000
+Doesn't make much of a difference, that.
+
+503
+00:00:00,000 --> 00:00:00,000
+What?
+
+504
+00:00:00,000 --> 00:00:00,000
+That man was more of a mechanic.
+
+505
+00:00:00,000 --> 00:00:00,000
+I'm sure he told you it's her time.
+
+506
+00:00:00,000 --> 00:00:00,000
+He said my fate is inseparable from hers.
+
+507
+00:00:00,000 --> 00:00:00,000
+As in, he wants you to keep it with you?
+
+508
+00:00:00,000 --> 00:00:00,000
+No.
+
+509
+00:00:00,000 --> 00:00:00,000
+He wants me to sell her,
+
+510
+00:00:00,000 --> 00:00:00,000
+Or, he says, my life would be at a dead end. Like her.
+
+511
+00:00:00,000 --> 00:00:00,000
+He's got a point, Neelam...
+
+512
+00:00:00,000 --> 00:00:00,000
+When she heard about the engagement, she was drained of all cheer.
+
+513
+00:00:00,000 --> 00:00:00,000
+Almost felt like... She'd refuse...
+
+514
+00:00:00,000 --> 00:00:00,000
+She said she needed some time to think...
+
+515
+00:00:00,000 --> 00:00:00,000
+I'm at a dead end, so to speak...
+
+516
+00:00:00,000 --> 00:00:00,000
+Who knows how long she needs...
+
+517
+00:00:00,000 --> 00:00:00,000
+And how long I need to decide whether to sell this Foxy
+
+518
+00:00:00,000 --> 00:00:00,000
+Or spend 70 gee on her...
+
+519
+00:00:00,000 --> 00:00:00,000
+If you ask me... Even if she won't move an inch now...
+
+520
+00:00:00,000 --> 00:00:00,000
+I can't forget how she's stood by me all these years.
+
+521
+00:00:00,000 --> 00:00:00,000
+I haven't had anything all day.
+
+522
+00:00:00,000 --> 00:00:00,000
+Looking at her dying old face kills my hunger.
+
+523
+00:00:00,000 --> 00:00:00,000
+Come in for lunch?
+
+524
+00:00:00,000 --> 00:00:00,000
+Blimey, Neelam... Don't you get it?
+
+525
+00:00:00,000 --> 00:00:00,000
+I'm asking you if I should spend 70 gee on her.
+
+526
+00:00:00,000 --> 00:00:00,000
+I don't see why not.
+
+527
+00:00:00,000 --> 00:00:00,000
+Aye, Wali...
+
+528
+00:32:39,590 --> 00:32:41,269
+What is it?
+
+529
+00:32:43,170 --> 00:32:45,498
+I'm very upset.
+
+530
+00:32:48,300 --> 00:32:50,260
+Aren't we all?
+
+531
+00:32:50,890 --> 00:32:53,072
+What happened?
+
+532
+00:32:55,010 --> 00:32:56,748
+It's simple.
+
+533
+00:32:57,167 --> 00:32:59,228
+It's so simple.
+
+534
+00:33:00,588 --> 00:33:03,228
+He'd die without Maheen.
+
+535
+00:33:17,190 --> 00:33:20,110
+I thought I'd remind you...
+
+536
+00:33:20,644 --> 00:33:24,575
+Our family's borne too many palls already.
+
+537
+00:33:25,850 --> 00:33:28,348
+That was an accident.
+
+538
+00:33:33,720 --> 00:33:36,261
+But this time,
+
+539
+00:33:36,451 --> 00:33:38,561
+The death
+
+540
+00:33:39,110 --> 00:33:41,781
+Would be our doing.
+
+541
+00:00:00,000 --> 00:00:00,000
+Hello?
+
+542
+00:00:00,000 --> 00:00:00,000
+Hello!
+
+543
+00:00:00,000 --> 00:00:00,000
+Who is it?
+
+544
+00:00:00,000 --> 00:00:00,000
+I thought you'd recognise my voice.
+
+545
+00:00:00,000 --> 00:00:00,000
+Your voice
+
+546
+00:00:00,000 --> 00:00:00,000
+Sounds familiar.
+
+547
+00:00:00,000 --> 00:00:00,000
+You sound like my dirty rotten cousin.
+
+548
+00:00:00,000 --> 00:00:00,000
+Who are you?
+
+549
+00:00:00,000 --> 00:00:00,000
+Your dirty rotten cousin.
+
+550
+00:00:00,000 --> 00:00:00,000
+Hey!
+
+551
+00:00:00,000 --> 00:00:00,000
+How dare you call me?
+
+552
+00:00:00,000 --> 00:00:00,000
+Heard you cried that day. After the slap...
+
+553
+00:00:00,000 --> 00:00:00,000
+So?
+
+554
+00:00:00,000 --> 00:00:00,000
+I feel guilty.
+
+555
+00:00:00,000 --> 00:00:00,000
+So?
+
+556
+00:00:00,000 --> 00:00:00,000
+Are you seriously 'so'-ing my sympathy?
+
+557
+00:00:00,000 --> 00:00:00,000
+Listen, Waqar Ahmed,
+
+558
+00:00:00,000 --> 00:00:00,000
+Don't you dare call me again. Like, ever.
+
+559
+00:00:00,000 --> 00:00:00,000
+You're not allowed. Get it?
+
+560
+00:00:00,000 --> 00:00:00,000
+Alright, but I've got one last thing to say to you...
+
+561
+00:00:00,000 --> 00:00:00,000
+Go on.
+
+562
+00:00:00,000 --> 00:00:00,000
+I hate you.
+
+563
+00:00:00,000 --> 00:00:00,000
+I HATE YOU TOOOOOO!!!
+
+564
 00:00:00,000 --> 00:00:00,000
 Translation: Aditya Misra © GEO TV
 
