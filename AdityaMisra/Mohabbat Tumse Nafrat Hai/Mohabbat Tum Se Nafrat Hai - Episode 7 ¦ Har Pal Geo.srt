@@ -56,7 +56,7 @@ What could I do?
 
 15
 00:00:00,000 --> 00:00:00,000
-<i>He</i> was there.</i>
+<i>He was there.</i>
 
 16
 00:00:00,000 --> 00:00:00,000
@@ -564,7 +564,7 @@ You didn't even tell me!
 
 142
 00:00:00,000 --> 00:00:00,000
-Had to. <i>He</i> got there!</i>
+<i>Had to. He got there!</i>
 
 143
 00:00:00,000 --> 00:00:00,000
@@ -781,7 +781,7 @@ Besides,
 
 196
 00:00:00,000 --> 00:00:00,000
-<i>He</i>'s bowling!</i>
+<i>He's bowling!</i>
 
 197
 00:00:00,000 --> 00:00:00,000
@@ -877,7 +877,7 @@ A four will do just as well...
 
 220
 00:00:00,000 --> 00:00:00,000
-If you can actually <i>hit one</i>!</i>
+<i>If you can actually hit one!</i>
 
 221
 00:00:00,000 --> 00:00:00,000
@@ -1009,10 +1009,1038 @@ Hey...
 Good...
 
 253
-00:18:26,558 --> 00:18:26,618
-ADD
+00:00:00,000 --> 00:00:00,000
+Run!
 
 254
+00:00:00,000 --> 00:00:00,000
+Good!
+
+255
+00:00:00,000 --> 00:00:00,000
+YEAH!
+
+256
+00:00:00,000 --> 00:00:00,000
+YEEHAW!
+
+257
+00:00:00,000 --> 00:00:00,000
+Whew!
+
+258
+00:00:00,000 --> 00:00:00,000
+Four!
+
+259
+00:00:00,000 --> 00:00:00,000
+Yeah!
+
+260
+00:00:00,000 --> 00:00:00,000
+Good!
+-Lovely!
+
+261
+00:00:00,000 --> 00:00:00,000
+Good show!
+
+262
+00:00:00,000 --> 00:00:00,000
+Wait.
+
+263
+00:00:00,000 --> 00:00:00,000
+For you.
+
+264
+00:00:00,000 --> 00:00:00,000
+Not now!
+
+265
+00:00:00,000 --> 00:00:00,000
+Take it, m'boy...
+
+266
+00:00:00,000 --> 00:00:00,000
+Or she'll hit another four.
+
+267
+00:00:00,000 --> 00:00:00,000
+So...
+
+268
+00:00:00,000 --> 00:00:00,000
+Who is it?
+
+269
+00:00:00,000 --> 00:00:00,000
+It's...
+
+270
+00:00:00,000 --> 00:00:00,000
+Jiya.
+
+271
+00:00:00,000 --> 00:00:00,000
+It's Jiya, love...
+
+272
+00:00:00,000 --> 00:00:00,000
+The poor girl must be dying to hear from you.
+
+273
+00:00:00,000 --> 00:00:00,000
+I don't want to talk to her!
+
+274
+00:00:00,000 --> 00:00:00,000
+Alright...
+
+275
+00:00:00,000 --> 00:00:00,000
+Back to the game...
+
+276
+00:00:00,000 --> 00:00:00,000
+Let her score another four...
+
+277
+00:00:00,000 --> 00:00:00,000
+C'mon...
+
+278
+00:00:00,000 --> 00:00:00,000
+WOO HOO!
+
+279
+00:00:00,000 --> 00:00:00,000
+Now's your chance! She's out too!
+
+280
+00:00:00,000 --> 00:00:00,000
+What?
+
+281
+00:00:00,000 --> 00:00:00,000
+She -- Out?
+
+282
+00:00:00,000 --> 00:00:00,000
+Aye.
+
+283
+00:00:00,000 --> 00:00:00,000
+Perfect chance indeed...
+
+284
+00:00:00,000 --> 00:00:00,000
+We lost the match... More or less...
+
+285
+00:00:00,000 --> 00:00:00,000
+You're worried about the match?
+
+286
+00:00:00,000 --> 00:00:00,000
+So...?
+
+287
+00:00:00,000 --> 00:00:00,000
+Talk to her!
+
+288
+00:00:00,000 --> 00:00:00,000
+Blimey...
+
+289
+00:00:00,000 --> 00:00:00,000
+She takes the match more seriously than me...
+
+290
+00:00:00,000 --> 00:00:00,000
+She'd clobber me head with her bat if I talked to her now.
+
+291
+00:00:00,000 --> 00:00:00,000
+What's the score?
+
+292
+00:00:00,000 --> 00:00:00,000
+You'd be left scratching your head.
+
+293
+00:00:00,000 --> 00:00:00,000
+Gee...
+
+294
+00:00:00,000 --> 00:00:00,000
+She's out for a duck too?
+
+295
+00:00:00,000 --> 00:00:00,000
+She was pulling me up like she's won the blimmin' World Cup!
+
+296
+00:00:00,000 --> 00:00:00,000
+Don't worry. I'll talk to her...
+
+297
+00:00:00,000 --> 00:00:00,000
+You're still here?
+
+298
+00:00:00,000 --> 00:00:00,000
+Come!
+
+299
+00:00:00,000 --> 00:00:00,000
+Double time!
+
+300
+00:00:00,000 --> 00:00:00,000
+Look...
+
+301
+00:00:00,000 --> 00:00:00,000
+32 runs ain't really a doddle.
+
+302
+00:00:00,000 --> 00:00:00,000
+Don't lose hope just yet.
+
+303
+00:00:00,000 --> 00:00:00,000
+I won't.
+
+304
+00:00:00,000 --> 00:00:00,000
+Once Ali's out...
+
+305
+00:00:00,000 --> 00:00:00,000
+It'll only leave <i>him</i>...</i>
+
+306
+00:00:00,000 --> 00:00:00,000
+I can take care of the rest on my own.
+
+307
+00:00:00,000 --> 00:00:00,000
+You ought to be the one to bowl Waqar out.
+
+308
+00:00:00,000 --> 00:00:00,000
+Why?
+
+309
+00:00:00,000 --> 00:00:00,000
+Don't you want to get even? He bowled you out!
+
+310
+00:00:00,000 --> 00:00:00,000
+Don't <i>you</i> want to get even? He bowled <i>you</i> out too!</i>
+
+311
+00:00:00,000 --> 00:00:00,000
+Aye, but...
+
+312
+00:00:00,000 --> 00:00:00,000
+I can't settle any scores...
+
+313
+00:00:00,000 --> 00:00:00,000
+Less talk, more bowling!
+
+314
+00:00:00,000 --> 00:00:00,000
+That London tramp deserves to be bowled out by your hand!
+
+315
+00:00:00,000 --> 00:00:00,000
+Get even.
+
+316
+00:00:00,000 --> 00:00:00,000
+Take the blighter's wicket!
+
+317
+00:00:00,000 --> 00:00:00,000
+Battlestations!
+
+318
+00:00:00,000 --> 00:00:00,000
+You can do it, Gulrez!
+
+319
+00:00:00,000 --> 00:00:00,000
+Alright, alright... C'mon...
+
+320
+00:00:00,000 --> 00:00:00,000
+Here.
+
+321
+00:00:00,000 --> 00:00:00,000
+C'mon, Gulrez!
+
+322
+00:00:00,000 --> 00:00:00,000
+Throw a short pitch!
+
+323
+00:00:00,000 --> 00:00:00,000
+Yay!
+
+324
+00:00:00,000 --> 00:00:00,000
+WOO HOO!
+
+325
+00:00:00,000 --> 00:00:00,000
+Lovely!
+
+326
+00:00:00,000 --> 00:00:00,000
+YEAH!
+
+327
+00:00:00,000 --> 00:00:00,000
+WOO HOO!
+
+328
+00:00:00,000 --> 00:00:00,000
+YEE HAW!
+
+329
+00:00:00,000 --> 00:00:00,000
+Why'd you ask for a short pitch?
+
+330
+00:00:00,000 --> 00:00:00,000
+I was cheating...
+
+331
+00:00:00,000 --> 00:00:00,000
+Wanted to trick him.
+
+332
+00:00:00,000 --> 00:00:00,000
+I'd told Gulrez to bowl a yorker when I say short pitch!
+
+333
+00:00:00,000 --> 00:00:00,000
+Wow, someone's getting very clever!
+
+334
+00:00:00,000 --> 00:00:00,000
+Alright, next!
+
+335
+00:00:00,000 --> 00:00:00,000
+C'mon!
+
+336
+00:00:00,000 --> 00:00:00,000
+Okay...
+
+337
+00:00:00,000 --> 00:00:00,000
+Alright...
+
+338
+00:00:00,000 --> 00:00:00,000
+Here!
+
+339
+00:00:00,000 --> 00:00:00,000
+C'mon, c'mon, c'mon! Double time!
+
+340
+00:00:00,000 --> 00:00:00,000
+Good show, Gulrez!
+
+341
+00:00:00,000 --> 00:00:00,000
+He's got a point.
+
+342
+00:00:00,000 --> 00:00:00,000
+Are you gonna plan for seven hours to save seven runs?
+
+343
+00:00:00,000 --> 00:00:00,000
+Just send a good bowler.
+
+344
+00:00:00,000 --> 00:00:00,000
+Save your victory.
+
+345
+00:00:00,000 --> 00:00:00,000
+Or... Consider the match lost.
+
+346
+00:00:00,000 --> 00:00:00,000
+(Let 'em...)
+
+347
+00:00:00,000 --> 00:00:00,000
+What was that?
+
+348
+00:00:00,000 --> 00:00:00,000
+I'm bowling this time.
+
+349
+00:00:00,000 --> 00:00:00,000
+Whoa...
+
+350
+00:00:00,000 --> 00:00:00,000
+Can you guarantee
+
+351
+00:00:00,000 --> 00:00:00,000
+You won't let them score seven runs?
+
+352
+00:00:00,000 --> 00:00:00,000
+I can try.
+
+353
+00:00:00,000 --> 00:00:00,000
+I can't guarantee that.
+
+354
+00:00:00,000 --> 00:00:00,000
+Well, then, stay outside the pitch!
+
+355
+00:00:00,000 --> 00:00:00,000
+C'mon!
+
+356
+00:00:00,000 --> 00:00:00,000
+C'mon, Waqar!
+-Seven runs!
+
+357
+00:00:00,000 --> 00:00:00,000
+Just seven runs! Just seven!
+
+358
+00:00:00,000 --> 00:00:00,000
+Aye, seven runs!
+
+359
+00:00:00,000 --> 00:00:00,000
+Next.
+
+360
+00:00:00,000 --> 00:00:00,000
+C'mon.
+
+361
+00:00:00,000 --> 00:00:00,000
+Keep at it for the next five balls and we've got this!
+
+362
+00:00:00,000 --> 00:00:00,000
+I told you not to come here.
+
+363
+00:00:00,000 --> 00:00:00,000
+I'm not here to see you.
+
+364
+00:00:00,000 --> 00:00:00,000
+I got some gifts
+
+365
+00:00:00,000 --> 00:00:00,000
+For your birthday.
+
+366
+00:00:00,000 --> 00:00:00,000
+I'm here to give you these.
+
+367
+00:00:00,000 --> 00:00:00,000
+Take them and I'll leave.
+
+368
+00:00:00,000 --> 00:00:00,000
+My birthday's long gone.
+
+369
+00:00:00,000 --> 00:00:00,000
+I don't need any gifts now.
+
+370
+00:00:00,000 --> 00:00:00,000
+Please, leave.
+
+371
+00:00:00,000 --> 00:00:00,000
+Please, love...
+
+372
+00:00:00,000 --> 00:00:00,000
+Just take these...
+
+373
+00:00:00,000 --> 00:00:00,000
+And throw them in the trash if you want...
+
+374
+00:00:00,000 --> 00:00:00,000
+Just... Don't kick me out like that...
+
+375
+00:00:00,000 --> 00:00:00,000
+No way.
+
+376
+00:00:00,000 --> 00:00:00,000
+You'll regret it one day
+
+377
+00:00:00,000 --> 00:00:00,000
+Like I regret today.
+
+378
+00:28:51,700 --> 00:28:52,328
+You
+
+379
+00:28:52,328 --> 00:28:52,868
+You wait
+
+380
+00:28:52,868 --> 00:28:53,408
+You wait and
+
+381
+00:28:53,408 --> 00:28:53,998
+You wait and watch,
+
+382
+00:28:53,998 --> 00:28:54,250
+You wait and watch, Mir
+
+383
+00:28:54,250 --> 00:28:54,560
+You wait and watch, Mir Mehtab
+
+384
+00:28:54,560 --> 00:28:56,688
+You wait and watch, Mir Mehtab Ahmed...
+
+385
+00:28:56,960 --> 00:28:59,238
+I won't regret it one bit.
+
+386
+00:28:59,538 --> 00:29:02,538
+I'll settle the scores with everyone who's guilty.
+
+387
+00:29:02,609 --> 00:29:04,898
+I settled a few scores too.
+
+388
+00:29:05,468 --> 00:29:07,808
+That's what I regret today.
+
+389
+00:29:09,620 --> 00:29:11,798
+Because settling scores
+
+390
+00:29:11,798 --> 00:29:13,739
+Only suits God.
+
+391
+00:29:13,909 --> 00:29:16,900
+Not me, not you, not anyone.
+
+392
+00:29:17,130 --> 00:29:18,801
+Shugufta!
+
+393
+00:29:18,891 --> 00:29:20,262
+Take these gifts
+
+394
+00:29:20,262 --> 00:29:23,282
+And throw them in the trash!
+
+395
+00:00:00,000 --> 00:00:00,000
+Now, if you'll excuse me...
+
+396
+00:00:00,000 --> 00:00:00,000
+Move it!
+
+397
+00:00:00,000 --> 00:00:00,000
+C'mon, c'mon!
+
+398
+00:00:00,000 --> 00:00:00,000
+Yes!
+
+399
+00:00:00,000 --> 00:00:00,000
+Someone seems too scared...!
+
+400
+00:00:00,000 --> 00:00:00,000
+Way to go, Maheen! He fears you!
+
+401
+00:00:00,000 --> 00:00:00,000
+Why are you here?
+
+402
+00:00:00,000 --> 00:00:00,000
+Just get in the car for a minute.
+
+403
+00:00:00,000 --> 00:00:00,000
+No way, Jiya, they're all in the lawn! You want to create a scene?
+
+404
+00:00:00,000 --> 00:00:00,000
+You getting in or do I need to go in?
+-Hey!
+
+405
+00:00:00,000 --> 00:00:00,000
+Just... Abducting you!
+
+406
+00:00:00,000 --> 00:00:00,000
+C'mon!
+
+407
+00:00:00,000 --> 00:00:00,000
+Move it already!
+
+408
+00:00:00,000 --> 00:00:00,000
+What's the meaning of this?
+
+409
+00:00:00,000 --> 00:00:00,000
+It's only fair!
+
+410
+00:00:00,000 --> 00:00:00,000
+So...
+
+411
+00:00:00,000 --> 00:00:00,000
+We won the match!
+
+412
+00:00:00,000 --> 00:00:00,000
+We didn't?
+
+413
+00:00:00,000 --> 00:00:00,000
+We didn't.
+
+414
+00:00:00,000 --> 00:00:00,000
+Someone go call him.
+
+415
+00:00:00,000 --> 00:00:00,000
+Who knows where he's gone!
+
+416
+00:00:00,000 --> 00:00:00,000
+Bet they're all thinking I've run off with you.
+
+417
+00:00:00,000 --> 00:00:00,000
+We were playing for 10 blasted gee and just one ball away from victory! My honour was at stake!
+
+418
+00:00:00,000 --> 00:00:00,000
+I can see that, but...
+
+419
+00:00:00,000 --> 00:00:00,000
+Who are you playing?
+
+420
+00:00:00,000 --> 00:00:00,000
+Maheen.
+
+421
+00:00:00,000 --> 00:00:00,000
+Told you we had a match today.
+
+422
+00:00:00,000 --> 00:00:00,000
+You two make quite a match...!
+
+423
+00:00:00,000 --> 00:00:00,000
+We do?
+
+424
+00:00:00,000 --> 00:00:00,000
+Aunt, Ali, Fajr and all the rest are playing!
+
+425
+00:00:00,000 --> 00:00:00,000
+But it's really between the two of you, no?
+
+426
+00:00:00,000 --> 00:00:00,000
+All I need to know, folks,
+
+427
+00:00:00,000 --> 00:00:00,000
+Is where he left for in such a hurry.
+
+428
+00:00:00,000 --> 00:00:00,000
+Surely, he doesn't know any sorcery or some such thing
+
+429
+00:00:00,000 --> 00:00:00,000
+That he'd cast a spell and vanish into thin air.
+
+430
+00:00:00,000 --> 00:00:00,000
+I mean, just a minute later,
+
+431
+00:00:00,000 --> 00:00:00,000
+Munshi Alam went after him...
+
+432
+00:00:00,000 --> 00:00:00,000
+But the knockoff wizard wasn't around anywhere!
+
+433
+00:00:00,000 --> 00:00:00,000
+Bet he's scared of Maheen.
+
+434
+00:00:00,000 --> 00:00:00,000
+Did you see Maheen's bowling?
+
+435
+00:00:00,000 --> 00:00:00,000
+It'd take an Alec James Stewart to face her!
+
+436
+00:00:00,000 --> 00:00:00,000
+Brendon McCullum, more like.
+
+437
+00:00:00,000 --> 00:00:00,000
+Aye,
+
+438
+00:00:00,000 --> 00:00:00,000
+How'd I forget him?
+
+439
+00:00:00,000 --> 00:00:00,000
+I always heard of him as a player...
+
+440
+00:00:00,000 --> 00:00:00,000
+Until...
+
+441
+00:00:00,000 --> 00:00:00,000
+That knockoff wizard showed up on the pitch
+
+442
+00:00:00,000 --> 00:00:00,000
+And vanished!
+
+443
+00:00:00,000 --> 00:00:00,000
+Oh, he didn't vanish.
+
+444
+00:00:00,000 --> 00:00:00,000
+He'd just run back to the dressing room.
+
+445
+00:00:00,000 --> 00:00:00,000
+But what about <i>him</i>?</i>
+
+446
+00:00:00,000 --> 00:00:00,000
+Where could he have gone?
+
+447
+00:00:00,000 --> 00:00:00,000
+Gorblimey
+
+448
+00:00:00,000 --> 00:00:00,000
+For having this most queer thought...
+
+449
+00:00:00,000 --> 00:00:00,000
+But how long
+
+450
+00:00:00,000 --> 00:00:00,000
+Is the blasted flight to London?
+
+451
+00:00:00,000 --> 00:00:00,000
+Seven hours.
+
+452
+00:00:00,000 --> 00:00:00,000
+He got to the airport
+
+453
+00:00:00,000 --> 00:00:00,000
+In two hours
+
+454
+00:00:00,000 --> 00:00:00,000
+And got on the plane...
+
+455
+00:00:00,000 --> 00:00:00,000
+What d'you mean?
+
+456
+00:00:00,000 --> 00:00:00,000
+I mean
+
+457
+00:00:00,000 --> 00:00:00,000
+He'd call you in about ten hours
+
+458
+00:00:00,000 --> 00:00:00,000
+And say, 'Something came up. Had to dash to London'.
+
+459
+00:00:00,000 --> 00:00:00,000
+Why don't you say something?
+
+460
+00:00:00,000 --> 00:00:00,000
+What're you gawpin' at?
+
+461
+00:00:00,000 --> 00:00:00,000
+No idea, Nano...
+
+462
+00:00:00,000 --> 00:00:00,000
+I respect him a lot.
+
+463
+00:00:00,000 --> 00:00:00,000
+Don't speak English!
+
+464
+00:00:00,000 --> 00:00:00,000
+It's okay...
+
+465
+00:00:00,000 --> 00:00:00,000
+He's forgiven for this one mistake...
+
+466
+00:00:00,000 --> 00:00:00,000
+But still...
+
+467
+00:00:00,000 --> 00:00:00,000
+He spelt doom for your victory as he left.
+
+468
+00:00:00,000 --> 00:00:00,000
+Just say something in your anger!
+
+469
+00:00:00,000 --> 00:00:00,000
+May I?
+
+470
+00:00:00,000 --> 00:00:00,000
+Aye, go on.
+
+471
+00:00:00,000 --> 00:00:00,000
+Technically, we've won the match.
+
+472
+00:00:00,000 --> 00:00:00,000
+You can read the ICC's rules if you want.
+
+473
+00:00:00,000 --> 00:00:00,000
+Innit, Wali?
+
+474
+00:00:00,000 --> 00:00:00,000
+There, now...
+
+475
+00:00:00,000 --> 00:00:00,000
+Where's Bakhshi?
+
+476
+00:00:00,000 --> 00:00:00,000
+What can he tell you?
+
+477
+00:00:00,000 --> 00:00:00,000
+That ne'er-do-well doesn't know a thing about cricket.
+
+478
+00:00:00,000 --> 00:00:00,000
+Here you go.
+
+479
+00:00:00,000 --> 00:00:00,000
+Thanks.
+
+480
+00:00:00,000 --> 00:00:00,000
+Don't you like it?
+
+481
+00:00:00,000 --> 00:00:00,000
+What?
+
+482
+00:00:00,000 --> 00:00:00,000
+Like what?
+
+483
+00:00:00,000 --> 00:00:00,000
+Snatching you away.
+
+484
+00:00:00,000 --> 00:00:00,000
+No way, mate.
+
+485
+00:00:00,000 --> 00:00:00,000
+Just... It was quite the match.
+
+486
+00:00:00,000 --> 00:00:00,000
+Now I'm pretty sure they're thinking there's something going on between us.
+
+487
+00:00:00,000 --> 00:00:00,000
+Isn't there?
+
+488
+00:00:00,000 --> 00:00:00,000
+Ehh?
+
+489
+00:00:00,000 --> 00:00:00,000
+There's nothing between us?
+
+490
+00:00:00,000 --> 00:00:00,000
+Jiya...
+
+491
+00:00:00,000 --> 00:00:00,000
+You're joking, right?
+
+492
+00:00:00,000 --> 00:00:00,000
+You're not serious, are you?
+
+493
+00:00:00,000 --> 00:00:00,000
+I'm very serious, Waqar.
+
+494
+00:00:00,000 --> 00:00:00,000
+Uncle Bakhshi!
+
+495
+00:00:00,000 --> 00:00:00,000
+Aye?
+-Here...
+
+496
+00:00:00,000 --> 00:00:00,000
+Come here.
+
+497
+00:00:00,000 --> 00:00:00,000
+Ma'am.
+
+498
+00:00:00,000 --> 00:00:00,000
+What'd you say to Waqar Ahmed?
+
+499
+00:00:00,000 --> 00:00:00,000
+Waqar Ahmed?
+
+500
+00:00:00,000 --> 00:00:00,000
+You know, the one you whispered something to?
+
+501
+00:00:00,000 --> 00:00:00,000
+What'd you tell him?
+
+502
+00:00:00,000 --> 00:00:00,000
+Ah, him.
+
+503
+00:00:00,000 --> 00:00:00,000
+Mlle. Jiya rang up the intercom
+
+504
+00:00:00,000 --> 00:00:00,000
+And said she's outside.
+
+505
+00:00:00,000 --> 00:00:00,000
+She asked me to tell Waqar
+
+506
+00:00:00,000 --> 00:00:00,000
+That if he didn't come out in two minutes,
+
+507
+00:00:00,000 --> 00:00:00,000
+She's coming in
+
+508
+00:00:00,000 --> 00:00:00,000
+To drag him along for everyone to see.
+
+509
+00:00:00,000 --> 00:00:00,000
+<i>Love's testimony is not to be asked of it...</i>
+
+510
 00:00:00,000 --> 00:00:00,000
 Translation: Aditya Misra © GEO TV
 
