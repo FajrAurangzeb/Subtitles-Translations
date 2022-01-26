@@ -1,920 +1,1048 @@
 1
-00:00:00,000 --> 00:00:00,000
+00:01:30,230 --> 00:01:34,929
 C'mon, now, you illywhacker... Put it on her.
 
 2
-00:00:00,000 --> 00:00:00,000
+00:01:53,560 --> 00:01:57,218
 Give him your hand already, my girl.
 
 3
-00:00:00,000 --> 00:00:00,000
+00:02:25,780 --> 00:02:28,458
 Where's Waqar?
 
 4
-00:00:00,000 --> 00:00:00,000
-Just gone.
+00:02:28,678 --> 00:02:30,639
+He just left.
 
 5
-00:00:00,000 --> 00:00:00,000
+00:02:42,730 --> 00:02:44,268
 Where?
 
 6
-00:00:00,000 --> 00:00:00,000
+00:02:44,760 --> 00:02:48,361
 Back where he'd come from.
 
 7
-00:00:00,000 --> 00:00:00,000
+00:02:57,073 --> 00:02:59,881
 His flight leaves at 2 a.m.
 
 8
-00:00:00,000 --> 00:00:00,000
+00:05:15,550 --> 00:05:16,738
 Hello?
 
 9
-00:00:00,000 --> 00:00:00,000
+00:05:19,071 --> 00:05:20,931
 You're leaving?
 
 10
-00:00:00,000 --> 00:00:00,000
-Maheen...
+00:05:21,383 --> 00:05:22,822
+Maheen?
 
 11
-00:00:00,000 --> 00:00:00,000
+00:05:23,960 --> 00:05:26,208
 I asked if you're leaving.
 
 12
-00:00:00,000 --> 00:00:00,000
+00:05:26,288 --> 00:05:28,084
 Got engaged?
 
 13
-00:00:00,000 --> 00:00:00,000
+00:05:30,350 --> 00:05:31,839
 Stop the car!
 
 14
-00:00:00,000 --> 00:00:00,000
+00:05:33,641 --> 00:05:35,191
 Stop the car.
 
 15
-00:00:00,000 --> 00:00:00,000
+00:05:43,370 --> 00:05:45,678
 Don't go anywhere, Waqar...
 
 16
-00:00:00,000 --> 00:00:00,000
+00:05:50,338 --> 00:05:52,288
 For my sake...
 
 17
-00:00:00,000 --> 00:00:00,000
+00:05:55,708 --> 00:05:57,838
 Don't leave me in here...
 
 18
-00:00:00,000 --> 00:00:00,000
+00:08:33,740 --> 00:08:36,828
 I want to tell you something...
 
 19
-00:00:00,000 --> 00:00:00,000
-I think... I want to tell you, Nano...
+00:08:43,250 --> 00:08:45,358
+Especially you, Nano...
 
 20
-00:00:00,000 --> 00:00:00,000
-But I want everyone else to know...
+00:08:47,468 --> 00:08:50,438
+I think... I want to tell you, Nano...
 
 21
-00:00:00,000 --> 00:00:00,000
-When you get us engaged as kids... We're too young...
+00:08:51,899 --> 00:08:54,724
+But I want everyone else to know...
 
 22
-00:00:00,000 --> 00:00:00,000
-Too young to know what it means...
+00:09:08,380 --> 00:09:11,921
+When you get us engaged as kids...
 
 23
-00:00:00,000 --> 00:00:00,000
-What we eat, when we sleep - You decide everything.
+00:09:11,981 --> 00:09:14,312
+We're too young...
 
 24
-00:00:00,000 --> 00:00:00,000
-We eat even when we're not hungry.
+00:09:15,091 --> 00:09:17,891
+Too young to know what it means...
 
 25
-00:00:00,000 --> 00:00:00,000
-Doze off even when we're not sleepy...
+00:09:18,171 --> 00:09:23,531
+What we eat, when we sleep - You decide everything.
 
 26
-00:00:00,000 --> 00:00:00,000
-We're so stupid we skive off school for fun...
+00:09:25,710 --> 00:09:28,657
+We eat even when we're not hungry.
 
 27
-00:00:00,000 --> 00:00:00,000
-We realise later that school's more important.
+00:09:29,223 --> 00:09:32,608
+Doze off even when we're not sleepy...
 
 28
-00:00:00,000 --> 00:00:00,000
-We pray that our teachers get hurt,
+00:09:38,970 --> 00:09:43,900
+We're so stupid we skive off school for fun...
 
 29
-00:00:00,000 --> 00:00:00,000
-Or the city rises up in an insurrection,
+00:09:44,210 --> 00:09:48,853
+We realise later that school's more important.
 
 30
-00:00:00,000 --> 00:00:00,000
-Without a care for the living or the dead... We just want the school to close down!
+00:09:50,321 --> 00:09:53,370
+We pray that our teachers get hurt,
 
 31
-00:00:00,000 --> 00:00:00,000
-But these wishes, these curses...
+00:09:53,370 --> 00:09:55,480
+Or the city rises up in an insurrection,
 
 32
-00:00:00,000 --> 00:00:00,000
-They don't really mean anything.
+00:09:55,480 --> 00:09:59,431
+Without a care for the living or the dead... We just want the school to close down!
 
 33
-00:00:00,000 --> 00:00:00,000
-We know what death is.
+00:10:05,250 --> 00:10:08,068
+But these wishes, these curses...
 
 34
-00:00:00,000 --> 00:00:00,000
-We know death
+00:10:08,068 --> 00:10:11,388
+They don't really mean anything.
 
 35
-00:00:00,000 --> 00:00:00,000
-As a moment of sorrow and mourning.
+00:10:14,290 --> 00:10:16,848
+We know what death is.
 
 36
-00:00:00,000 --> 00:00:00,000
-But we don't know what it means to die...
+00:10:19,878 --> 00:10:22,333
+We know death
 
 37
-00:00:00,000 --> 00:00:00,000
-Our life's without any logic.
+00:10:22,898 --> 00:10:25,828
+As a moment of sorrow and mourning.
 
 38
-00:00:00,000 --> 00:00:00,000
-Fighting for no reason, then making peace for no reason...
+00:10:26,598 --> 00:10:29,009
+But we don't know
 
 39
-00:00:00,000 --> 00:00:00,000
-I've heard I was 10 when you got me engaged to Gulrez.
+00:10:29,119 --> 00:10:31,759
+What it means to die...
 
 40
-00:00:00,000 --> 00:00:00,000
-I'm sure you told me...
+00:10:35,300 --> 00:10:38,850
+Our life's without any logic.
 
 41
-00:00:00,000 --> 00:00:00,000
-I must've been delighted and agreed.
+00:10:39,000 --> 00:10:40,950
+Fighting for no reason,
 
 42
-00:00:00,000 --> 00:00:00,000
-But...
+00:10:40,950 --> 00:10:43,478
+Making peace for no reason...
 
 43
-00:00:00,000 --> 00:00:00,000
-Did any of you ever think about the reason I was so happy?
+00:10:48,160 --> 00:10:49,918
+I've heard
 
 44
-00:00:00,000 --> 00:00:00,000
-I might just be thinking that engagements and weddings are more excuses to skive off school! Who knows!
+00:10:50,038 --> 00:10:51,579
+I was 10
 
 45
-00:00:00,000 --> 00:00:00,000
-I'm sure you're all wondering why I had to accept it just to refuse on the day of the engagement.
+00:10:51,579 --> 00:10:54,597
+When you got me engaged to Gulrez.
 
 46
-00:00:00,000 --> 00:00:00,000
-In truth...
+00:10:54,798 --> 00:10:56,878
+I'm sure you told me...
 
 47
-00:00:00,000 --> 00:00:00,000
-I've been fighting myself until the moment I put on the ring and refused...
+00:10:56,878 --> 00:10:59,608
+I must've been delighted and agreed.
 
 48
-00:00:00,000 --> 00:00:00,000
-I wanted to sacrifice myself for your happiness.
+00:11:01,550 --> 00:11:03,031
+But...
 
 49
-00:00:00,000 --> 00:00:00,000
-But I lost as the clock struck 12.
+00:11:03,121 --> 00:11:05,842
+Did any of you ever think
 
 50
-00:00:00,000 --> 00:00:00,000
-My heart, which used to celebrate another day off 10 years ago,
+00:11:06,620 --> 00:11:10,749
+Why I was so happy I agreed?
 
 51
-00:00:00,000 --> 00:00:00,000
-Started beating for someone.
+00:11:13,250 --> 00:11:16,138
+Who knows, I might just be thinking
 
 52
-00:00:00,000 --> 00:00:00,000
-I'm sorry, Neelam...
+00:11:16,138 --> 00:11:20,468
+That engagements and weddings are more excuses to skive off school!
 
 53
-00:00:00,000 --> 00:00:00,000
-But it isn't Gulrez.
+00:11:26,736 --> 00:11:29,616
+I'm sure you're all wondering
 
 54
-00:00:00,000 --> 00:00:00,000
-So it's you...
+00:11:30,010 --> 00:11:32,932
+Why I had to accept it
 
 55
-00:00:00,000 --> 00:00:00,000
-Maheen's old man... You blighter!
+00:11:33,001 --> 00:11:36,341
+Just to refuse on the day of the engagement.
 
 56
-00:00:00,000 --> 00:00:00,000
-You charred three lives in the searing flames of your desires,
+00:11:41,080 --> 00:11:43,160
+In truth...
 
 57
-00:00:00,000 --> 00:00:00,000
-Only to die and escape everything! How convenient!
+00:11:47,190 --> 00:11:50,300
+I've been fighting myself
 
 58
-00:00:00,000 --> 00:00:00,000
-What'd you think?
+00:11:50,429 --> 00:11:53,629
+Until the moment I put on the ring and refused...
 
 59
-00:00:00,000 --> 00:00:00,000
-Your sins would die with you?
+00:11:54,900 --> 00:11:59,089
+I wanted to sacrifice myself for your happiness.
 
 60
-00:00:00,000 --> 00:00:00,000
-That the record of your sins would be buried with you?
+00:12:00,219 --> 00:12:02,969
+But I lost as the clock struck 12.
 
 61
-00:00:00,000 --> 00:00:00,000
-No, Aurangzeb! No...
+00:12:05,420 --> 00:12:08,320
+My heart, which used to celebrate another day off
 
 62
-00:00:00,000 --> 00:00:00,000
-No...
+00:12:08,320 --> 00:12:11,201
+10 years ago,
 
 63
-00:00:00,000 --> 00:00:00,000
-Your generations have to pay for it
+00:12:12,840 --> 00:12:15,628
+Started beating for someone.
 
 64
-00:00:00,000 --> 00:00:00,000
-Until every score's been settled.
+00:12:36,790 --> 00:12:39,358
+I'm sorry, Neelam...
 
 65
-00:00:00,000 --> 00:00:00,000
-HEAR ME IF YOU CAN!
+00:12:45,000 --> 00:12:47,202
+But it isn't Gulrez.
 
 66
-00:00:00,000 --> 00:00:00,000
-Don't...
+00:14:54,920 --> 00:14:56,658
+So it's <i>you</i>...
 
 67
-00:00:00,000 --> 00:00:00,000
-Don't cower in your grave thinking that everyone will forget the seeds you've sown now that you're dust.
+00:14:59,810 --> 00:15:04,129
+Maheen's old man... You blighter!
 
 68
-00:00:00,000 --> 00:00:00,000
-Sins are debts, Aurangzeb! DEBTS!
+00:15:11,160 --> 00:15:18,938
+You charred three lives in the searing flames of your desires,
 
 69
-00:00:00,000 --> 00:00:00,000
-Sins are debts, Aurangzeb.
+00:15:21,198 --> 00:15:25,369
+Only to die and escape everything! How convenient!
 
 70
-00:00:00,000 --> 00:00:00,000
-And the debts of the father
+00:15:39,120 --> 00:15:41,168
+What'd you think?
 
 71
-00:00:00,000 --> 00:00:00,000
-Are to be laid upon the children.
+00:15:43,550 --> 00:15:47,498
+Your sins would die with you?
 
 72
-00:00:00,000 --> 00:00:00,000
-AURANGZEB!
+00:15:53,800 --> 00:15:58,788
+That the record of your sins would be buried with you?
 
 73
-00:00:00,000 --> 00:00:00,000
-Dastoor Ahmed! Go and tell him if he's upstairs that Ammi Begum ain't going away so quickly!
+00:16:04,790 --> 00:16:09,198
+No, Aurangzeb! No...
 
 74
-00:00:00,000 --> 00:00:00,000
-He better not set foot here until I'm dead!
+00:16:13,600 --> 00:16:15,578
+No...
 
 75
-00:00:00,000 --> 00:00:00,000
-GO!
+00:16:19,070 --> 00:16:21,601
+Your generations
 
 76
-00:00:00,000 --> 00:00:00,000
-I knew in the morning what was going to happen tonight...
+00:16:22,241 --> 00:16:24,931
+Have to pay for it
 
 77
-00:00:00,000 --> 00:00:00,000
-Do you know how?
+00:16:29,660 --> 00:16:32,720
+Until every score
 
 78
-00:00:00,000 --> 00:00:00,000
-I had to go somewhere in the afternoon.
+00:16:33,001 --> 00:16:37,361
+Has been settled!
 
 79
-00:00:00,000 --> 00:00:00,000
-My Foxy didn't start...
+00:16:53,390 --> 00:16:58,018
+HEAR ME IF YOU CAN!
 
 80
-00:00:00,000 --> 00:00:00,000
-I was like, 'Jesus Christ, mate'...
+00:17:01,510 --> 00:17:02,848
+Don't...
 
 81
-00:00:00,000 --> 00:00:00,000
-'You're gonna kill me today'.
+00:17:03,660 --> 00:17:07,621
+Don't cower in your grave thinking
 
 82
-00:00:00,000 --> 00:00:00,000
-For many years now, that's how she told me to stop.
+00:17:08,731 --> 00:17:14,251
+That everyone will forget the seeds you've sown now that you're dust.
 
 83
-00:00:00,000 --> 00:00:00,000
-This is her signal.
+00:17:16,680 --> 00:17:21,459
+Sins are debts, Aurangzeb! DEBTS!
 
 84
-00:00:00,000 --> 00:00:00,000
-That's how I know
+00:17:45,490 --> 00:17:48,989
+Sins are debts, Aurangzeb.
 
 85
-00:00:00,000 --> 00:00:00,000
-That it's not the day.
+00:17:55,400 --> 00:17:58,210
+And the debts of the father
 
 86
-00:00:00,000 --> 00:00:00,000
-I knew by the afternoon.
+00:18:02,779 --> 00:18:04,685
+Are to be laid
 
 87
-00:00:00,000 --> 00:00:00,000
-But I thought the day would change by midnight, when I'd get engaged...
+00:18:05,153 --> 00:18:08,740
+Upon the children.
 
 88
-00:00:00,000 --> 00:00:00,000
-Hoped, perhaps, that so would my fate...
+00:18:42,220 --> 00:18:44,288
+AURANGZEB!
 
 89
-00:00:00,000 --> 00:00:00,000
-But Nano...
+00:19:48,220 --> 00:19:52,141
+Dastoor Ahmed! Go and tell him if he's upstairs
 
 90
-00:00:00,000 --> 00:00:00,000
-She's always in a hurry.
+00:19:52,201 --> 00:19:56,330
+That Ammi Begum ain't going away so quickly!
 
 91
-00:00:00,000 --> 00:00:00,000
-She didn't even wait until midnight.
+00:19:56,992 --> 00:20:02,483
+He better not set foot here until I'm dead!
 
 92
-00:00:00,000 --> 00:00:00,000
-Comforting won't make this sorrow vanish into thin air.
+00:20:12,630 --> 00:20:14,138
+GO!
 
 93
-00:00:00,000 --> 00:00:00,000
-It isn't a cure either that'd work like a spell on your pat.
+00:22:09,500 --> 00:22:13,128
+I knew in the morning what was going to happen tonight...
 
 94
-00:00:00,000 --> 00:00:00,000
-If you ask me, I'm honoured.
+00:22:14,178 --> 00:22:16,128
+Do you know how?
 
 95
-00:00:00,000 --> 00:00:00,000
-I mean, just think of it this way...
+00:22:18,938 --> 00:22:21,908
+I had to go somewhere in the afternoon.
 
 96
-00:00:00,000 --> 00:00:00,000
-She's confident that I can take it.
+00:22:23,489 --> 00:22:25,878
+My Foxy refused to start...
 
 97
-00:00:00,000 --> 00:00:00,000
-Go and comfort the one who's suffering in someone else's sorrow. He needs it more than me.
+00:22:26,820 --> 00:22:29,350
+I was like, 'Jesus Christ, mate'...
 
 98
-00:00:00,000 --> 00:00:00,000
-He didn't come here, Ammi Begum.
+00:22:29,980 --> 00:22:32,678
+'You're gonna kill me today'.
 
 99
-00:00:00,000 --> 00:00:00,000
-How will he?
+00:22:40,940 --> 00:22:43,201
+For many years now,
 
 100
-00:00:00,000 --> 00:00:00,000
-Who could he look in the eye?
+00:22:46,329 --> 00:22:48,790
+That's how
 
 101
-00:00:00,000 --> 00:00:00,000
-Please sit, Ammi Begum.
+00:22:49,470 --> 00:22:52,071
+She's told me to stop.
 
 102
-00:00:00,000 --> 00:00:00,000
-Cool down and think over it.
+00:22:56,940 --> 00:22:59,318
+That's her signal.
 
 103
-00:00:00,000 --> 00:00:00,000
-I'm a blimmin' fireball right now and you want me to cool down?
+00:23:00,908 --> 00:23:03,078
+That's how I know
 
 104
-00:00:00,000 --> 00:00:00,000
-Get it through to him! He better leave the country! Or the city at the very least!
+00:23:03,820 --> 00:23:06,188
+That it's not the day.
 
 105
-00:00:00,000 --> 00:00:00,000
-I better not see him while I'm alive!
+00:23:07,729 --> 00:23:10,568
+I knew by the afternoon.
 
 106
-00:00:00,000 --> 00:00:00,000
-Jeez...
+00:23:16,290 --> 00:23:21,438
+But I thought the day would change by midnight, when I'd get engaged...
 
 107
-00:00:00,000 --> 00:00:00,000
-'Jeez'?
+00:23:23,419 --> 00:23:26,728
+Hoped, perhaps, that so would my fate...
 
 108
-00:00:00,000 --> 00:00:00,000
-What do you mean?
+00:23:33,930 --> 00:23:35,919
+But Nano...
 
 109
-00:00:00,000 --> 00:00:00,000
-You're pushing yourself, Ammi Begum.
+00:23:36,808 --> 00:23:39,438
+She's always in a hurry.
 
 110
-00:00:00,000 --> 00:00:00,000
-He's here after ages.
+00:23:42,050 --> 00:23:44,788
+She didn't even wait until midnight.
 
 111
-00:00:00,000 --> 00:00:00,000
-Remember your prayers?
+00:24:30,170 --> 00:24:34,308
+Comforting won't make this sorrow vanish into thin air.
 
 112
-00:00:00,000 --> 00:00:00,000
-All wasted as far as I care, Dastoor Ahmed.
+00:24:35,677 --> 00:24:38,348
+It isn't a cure either
 
 113
-00:00:00,000 --> 00:00:00,000
-Now, I pray that I hear the rotter's landed in London.
+00:24:39,038 --> 00:24:42,518
+That'd work like a spell on your pat.
 
 114
-00:00:00,000 --> 00:00:00,000
-That's what I think... He would've landed by tomorrow.
+00:24:45,238 --> 00:24:46,829
+If you ask me,
 
 115
-00:00:00,000 --> 00:00:00,000
-I'm sure he'd think about the family's honour... And your order.
+00:24:46,829 --> 00:24:49,680
+I'm honoured.
 
 116
-00:00:00,000 --> 00:00:00,000
-He isn't going, Dastoor Ahmed...
+00:24:52,920 --> 00:24:54,280
+I mean,
 
 117
-00:00:00,000 --> 00:00:00,000
-Maheen's silence was enough to stop him.
+00:24:54,820 --> 00:24:57,709
+Just think of it this way...
 
 118
-00:00:00,000 --> 00:00:00,000
-And now the twit's called out to him.
+00:24:58,150 --> 00:25:00,108
+She's confident
 
 119
-00:00:00,000 --> 00:00:00,000
-Come.
+00:25:01,458 --> 00:25:04,338
+That I can take it.
 
 120
-00:00:00,000 --> 00:00:00,000
-Remember this place? From your Mum and Dad's last days?
+00:25:13,320 --> 00:25:15,878
+Go and comfort the one
 
 121
-00:00:00,000 --> 00:00:00,000
-Oh, I almost miss the Saturday nights, the Sunday mornings! So lively...
+00:25:17,960 --> 00:25:20,978
+Who's suffering in someone else's sorrow.
 
 122
-00:00:00,000 --> 00:00:00,000
-Not to mention the cricket matches in the lawn. In the floodlights!
+00:25:22,721 --> 00:25:25,361
+He needs it more than me.
 
 123
-00:00:00,000 --> 00:00:00,000
-Ammi Begum used to bowl too!
+00:25:57,740 --> 00:26:00,049
+He didn't come here, Ammi Begum.
 
 124
-00:00:00,000 --> 00:00:00,000
-Your Mum and Dad stayed in this room when they were here.
+00:26:06,150 --> 00:26:08,348
+How will he?
 
 125
-00:00:00,000 --> 00:00:00,000
-I'm sure it's a bit dusty... It's only cleaned once a year.
+00:26:09,209 --> 00:26:11,709
+Who could he look in the eye?
 
 126
-00:00:00,000 --> 00:00:00,000
-And the spiderwebs! But don't worry...
+00:26:11,969 --> 00:26:14,068
+Please sit, Ammi Begum.
 
 127
-00:00:00,000 --> 00:00:00,000
-I'll have it cleaned.
+00:26:16,159 --> 00:26:18,209
+Cool down and think over it.
 
 128
-00:00:00,000 --> 00:00:00,000
-That's okay, Munshi Alam... But what next?
+00:26:18,209 --> 00:26:23,929
+I'm a blimmin' fireball right now and you want me to cool down?
 
 129
-00:00:00,000 --> 00:00:00,000
-Dado would be furious.
+00:26:25,019 --> 00:26:27,110
+Get it through to him!
 
 130
-00:00:00,000 --> 00:00:00,000
-That's why I brought you here.
+00:26:27,190 --> 00:26:30,700
+He better leave the country! Or the city at the very least!
 
 131
-00:00:00,000 --> 00:00:00,000
-I've saved your life, so to speak.
+00:26:31,390 --> 00:26:34,268
+I better not see him while I'm alive!
 
 132
-00:00:00,000 --> 00:00:00,000
-What do you mean? She'd kill me if she saw me?
+00:26:34,390 --> 00:26:35,708
+Jeez...
 
 133
-00:00:00,000 --> 00:00:00,000
-I wouldn't rule that out.
+00:26:35,788 --> 00:26:37,378
+'Jeez'?
 
 134
-00:00:00,000 --> 00:00:00,000
-You don't know how much she loves me.
-
-135
-00:00:00,000 --> 00:00:00,000
-I did... Until yesterday evening.
-
-136
-00:00:00,000 --> 00:00:00,000
-No idea now.
-
-137
-00:00:00,000 --> 00:00:00,000
-And the food... What about the food? I don't think anyone would deliver anything here.
-
-138
-00:00:00,000 --> 00:00:00,000
-Don't worry while I'm here.
-
-139
-00:00:00,000 --> 00:00:00,000
-Just think about how long you're staying here.
-
-140
-00:00:00,000 --> 00:00:00,000
+00:26:38,239 --> 00:26:39,939
 What do you mean?
 
+135
+00:26:40,029 --> 00:26:42,500
+You're pushing yourself, Ammi Begum.
+
+136
+00:26:42,890 --> 00:26:45,718
+He's here after ages.
+
+137
+00:26:47,059 --> 00:26:50,618
+Remember your prayers?
+
+138
+00:26:50,778 --> 00:26:54,610
+All wasted as far as I care, Dastoor Ahmed.
+
+139
+00:26:56,739 --> 00:27:04,919
+Now, I pray that I hear the rotter's landed in London.
+
+140
+00:27:05,340 --> 00:27:07,420
+That's what I think...
+
 141
-00:00:00,000 --> 00:00:00,000
-It's best for you that you leave.
+00:27:07,420 --> 00:27:09,908
+He would've landed by tomorrow.
 
 142
-00:00:00,000 --> 00:00:00,000
-Leave?
+00:27:10,329 --> 00:27:14,814
+I'm sure he'd think about the family's honour... And your order.
 
 143
-00:00:00,000 --> 00:00:00,000
-Why?
+00:27:16,811 --> 00:27:19,938
+He isn't going, Dastoor Ahmed...
 
 144
-00:00:00,000 --> 00:00:00,000
-It ain't easy to take up arms against Ammi Begum.
+00:27:21,308 --> 00:27:26,078
+Maheen's silence was enough to stop him.
 
 145
-00:00:00,000 --> 00:00:00,000
-Wait in the lounge outside while I clean the room.
+00:27:28,528 --> 00:27:33,328
+And now the twit's called out to him.
 
 146
-00:00:00,000 --> 00:00:00,000
-Munshi Alam...
+00:27:43,350 --> 00:27:44,628
+Come.
 
 147
-00:00:00,000 --> 00:00:00,000
-Mind if I ask something?
+00:27:45,600 --> 00:27:49,411
+Remember this place? From your Mum and Dad's last days?
 
 148
-00:00:00,000 --> 00:00:00,000
-It wasn't right, was it?
+00:27:49,411 --> 00:27:57,770
+Oh, I almost miss the Saturday nights, the Sunday mornings! So lively...
 
 149
-00:00:00,000 --> 00:00:00,000
-Yeah...
+00:28:08,389 --> 00:28:13,734
+Not to mention the cricket matches in the lawn. In the floodlights!
 
 150
-00:00:00,000 --> 00:00:00,000
-She's been Gulrez's fiancée for years.
+00:28:13,734 --> 00:28:18,500
+Ammi Begum used to bowl too!
 
 151
-00:00:00,000 --> 00:00:00,000
-We never thought she wouldn't marry him.
+00:28:19,409 --> 00:28:24,821
+Your Mum and Dad stayed in this room when they were here.
 
 152
-00:00:00,000 --> 00:00:00,000
-And we had absolutely no idea she'd refuse on the day of the engagement!
+00:28:24,949 --> 00:28:29,150
+I'm sure it's a bit dusty... It's only cleaned once a year.
 
 153
-00:00:00,000 --> 00:00:00,000
-I'm sorry...
+00:28:29,241 --> 00:28:34,790
+And the spiderwebs! But don't worry...
 
 154
-00:00:00,000 --> 00:00:00,000
-Sorry?
+00:28:34,919 --> 00:28:36,870
+I'll have it cleaned.
 
 155
-00:00:00,000 --> 00:00:00,000
-You're sorry about something?
+00:28:37,290 --> 00:28:40,573
+That's okay, Munshi Alam... But what next?
 
 156
-00:00:00,000 --> 00:00:00,000
-Yeah.
+00:28:41,589 --> 00:28:44,278
+Dado would be furious.
 
 157
-00:00:00,000 --> 00:00:00,000
-You don't love Maheen?
+00:28:44,719 --> 00:28:47,009
+That's why I brought you here.
 
 158
-00:00:00,000 --> 00:00:00,000
-Don't you love Maheen?
+00:28:47,060 --> 00:28:50,359
+I've saved your life, so to speak.
 
 159
-00:00:00,000 --> 00:00:00,000
-I do.
+00:28:50,840 --> 00:28:52,829
+What do you mean?
 
 160
-00:00:00,000 --> 00:00:00,000
-Why are you sorry, then?
+00:28:52,888 --> 00:28:55,129
+She'd kill me if she saw me?
 
 161
-00:00:00,000 --> 00:00:00,000
-Wait in the lawn.
+00:28:55,282 --> 00:28:57,423
+I wouldn't rule that out.
 
 162
-00:00:00,000 --> 00:00:00,000
-Okay.
+00:28:57,949 --> 00:29:00,985
+You don't know how much she loves me.
 
 163
-00:00:00,000 --> 00:00:00,000
-You want to read my diary?
+00:29:02,033 --> 00:29:04,309
+I did... Until yesterday evening.
 
 164
-00:00:00,000 --> 00:00:00,000
-No. Why would I? I thought it'd wake you up.
+00:29:04,309 --> 00:29:07,108
+No idea now.
 
 165
-00:00:00,000 --> 00:00:00,000
-Is Mum up?
+00:29:08,701 --> 00:29:12,979
+And the food... What about the food? I don't think anyone would deliver anything here.
 
 166
-00:00:00,000 --> 00:00:00,000
-Scared?
+00:29:13,729 --> 00:29:17,240
+Don't worry while I'm here.
 
 167
-00:00:00,000 --> 00:00:00,000
-I'm scared because she's worried.
+00:29:17,349 --> 00:29:20,860
+Just think about how long you're staying here.
 
 168
-00:00:00,000 --> 00:00:00,000
-Did you talk to him?
+00:29:24,240 --> 00:29:25,900
+What do you mean?
 
 169
-00:00:00,000 --> 00:00:00,000
-Who?
+00:29:27,470 --> 00:29:32,000
+It's best for you that you leave.
 
 170
-00:00:00,000 --> 00:00:00,000
-The one you asked to not go anywhere.
+00:29:35,070 --> 00:29:36,418
+Leave?
 
 171
-00:00:00,000 --> 00:00:00,000
-Did he leave?
-
-172
-00:00:00,000 --> 00:00:00,000
-Do you think he'd leave for any English rose in the world?
-
-173
-00:00:00,000 --> 00:00:00,000
-Nano would fill him with lead.
-
-174
-00:00:00,000 --> 00:00:00,000
-What about you?
-
-175
-00:00:00,000 --> 00:00:00,000
-I don't think she'd even consider me worth aiming a gun at...
-
-176
-00:00:00,000 --> 00:00:00,000
-Fall at her feet when you see her.
-
-177
-00:00:00,000 --> 00:00:00,000
-She'd move back, call Uncle Dastoor and say,
-
-178
-00:00:00,000 --> 00:00:00,000
-'Tell her I don't want to see her face, Dastoor Ahmed'!
-
-179
-00:00:00,000 --> 00:00:00,000
-'She better die... And if she can't, let her know that Kaneez Begum's dead for her'!
-
-180
-00:00:00,000 --> 00:00:00,000
-What are my options?
-
-181
-00:00:00,000 --> 00:00:00,000
-In that case...
-
-182
-00:00:00,000 --> 00:00:00,000
-Seize her hand and say...
-
-183
-00:00:00,000 --> 00:00:00,000
-'I'm gonna die for real, Nano'!
-
-184
-00:00:00,000 --> 00:00:00,000
-As if she'd give two hoots.
-
-185
-00:00:00,000 --> 00:00:00,000
-No. She won't let you die. Focus on finding out about the one you want to live for.
-
-186
-00:00:00,000 --> 00:00:00,000
-Impossible!
-
-187
-00:00:00,000 --> 00:00:00,000
-What do you mean? Just call him!
-
-188
-00:00:00,000 --> 00:00:00,000
-I'd call that loafer?
-
-189
-00:00:00,000 --> 00:00:00,000
-Aye, fair enough... I'm sure youse twos will be oh-so-shy now...
-
-190
-00:00:00,000 --> 00:00:00,000
-You said God-knows-what about him, and now you're saying you want to marry him?
-
-191
-00:00:00,000 --> 00:00:00,000
-By the Lord, I never said that!
-
-192
-00:00:00,000 --> 00:00:00,000
-Well, maybe you didn't, but we heard it!
-
-193
-00:00:00,000 --> 00:00:00,000
-I just asked him to stay here.
-
-194
-00:00:00,000 --> 00:00:00,000
-Does it look good? Leaving the country over a trifle?
-
-195
-00:00:00,000 --> 00:00:00,000
-That's what everyone's furious about. You think the engagement was a trifle.
-
-196
-00:00:00,000 --> 00:00:00,000
-Call him, pinhead! Ask him how well he can cheat death!
-
-197
-00:00:00,000 --> 00:00:00,000
-It's all your fault!
-
-198
-00:00:00,000 --> 00:00:00,000
-I nearly put the ring on!
-
-199
-00:00:00,000 --> 00:00:00,000
-If you put the ring on, I wouldn't have let you take it off.
-
-200
-00:00:00,000 --> 00:00:00,000
-And that's the only good thing about the scene last night - you not wearing the ring.
-
-201
-00:00:00,000 --> 00:00:00,000
-I'm sure you broke many hearts. But if you took it off after wearing it, it might've killed someone.
-
-202
-00:00:00,000 --> 00:00:00,000
-I've been thinking all night...
-
-203
-00:00:00,000 --> 00:00:00,000
-What would've they gone through? The one I stopped... And the one I let go of?
-
-204
-00:00:00,000 --> 00:00:00,000
-Just see him once. I'm sure you'd be a bit ashamed, but try not to look like it.
-
-205
-00:00:00,000 --> 00:00:00,000
-Many would've comforted him, but he won't find peace until he's met you.
-
-206
-00:00:00,000 --> 00:00:00,000
-And... Don't be afraid even if someone pointed a gun at your head.
-
-207
-00:00:00,000 --> 00:00:00,000
-Don't give in to anyone's tears.
-
-208
-00:00:00,000 --> 00:00:00,000
-You don't have or ask for mercy in love.
-
-209
-00:00:00,000 --> 00:00:00,000
-And don't come to the table for breakfast while Mum's around.
-
-210
-00:00:00,000 --> 00:00:00,000
+00:29:36,600 --> 00:29:38,079
 Why?
 
-211
-00:00:00,000 --> 00:00:00,000
-Because there's knives, forks, and china plates.
+172
+00:29:38,798 --> 00:29:43,718
+It ain't easy to take up arms against Ammi Begum.
 
-212
-00:00:00,000 --> 00:00:00,000
-Hey...
+173
+00:29:44,060 --> 00:29:50,748
+Wait in the lounge outside while I clean the room.
 
-213
-00:00:00,000 --> 00:00:00,000
-When do I see him?
+174
+00:29:51,120 --> 00:29:52,778
+Munshi Alam...
 
-214
-00:00:00,000 --> 00:00:00,000
+175
+00:29:54,118 --> 00:29:56,368
+Mind if I ask something?
+
+176
+00:29:57,878 --> 00:30:00,228
+It wasn't right, was it?
+
+177
+00:30:02,080 --> 00:30:03,555
+Yeah...
+
+178
+00:30:04,670 --> 00:30:08,268
+She's been Gulrez's fiancée for years.
+
+179
+00:30:10,220 --> 00:30:15,008
+We never thought she wouldn't marry him.
+
+180
+00:30:17,888 --> 00:30:25,678
+And we had absolutely no idea she'd refuse right on the day of the engagement!
+
+181
+00:30:27,930 --> 00:30:29,299
+I'm sorry...
+
+182
+00:30:29,419 --> 00:30:30,939
+Sorry?
+
+183
+00:30:32,059 --> 00:30:34,629
+You're sorry about something?
+
+184
+00:30:36,029 --> 00:30:37,369
+Aye.
+
+185
+00:30:39,950 --> 00:30:43,839
+You don't love Maheen?
+
+186
+00:30:47,540 --> 00:30:49,691
+Don't you love Maheen?
+
+187
+00:30:51,020 --> 00:30:52,321
+I do.
+
+188
+00:30:52,381 --> 00:30:55,601
+Why are you sorry, then?
+
+189
+00:30:56,381 --> 00:30:58,461
+Wait in the lawn.
+
+190
+00:31:01,610 --> 00:31:02,848
+Okay.
+
+191
+00:31:34,120 --> 00:31:35,808
+You want to read my diary?
+
+192
+00:31:35,808 --> 00:31:40,098
+No. Why would I? I thought it'd wake you up.
+
+193
+00:31:48,590 --> 00:31:50,212
+Is Mum up?
+
+194
+00:31:50,318 --> 00:31:51,878
+Scared?
+
+195
+00:31:53,660 --> 00:31:55,970
+I'm scared because she's worried.
+
+196
+00:31:55,970 --> 00:31:58,018
+Did you talk to him?
+
+197
+00:32:01,870 --> 00:32:03,149
 Who?
 
+198
+00:32:03,208 --> 00:32:06,298
+The one you asked to not go anywhere.
+
+199
+00:32:09,191 --> 00:32:10,708
+Did he leave?
+
+200
+00:32:10,798 --> 00:32:16,048
+Do you think he'd leave for any English rose in the world?
+
+201
+00:32:17,568 --> 00:32:20,308
+Nano would fill him with lead.
+
+202
+00:32:20,520 --> 00:32:22,338
+What about you?
+
+203
+00:32:25,980 --> 00:32:31,100
+I don't think she'd even consider me worth aiming a gun at...
+
+204
+00:32:31,170 --> 00:32:33,628
+Fall at her feet when you see her.
+
+205
+00:32:33,739 --> 00:32:37,890
+She'd move back, call Uncle Dastoor and say,
+
+206
+00:32:37,890 --> 00:32:42,242
+'Tell her I don't want to see her face, Dastoor Ahmed'!
+
+207
+00:32:43,268 --> 00:32:49,965
+'She better die... And if she can't, let her know that Kaneez Begum's dead for her'!
+
+208
+00:32:51,273 --> 00:32:53,678
+What are my options?
+
+209
+00:32:53,808 --> 00:32:55,298
+In that case...
+
+210
+00:32:58,178 --> 00:32:59,768
+Seize her hand and say...
+
+211
+00:32:59,768 --> 00:33:01,619
+'I'm gonna die for real, Nano'!
+
+212
+00:33:01,619 --> 00:33:04,310
+As if she'd give two hoots.
+
+213
+00:33:04,310 --> 00:33:10,439
+No. She won't let you die. Focus on finding out about the one you want to live for.
+
+214
+00:33:10,840 --> 00:33:12,190
+Impossible!
+
 215
-00:00:00,000 --> 00:00:00,000
-Gulrez.
+00:33:12,190 --> 00:33:15,034
+What do you mean? Just call him!
 
 216
-00:00:00,000 --> 00:00:00,000
-Try to see him today.
+00:33:15,360 --> 00:33:17,570
+I'd call that loafer?
 
 217
-00:00:00,000 --> 00:00:00,000
-What do I tell him?
+00:33:17,670 --> 00:33:22,800
+Aye, fair enough... I'm sure youse twos will be oh-so-shy now...
 
 218
-00:00:00,000 --> 00:00:00,000
-Do I have to tell you? You're one weird girl.
+00:33:22,840 --> 00:33:28,230
+You said God-knows-what about him, and now you're saying you want to marry him?
 
 219
-00:00:00,000 --> 00:00:00,000
-Just say... 'If that's what was destined for us'...
+00:33:29,200 --> 00:33:31,750
+By the Lord, I never said that!
 
 220
-00:00:00,000 --> 00:00:00,000
-Destined?
+00:33:31,750 --> 00:33:33,951
+Well, maybe you didn't, but we heard it!
 
 221
-00:00:00,000 --> 00:00:00,000
-I'm sure he's heard the old 'matches are made in Heaven'.
+00:33:33,951 --> 00:33:37,312
+I just asked him to stay here.
 
 222
-00:00:00,000 --> 00:00:00,000
-Ah, lovely excuse...
+00:33:37,360 --> 00:33:41,192
+Does it look good? Leaving the country over a trifle?
 
 223
-00:00:00,000 --> 00:00:00,000
-There's no better excuse than destiny when you're helpless.
+00:33:41,231 --> 00:33:45,201
+That's what everyone's furious about. You think the engagement was a trifle.
 
 224
-00:00:00,000 --> 00:00:00,000
-I just wish he understands...
+00:33:45,244 --> 00:33:51,911
+Call him, pinhead! Ask him how well he can cheat death!
 
 225
-00:00:00,000 --> 00:00:00,000
-May he not curse me.
+00:33:53,451 --> 00:33:55,832
+It's all your fault!
 
 226
-00:00:00,000 --> 00:00:00,000
-Then just go and beg, 'Please don't curse me, Gulrez'!
+00:33:55,893 --> 00:33:59,673
+I nearly put the ring on!
 
 227
-00:00:00,000 --> 00:00:00,000
-By the way...
+00:34:00,630 --> 00:34:05,141
+If you put the ring on, I wouldn't have let you take it off.
 
 228
-00:00:00,000 --> 00:00:00,000
-You don't need to chant any incantations or say anything to curse.
+00:34:05,191 --> 00:34:10,301
+And that's the only good thing about the scene last night - you not wearing the ring.
 
 229
-00:00:00,000 --> 00:00:00,000
-If you see him tormented, crying, just think he's cursing.
+00:34:10,341 --> 00:34:16,632
+I'm sure you broke many hearts. But if you'd taken it off after wearing it, it might've killed someone.
 
 230
-00:00:00,000 --> 00:00:00,000
+00:34:17,770 --> 00:34:20,498
+I've been thinking all night...
+
+231
+00:34:21,460 --> 00:34:23,771
+What would've they gone through?
+
+232
+00:34:24,200 --> 00:34:26,348
+The one I stopped...
+
+233
+00:34:26,650 --> 00:34:29,099
+And the one I let go of?
+
+234
+00:34:30,130 --> 00:34:32,498
+Just see him once.
+
+235
+00:34:32,598 --> 00:34:37,114
+I'm sure you'd be a bit ashamed, but try not to look like it.
+
+236
+00:34:38,129 --> 00:34:43,529
+Many would've comforted him, but he won't find peace until he's met you.
+
+237
+00:34:43,679 --> 00:34:48,539
+And... Don't be afraid even if someone pointed a gun at your head.
+
+238
+00:34:48,599 --> 00:34:51,000
+Don't give in to anyone's tears.
+
+239
+00:34:51,061 --> 00:34:55,512
+You don't have or ask for mercy in love.
+
+240
+00:34:57,032 --> 00:34:59,812
+And don't come to the table for breakfast while Mum's around.
+
+241
+00:34:59,872 --> 00:35:00,710
+Why?
+
+242
+00:35:00,710 --> 00:35:04,958
+Because there's knives, forks, and china plates.
+
+243
+00:35:07,930 --> 00:35:09,258
+Hey...
+
+244
+00:35:13,880 --> 00:35:15,619
+When do I see him?
+
+245
+00:35:15,661 --> 00:35:17,149
+Who?
+
+246
+00:35:19,180 --> 00:35:21,018
+Gulrez.
+
+247
+00:35:21,540 --> 00:35:23,808
+Try to see him today.
+
+248
+00:35:25,453 --> 00:35:27,080
+What do I tell him?
+
+249
+00:35:27,108 --> 00:35:30,703
+Do I have to tell you? You're one weird girl.
+
+250
+00:35:32,354 --> 00:35:35,645
+Just say... 'If that's what was destined for us'...
+
+251
+00:35:36,365 --> 00:35:37,725
+Destined?
+
+252
+00:35:37,725 --> 00:35:40,186
+I'm sure he's heard the old
+
+253
+00:35:40,186 --> 00:35:42,816
+'Matches are made in Heaven'.
+
+254
+00:35:42,956 --> 00:35:44,844
+Ah, lovely excuse...
+
+255
+00:35:44,844 --> 00:35:48,626
+There's no better excuse than destiny when you're helpless.
+
+256
+00:35:51,996 --> 00:35:55,266
+I just wish he understands...
+
+257
+00:35:56,130 --> 00:35:58,458
+May he not curse me.
+
+258
+00:35:58,548 --> 00:36:03,388
+Then just go and beg, 'Please don't curse me, Gulrez'!
+
+259
+00:36:03,708 --> 00:36:05,429
+By the way...
+
+260
+00:36:05,990 --> 00:36:11,831
+You don't need to chant any incantations or say anything to curse.
+
+261
+00:36:12,211 --> 00:36:16,652
+If you see him tormented, crying, just think he's cursing.
+
+262
+00:36:17,000 --> 00:36:22,000
 Translation: Aditya Misra © GEO TV
 

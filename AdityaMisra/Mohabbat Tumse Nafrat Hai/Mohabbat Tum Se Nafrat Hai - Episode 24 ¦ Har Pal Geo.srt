@@ -1,1733 +1,1768 @@
 1
-00:00:00,000 --> 00:00:00,000
+00:01:01,900 --> 00:01:02,848
 Done, done, done!
 
 2
-00:00:00,000 --> 00:00:00,000
+00:01:02,848 --> 00:01:04,379
 I'd say you
 
 3
-00:00:00,000 --> 00:00:00,000
+00:01:04,379 --> 00:01:06,799
 Head for Dado's; we'll get ready and come.
 
 4
-00:00:00,000 --> 00:00:00,000
+00:01:06,869 --> 00:01:07,509
 Okay.
 
 5
-00:00:00,000 --> 00:00:00,000
+00:01:07,509 --> 00:01:08,600
 See you.
 
 6
-00:00:00,000 --> 00:00:00,000
+00:01:08,650 --> 00:01:09,920
 Bye.
 
 7
-00:00:00,000 --> 00:00:00,000
+00:01:11,480 --> 00:01:12,480
 May I go?
 
 8
-00:00:00,000 --> 00:00:00,000
+00:01:12,480 --> 00:01:13,966
 Why not? Go.
 
 9
-00:00:00,000 --> 00:00:00,000
+00:01:13,966 --> 00:01:15,331
 Listen!
 
 10
-00:00:00,000 --> 00:00:00,000
+00:01:15,828 --> 00:01:16,826
 Up there
 
 11
-00:00:00,000 --> 00:00:00,000
+00:01:16,826 --> 00:01:18,036
 On the writing table
 
 12
-00:00:00,000 --> 00:00:00,000
+00:01:18,036 --> 00:01:19,966
 Is Maheen's diary.
 
 13
-00:00:00,000 --> 00:00:00,000
+00:01:20,347 --> 00:01:21,186
 I think
 
 14
-00:00:00,000 --> 00:00:00,000
+00:01:21,186 --> 00:01:23,727
 She forgot to keep it in the drawer.
 
 15
-00:00:00,000 --> 00:00:00,000
+00:01:24,430 --> 00:01:25,478
 Please,
 
 16
-00:00:00,000 --> 00:00:00,000
+00:01:25,478 --> 00:01:27,198
 Don't read it.
 
 17
-00:00:00,000 --> 00:00:00,000
+00:01:28,259 --> 00:01:30,528
 Who knows what it may conceal!
 
 18
-00:00:00,000 --> 00:00:00,000
+00:01:30,528 --> 00:01:31,728
 Come on, mate.
 
 19
-00:00:00,000 --> 00:00:00,000
+00:01:31,728 --> 00:01:33,954
 I don't read others' diaries.
 
 20
-00:00:00,000 --> 00:00:00,000
+00:01:33,988 --> 00:01:35,152
 Well,
 
 21
-00:00:00,000 --> 00:00:00,000
+00:01:35,152 --> 00:01:37,193
 May nobody read the diary of one
 
 22
-00:00:00,000 --> 00:00:00,000
+00:01:37,193 --> 00:01:40,913
 Who's accused of loving someone else.
 
 23
-00:00:00,000 --> 00:00:00,000
+00:01:41,793 --> 00:01:44,263
 And don't even touch
 
 24
-00:00:00,000 --> 00:00:00,000
+00:01:44,353 --> 00:01:46,805
 Your enemy's diary!
 
 25
-00:00:00,000 --> 00:00:00,000
+00:01:47,553 --> 00:01:50,793
 Otherwise, friendship with her will be impossible.
 
 26
-00:00:00,000 --> 00:00:00,000
+00:01:52,630 --> 00:01:53,539
 Alright,
 
 27
-00:00:00,000 --> 00:00:00,000
+00:01:53,539 --> 00:01:54,598
 Bye.
 
 28
-00:00:00,000 --> 00:00:00,000
+00:01:54,683 --> 00:01:55,809
 Bye.
 
 29
-00:00:00,000 --> 00:00:00,000
+00:02:00,480 --> 00:02:01,958
 Have to dash!
 
 30
-00:00:00,000 --> 00:00:00,000
+00:02:04,670 --> 00:02:06,480
 It's a love marriage,
 
 31
-00:00:00,000 --> 00:00:00,000
+00:02:07,025 --> 00:02:08,311
 Innit?
 
 32
-00:00:00,000 --> 00:00:00,000
+00:02:09,341 --> 00:02:10,730
 What does it look like?
 
 33
-00:00:00,000 --> 00:00:00,000
+00:02:10,730 --> 00:02:13,521
 It's 100% a love marriage.
 
 34
-00:00:00,000 --> 00:00:00,000
+00:02:14,600 --> 00:02:16,030
 Someone must've told you.
 
 35
-00:00:00,000 --> 00:00:00,000
+00:02:16,030 --> 00:02:17,018
 No?
 
 36
-00:00:00,000 --> 00:00:00,000
+00:02:17,018 --> 00:02:18,128
 Not at all.
 
 37
-00:00:00,000 --> 00:00:00,000
+00:02:18,128 --> 00:02:20,199
 Nobody told me.
 
 38
-00:00:00,000 --> 00:00:00,000
+00:02:21,620 --> 00:02:23,798
 How do you know, then?
 
 39
-00:00:00,000 --> 00:00:00,000
+00:02:24,638 --> 00:02:26,138
 It's etched
 
 40
-00:00:00,000 --> 00:00:00,000
+00:02:26,138 --> 00:02:28,189
 On the girl's face.
 
 41
-00:00:00,000 --> 00:00:00,000
+00:02:28,298 --> 00:02:30,708
 If you ask her to close her eyes,
 
 42
-00:00:00,000 --> 00:00:00,000
+00:02:30,708 --> 00:02:33,408
 She opens them repeatedly.
 
 43
-00:00:00,000 --> 00:00:00,000
+00:02:34,388 --> 00:02:35,658
 Why?
 
 44
-00:00:00,000 --> 00:00:00,000
+00:02:35,810 --> 00:02:38,052
 She doesn't quite believe it, I think,
 
 45
-00:00:00,000 --> 00:00:00,000
+00:02:38,112 --> 00:02:40,731
 And she tries to see it again
 
 46
-00:00:00,000 --> 00:00:00,000
+00:02:40,731 --> 00:02:42,580
 To believe it.
 
 47
-00:00:00,000 --> 00:00:00,000
+00:02:43,380 --> 00:02:45,068
 Even if you tell her a good joke,
 
 48
-00:00:00,000 --> 00:00:00,000
+00:02:45,068 --> 00:02:47,458
 She says, 'Hmm... What was that'?
 
 49
-00:00:00,000 --> 00:00:00,000
+00:02:47,503 --> 00:02:49,310
 And she's chuffed to have someone
 
 50
-00:00:00,000 --> 00:00:00,000
+00:02:49,310 --> 00:02:51,621
 Who'd get her decked up quickly!
 
 51
-00:00:00,000 --> 00:00:00,000
+00:02:52,950 --> 00:02:54,850
 And she starts laughing
 
 52
-00:00:00,000 --> 00:00:00,000
+00:02:54,850 --> 00:02:57,360
 Like you are every now and then.
 
 53
-00:00:00,000 --> 00:00:00,000
+00:03:00,309 --> 00:03:02,800
 You're almost ready.
 
 54
-00:00:00,000 --> 00:00:00,000
+00:03:04,470 --> 00:03:07,490
 In just a moment, now, you...
 
 55
-00:00:00,000 --> 00:00:00,000
+00:03:17,670 --> 00:03:19,428
 Here, Nano.
 
 56
-00:00:00,000 --> 00:00:00,000
+00:03:19,721 --> 00:03:21,911
 The bride's jewellery.
 
 57
-00:00:00,000 --> 00:00:00,000
+00:03:28,960 --> 00:03:31,968
 Come here, let me kiss your forehead.
 
 58
-00:00:00,000 --> 00:00:00,000
+00:03:37,380 --> 00:03:39,398
 May you live long.
 
 59
-00:00:00,000 --> 00:00:00,000
+00:04:02,230 --> 00:04:03,536
 On the writing table
 
 60
-00:00:00,000 --> 00:00:00,000
+00:04:03,536 --> 00:04:05,627
 Is Maheen's diary.
 
 61
-00:00:00,000 --> 00:00:00,000
+00:04:05,820 --> 00:04:06,679
 I think
 
 62
-00:00:00,000 --> 00:00:00,000
+00:04:06,679 --> 00:04:09,511
 She forgot to keep it in the drawer.
 
 63
-00:00:00,000 --> 00:00:00,000
+00:04:09,859 --> 00:04:10,939
 Please,
 
 64
-00:00:00,000 --> 00:00:00,000
+00:04:10,939 --> 00:04:12,672
 Don't read it.
 
 65
-00:00:00,000 --> 00:00:00,000
+00:04:12,920 --> 00:04:15,671
 Who knows what it may conceal!
 
 66
-00:00:00,000 --> 00:00:00,000
+00:04:15,924 --> 00:04:17,061
 Well,
 
 67
-00:00:00,000 --> 00:00:00,000
+00:04:17,061 --> 00:04:19,251
 May nobody read the diary of one
 
 68
-00:00:00,000 --> 00:00:00,000
+00:04:19,251 --> 00:04:22,941
 Who's accused of loving someone else.
 
 69
-00:00:00,000 --> 00:00:00,000
+00:04:26,029 --> 00:04:28,480
 And don't even touch
 
 70
-00:00:00,000 --> 00:00:00,000
+00:04:28,500 --> 00:04:31,140
 Your enemy's diary!
 
 71
-00:00:00,000 --> 00:00:00,000
+00:05:00,440 --> 00:05:03,328
 Is it that Gulrez loves me,
 
 72
-00:00:00,000 --> 00:00:00,000
+00:05:03,395 --> 00:05:06,148
 Or that he worships me?
 
 73
-00:00:00,000 --> 00:00:00,000
+00:05:06,677 --> 00:05:09,218
 I start to question myself
 
 74
-00:00:00,000 --> 00:00:00,000
+00:05:09,328 --> 00:05:12,739
 If I'd ever be able to take such love.
 
 75
-00:00:00,000 --> 00:00:00,000
+00:05:13,130 --> 00:05:14,769
 Please, Gulrez,
 
 76
-00:00:00,000 --> 00:00:00,000
+00:05:14,769 --> 00:05:17,010
 Keep on loving me.
 
 77
-00:00:00,000 --> 00:00:00,000
+00:05:17,130 --> 00:05:20,178
 In time, I'll learn to take it.
 
 78
-00:00:00,000 --> 00:00:00,000
+00:05:21,929 --> 00:05:24,449
 Neelam told me today
 
 79
-00:00:00,000 --> 00:00:00,000
+00:05:24,509 --> 00:05:27,479
 That you'd purchased a bindiya [ornament] for me.
 
 80
-00:00:00,000 --> 00:00:00,000
+00:05:27,479 --> 00:05:30,859
 I smiled coyly to myself for long.
 
 81
-00:00:00,000 --> 00:00:00,000
+00:05:30,979 --> 00:05:32,749
 What are you made of, Gulrez,
 
 82
-00:00:00,000 --> 00:00:00,000
+00:05:32,749 --> 00:05:36,019
 Remembering every single detail like you do?
 
 83
-00:00:00,000 --> 00:00:00,000
-That muppet, that Londoner tramp,
+00:05:36,940 --> 00:05:39,071
+That muppet, that London tramp,
 
 84
-00:00:00,000 --> 00:00:00,000
+00:05:39,071 --> 00:05:40,981
 He's landed in Karachi.
 
 85
-00:00:00,000 --> 00:00:00,000
+00:05:40,981 --> 00:05:44,661
 Looking at him, I'm reminded of his slap.
 
 86
-00:00:00,000 --> 00:00:00,000
+00:05:46,630 --> 00:05:49,218
 There is but one thing my heart longs for,
 
 87
-00:00:00,000 --> 00:00:00,000
+00:05:49,218 --> 00:05:52,098
 And that is the day when I'd get even with him.
 
 88
-00:00:00,000 --> 00:00:00,000
-<i>In the tale of love where do these turns come from</i>
+00:06:09,460 --> 00:06:18,890
+♪ <i>In the tale of love where do these turns come from</i> ♪
 
 89
-00:00:00,000 --> 00:00:00,000
-<i>That those we hold dear to us are the ones who break our heart</i>
+00:06:18,890 --> 00:06:28,330
+♪ <i>That those we hold dear to us are the ones who break our heart</i> ♪
 
 90
-00:00:00,000 --> 00:00:00,000
-<i>That those we hold dear to us are the ones who break our heart</i>
+00:06:28,330 --> 00:06:39,241
+♪ <i>That those we hold dear to us are the ones who break our heart...</i> ♪
 
 91
-00:00:00,000 --> 00:00:00,000
+00:07:12,590 --> 00:07:14,728
 Why are you smiling?
 
 92
-00:00:00,000 --> 00:00:00,000
+00:07:15,318 --> 00:07:17,398
 These looks could kill
 
 93
-00:00:00,000 --> 00:00:00,000
+00:07:17,398 --> 00:07:20,388
 Anybody unfortunate enough to meet your gaze!
 
 94
-00:00:00,000 --> 00:00:00,000
+00:07:20,568 --> 00:07:22,778
 You look so sweet!
 
 95
-00:00:00,000 --> 00:00:00,000
+00:07:24,560 --> 00:07:27,280
 My gaze would only meet his today.
 
 96
-00:00:00,000 --> 00:00:00,000
+00:07:27,571 --> 00:07:30,102
 It'll be like an offering unto him.
 
 97
-00:00:00,000 --> 00:00:00,000
+00:07:53,470 --> 00:07:54,908
 Dastoor!
 
 98
-00:00:00,000 --> 00:00:00,000
+00:07:55,050 --> 00:07:56,628
 Come here.
 
 99
-00:00:00,000 --> 00:00:00,000
+00:08:02,510 --> 00:08:04,229
 Yes, Ammi Begum?
 
 100
-00:00:00,000 --> 00:00:00,000
+00:08:04,439 --> 00:08:09,380
 The Reverend is going over the top of the dishes, gorbing everything he can.
 
 101
-00:00:00,000 --> 00:00:00,000
-Call the nincompoop,
+00:08:10,490 --> 00:08:13,491
+Call the nincompoop, ask him to come here with the procession.
 
 102
-00:00:00,000 --> 00:00:00,000
-Ask him to come here with the procession.
-
-103
-00:00:00,000 --> 00:00:00,000
+00:08:13,491 --> 00:08:14,980
 Alright.
 
-104
-00:00:00,000 --> 00:00:00,000
+103
+00:08:15,181 --> 00:08:17,481
 Listen,
 -Yes?
 
-105
-00:00:00,000 --> 00:00:00,000
+104
+00:08:17,730 --> 00:08:20,950
 Just say what I've told you, and not a word beyond it. Go, now.
 
-106
-00:00:00,000 --> 00:00:00,000
+105
+00:08:20,950 --> 00:08:22,689
 Alright, Ammi Begum.
 
-107
-00:00:00,000 --> 00:00:00,000
+106
+00:08:24,318 --> 00:08:25,798
 There, now!
 
-108
-00:00:00,000 --> 00:00:00,000
+107
+00:08:26,098 --> 00:08:27,958
 Would you look at this wee lassie!
 
-109
-00:00:00,000 --> 00:00:00,000
+108
+00:08:27,958 --> 00:08:30,020
 The filly's showing up now!
 
-110
-00:00:00,000 --> 00:00:00,000
+109
+00:08:30,020 --> 00:08:31,498
 Go!
 
-111
-00:00:00,000 --> 00:00:00,000
+110
+00:08:37,940 --> 00:08:39,939
 Why are you quiet?
 
-112
-00:00:00,000 --> 00:00:00,000
+111
+00:08:40,130 --> 00:08:41,910
 You're quiet.
 
-113
-00:00:00,000 --> 00:00:00,000
+112
+00:08:42,332 --> 00:08:43,929
 That's why.
 
-114
-00:00:00,000 --> 00:00:00,000
+113
+00:08:45,069 --> 00:08:47,040
 I don't know why, Ali,
 
-115
-00:00:00,000 --> 00:00:00,000
+114
+00:08:47,040 --> 00:08:48,770
 But my heart grows restless.
 
-116
-00:00:00,000 --> 00:00:00,000
+115
+00:08:48,770 --> 00:08:50,209
 Doesn't it?
 
-117
-00:00:00,000 --> 00:00:00,000
+116
+00:08:50,320 --> 00:08:52,000
 What do you mean?
 
-118
-00:00:00,000 --> 00:00:00,000
+117
+00:08:52,179 --> 00:08:54,580
 My heart grows restless too.
 
-119
-00:00:00,000 --> 00:00:00,000
+118
+00:08:55,570 --> 00:08:57,398
 Would you like some water?
 
-120
-00:00:00,000 --> 00:00:00,000
-Yes.
+119
+00:08:57,510 --> 00:08:58,807
+Aye.
 
-121
-00:00:00,000 --> 00:00:00,000
+120
+00:08:59,718 --> 00:09:01,648
 I'll get some.
 
-122
-00:00:00,000 --> 00:00:00,000
+121
+00:09:27,300 --> 00:09:28,700
 Splendid!
 
-123
-00:00:00,000 --> 00:00:00,000
+122
+00:09:28,700 --> 00:09:31,438
 Just as the Lord has willed!
 
-124
-00:00:00,000 --> 00:00:00,000
+123
+00:09:34,109 --> 00:09:35,310
 Come on.
 
-125
-00:00:00,000 --> 00:00:00,000
+124
+00:09:35,310 --> 00:09:37,749
 Don't tarry too much.
 
-126
-00:00:00,000 --> 00:00:00,000
+125
+00:09:37,868 --> 00:09:40,929
 As if I have to deck up like a bride, mate!
 
-127
-00:00:00,000 --> 00:00:00,000
+126
+00:09:40,929 --> 00:09:42,179
 Just give me 15 minutes,
 
-128
-00:00:00,000 --> 00:00:00,000
+127
+00:09:42,179 --> 00:09:44,519
 And I'll be ready.
 
-129
-00:00:00,000 --> 00:00:00,000
+128
+00:09:45,349 --> 00:09:46,519
 Let's see...
 
-130
-00:00:00,000 --> 00:00:00,000
+129
+00:09:46,519 --> 00:09:48,139
 Make it quick.
 
-131
-00:00:00,000 --> 00:00:00,000
+130
+00:09:57,570 --> 00:09:59,298
 It'll take a while, Uncle,
 
-132
-00:00:00,000 --> 00:00:00,000
+131
+00:09:59,298 --> 00:10:00,862
 He's dressing up like the groom.
 
-133
-00:00:00,000 --> 00:00:00,000
+132
+00:10:00,862 --> 00:10:03,672
 He'll make haste only if you ask him to,
 
-134
-00:00:00,000 --> 00:00:00,000
+133
+00:10:03,672 --> 00:10:07,613
 The Reverend over here is going over the top of the dishes, gorbing everything he can.
 
-135
-00:00:00,000 --> 00:00:00,000
+134
+00:10:07,873 --> 00:10:08,740
 Sir,
 
-136
-00:00:00,000 --> 00:00:00,000
+135
+00:10:08,740 --> 00:10:09,968
 Where's the loo?
 
-137
-00:00:00,000 --> 00:00:00,000
+136
+00:10:09,968 --> 00:10:11,348
 This way.
 
-138
-00:00:00,000 --> 00:00:00,000
+137
+00:10:12,868 --> 00:10:14,709
 What's there this way, Uncle?
 
-139
-00:00:00,000 --> 00:00:00,000
+138
+00:10:14,709 --> 00:10:17,218
 I'm not saying it to you, mate!
 
-140
-00:00:00,000 --> 00:00:00,000
+139
+00:10:17,218 --> 00:10:20,469
 Go, Reverend, the loo's this way.
 
-141
-00:00:00,000 --> 00:00:00,000
+140
+00:10:29,890 --> 00:10:31,458
 Waqar!
 
-142
-00:00:00,000 --> 00:00:00,000
+141
+00:11:30,630 --> 00:11:34,988
 This phone is switched off.
 
-143
-00:00:00,000 --> 00:00:00,000
+142
+00:11:42,190 --> 00:11:44,280
 Waqar, please answer me.
 
-144
-00:00:00,000 --> 00:00:00,000
+143
+00:11:44,280 --> 00:11:46,973
 Your phone's switched off too!
 
-145
-00:00:00,000 --> 00:00:00,000
+144
+00:11:47,940 --> 00:11:51,329
 Waqar, everyone's waiting over there!
 
+145
+00:11:54,880 --> 00:11:56,368
+Waqar!
+
 146
-00:00:00,000 --> 00:00:00,000
+00:11:57,929 --> 00:11:59,508
 Waqar!
 
 147
-00:00:00,000 --> 00:00:00,000
+00:12:05,600 --> 00:12:07,048
 Waqar!
 
 148
-00:00:00,000 --> 00:00:00,000
-Waqar!
-
-149
-00:00:00,000 --> 00:00:00,000
+00:12:13,750 --> 00:12:15,428
 Waqar?
 
+149
+00:12:43,490 --> 00:12:45,288
+'Dear Maheen,'
+
 150
-00:00:00,000 --> 00:00:00,000
-Dear Maheen,
+00:12:45,668 --> 00:12:48,018
+'It has been a pleasure'
 
 151
-00:00:00,000 --> 00:00:00,000
-It has been a pleasure
+00:12:48,288 --> 00:12:50,988
+'That this chapter of our love began,'
 
 152
-00:00:00,000 --> 00:00:00,000
-That this chapter of our love began,
+00:12:51,039 --> 00:12:53,161
+'And we fell in love;'
 
 153
-00:00:00,000 --> 00:00:00,000
-And we fell in love;
+00:12:53,161 --> 00:12:56,288
+'Such love that you agreed to marry me.'
 
 154
-00:00:00,000 --> 00:00:00,000
-Such love that you agreed to marry me.
+00:12:56,288 --> 00:12:57,758
+'Splendid.'
 
 155
-00:00:00,000 --> 00:00:00,000
-Splendid.
+00:12:57,758 --> 00:13:01,788
+'Does one wager oneself in one's quest for revenge?'
 
 156
-00:00:00,000 --> 00:00:00,000
-Does one wager oneself in one's quest for revenge?
+00:13:03,800 --> 00:13:07,111
+'I could've taken two slaps from you had you just said it;'
 
 157
-00:00:00,000 --> 00:00:00,000
-I could've taken two slaps from you had you just said it;
+00:13:07,111 --> 00:13:11,591
+'Why did you have to play this elaborate game just to avenge one slap?'
 
 158
-00:00:00,000 --> 00:00:00,000
-Why did you have to play this elaborate game just to avenge one slap?
+00:13:11,670 --> 00:13:15,050
+'Do you have any idea how many people here love you?'
 
 159
-00:00:00,000 --> 00:00:00,000
-Do you have any idea how many people here love you?
+00:13:15,871 --> 00:13:20,262
+'There are many besides Gulrez who adore you with all their lives.'
 
 160
-00:00:00,000 --> 00:00:00,000
-There are many besides Gulrez who adore you with all their lives.
+00:13:20,592 --> 00:13:23,112
+'Take Ammi Begum, for instance,'
 
 161
-00:00:00,000 --> 00:00:00,000
-Take Ammi Begum, for instance,
+00:13:23,201 --> 00:13:27,713
+'She'd kick her sense of justice away when it'd come to you.'
 
 162
-00:00:00,000 --> 00:00:00,000
-She'd kick her sense of justice away when it'd come to you.
+00:13:27,792 --> 00:13:29,461
+'Aunt Suraiyya,'
 
 163
-00:00:00,000 --> 00:00:00,000
-Aunt Suraiyya,
+00:13:29,461 --> 00:13:30,903
+'Your mother,'
 
 164
-00:00:00,000 --> 00:00:00,000
-Your mother,
+00:13:30,903 --> 00:13:33,516
+'Do you have any idea how many woes she's gone through?'
 
 165
-00:00:00,000 --> 00:00:00,000
-Do you have any idea how many woes she's gone through?
+00:13:33,516 --> 00:13:35,556
+'And your sister Fajr,'
 
 166
-00:00:00,000 --> 00:00:00,000
-And your sister Fajr,
+00:13:35,556 --> 00:13:39,666
+'She always kept guessing you'd fallen for me!'
 
 167
-00:00:00,000 --> 00:00:00,000
-She always kept guessing you'd fallen for me!
+00:13:41,200 --> 00:13:43,030
+'You silly girl,'
 
 168
-00:00:00,000 --> 00:00:00,000
-You silly girl,
+00:13:43,030 --> 00:13:46,687
+'At least you could've thought of Gulrez, if none of them.'
 
 169
-00:00:00,000 --> 00:00:00,000
-At least you could've thought of Gulrez, if none of them.
+00:13:48,360 --> 00:13:50,879
+'He kept writhing in love like an animal to be sacrificed,'
 
 170
-00:00:00,000 --> 00:00:00,000
-He kept writhing in love like an animal to be sacrificed,
+00:13:50,879 --> 00:13:54,177
+'And kept on doing what you wanted him to.'
 
 171
-00:00:00,000 --> 00:00:00,000
-And kept on doing what you wanted him to.
+00:13:54,890 --> 00:13:56,269
+'Honestly,'
 
 172
-00:00:00,000 --> 00:00:00,000
-Honestly,
+00:13:56,439 --> 00:13:58,689
+'Is he in on this one?'
 
 173
-00:00:00,000 --> 00:00:00,000
-Is he in on this one?
+00:13:58,789 --> 00:14:01,639
+'He doesn't seem the type, though.'
 
 174
-00:00:00,000 --> 00:00:00,000
-He doesn't seem the type, though.
+00:14:01,639 --> 00:14:03,660
+'He's very simple.'
 
 175
-00:00:00,000 --> 00:00:00,000
-He's very simple.
+00:14:03,721 --> 00:14:05,703
+'He endures sorrow,'
 
 176
-00:00:00,000 --> 00:00:00,000
-He endures sorrow,
+00:14:05,802 --> 00:14:07,560
+'But never gives anyone any.'
 
 177
-00:00:00,000 --> 00:00:00,000
-But never gives one any.
+00:14:07,560 --> 00:14:12,178
+'I thought for long before I threw away the sherwani about what it was --'
 
 178
-00:00:00,000 --> 00:00:00,000
-I thought for long before I threw away the sherwani about what it was --
+00:14:12,178 --> 00:14:14,619
+'What were you up to?'
 
 179
-00:00:00,000 --> 00:00:00,000
-What were you up to?
+00:14:14,689 --> 00:14:16,289
+'At first, it occurred to me'
 
 180
-00:00:00,000 --> 00:00:00,000
-At first, it occurred to me
+00:14:16,289 --> 00:14:17,989
+'That I should let the vaudeville commence,'
 
 181
-00:00:00,000 --> 00:00:00,000
-That I should let the vaudeville commence,
+00:14:17,989 --> 00:14:19,989
+'But then thought'
 
 182
-00:00:00,000 --> 00:00:00,000
-But then thought
+00:14:20,280 --> 00:14:25,831
+'That if, amidst this vaudeville, we got espoused, your face would be smirched by my name.'
 
 183
-00:00:00,000 --> 00:00:00,000
-That if, amidst this vaudeville, we got espoused, your face would be smirched by my name.
+00:14:26,051 --> 00:14:28,631
+'Gulrez has done me so many favours'
 
 184
-00:00:00,000 --> 00:00:00,000
-Gulrez has done me so many favours
+00:14:28,631 --> 00:14:33,294
+'That I find it improper that he should get to wear what I shall take off. Which is why...'
 
 185
-00:00:00,000 --> 00:00:00,000
-That I find it improper that he should get to wear what I shall take off.
+00:14:33,412 --> 00:14:35,152
+'I'm leaving.'
 
 186
-00:00:00,000 --> 00:00:00,000
-I'm leaving.
+00:14:36,070 --> 00:14:38,028
+'I won't be coming back.'
 
 187
-00:00:00,000 --> 00:00:00,000
-I won't be coming back.
+00:14:38,107 --> 00:14:39,498
+'And listen,'
 
 188
-00:00:00,000 --> 00:00:00,000
-And listen,
+00:14:39,750 --> 00:14:43,289
+'Never before had I wished that you should taste defeat by my hand,'
 
 189
-00:00:00,000 --> 00:00:00,000
-Never before had I wished that you should taste defeat by my hand,
+00:14:43,289 --> 00:14:46,938
+'But my heart says that I should leave you bitterly defeated today,'
 
 190
-00:00:00,000 --> 00:00:00,000
-But my heart says that I should leave you bitterly defeated today,
+00:14:47,009 --> 00:14:51,179
+'And show you, Maheen, that to triumph in the name of love,'
 
 191
-00:00:00,000 --> 00:00:00,000
-And show you, Maheen, that to triumph in the name of love,
+00:14:51,249 --> 00:14:53,494
+'One has to yield.'
 
 192
-00:00:00,000 --> 00:00:00,000
-One has to yield.
+00:14:53,869 --> 00:14:56,409
+'I depart a victor,'
 
 193
-00:00:00,000 --> 00:00:00,000
-I depart a victor,
+00:14:56,453 --> 00:14:58,609
+'And I say this as I leave,'
 
 194
-00:00:00,000 --> 00:00:00,000
-And I say this as I leave,
+00:14:58,609 --> 00:15:00,610
+'"Bless you"'
 
 195
-00:00:00,000 --> 00:00:00,000
-'Bless you'
+00:15:00,610 --> 00:15:02,974
+'"With this closing checkmate".'
 
 196
-00:00:00,000 --> 00:00:00,000
-'With this closing checkmate'.
+00:15:19,840 --> 00:15:32,210
+♪ <i>What good is writhing and smouldering in your remembrance?</i> ♪
 
 197
-00:00:00,000 --> 00:00:00,000
-<i>What good is writhing and smouldering in your remembrance</i>
-
-198
-00:00:00,000 --> 00:00:00,000
+00:15:35,380 --> 00:15:37,968
 After eight long years, I'm hearing
 
-199
-00:00:00,000 --> 00:00:00,000
+198
+00:15:37,968 --> 00:15:41,039
 The rathe shuffling of your footsteps...
 
+199
+00:15:41,039 --> 00:15:54,060
+♪ <i>Love's testimony is not to be asked of it</i> ♪
+
 200
-00:00:00,000 --> 00:00:00,000
-<i>Love's testimony is not to be asked of it</i>
-
-201
-00:00:00,000 --> 00:00:00,000
-<i>It pulls out tears and drops them from the eyes</i>
-
-202
-00:00:00,000 --> 00:00:00,000
+00:15:54,100 --> 00:15:57,881
 Just like this, you used to come eagerly, hying --
 
-203
-00:00:00,000 --> 00:00:00,000
+201
+00:15:57,881 --> 00:16:02,341
+♪ <i>It pulls out tears and drops them from the eyes</i> ♪
+
+202
+00:16:02,341 --> 00:16:07,969
 As if you'd trample everyone under your feet...
+♪ <i>It pulls out tears and drops them from the eyes</i> ♪
+
+203
+00:16:07,969 --> 00:16:11,388
+♪ <i>It pulls out tears and drops them from the eyes</i> ♪
 
 204
-00:00:00,000 --> 00:00:00,000
-<i>In the tale of love where do these turns come from</i>
+00:16:11,458 --> 00:16:15,879
+♪ <i>In the tale of love where do these turns come from</i> ♪
 
 205
-00:00:00,000 --> 00:00:00,000
-<i>That those we hold dear to us are the ones who break our heart</i>
+00:16:15,879 --> 00:16:17,700
+Inheritance --
+♪ <i>In the tale of love where do these turns come from</i> ♪
 
 206
-00:00:00,000 --> 00:00:00,000
-<i>That those we hold dear to us are the ones who break our heart</i>
+00:16:17,700 --> 00:16:19,830
+If word got out
+♪ <i>In the tale of love where do these turns come from</i> ♪
 
 207
-00:00:00,000 --> 00:00:00,000
-<i>In the tale of love where do these turns come from</i>
+00:16:19,830 --> 00:16:20,911
+That he may get a share --
+♪ <i>In the tale of love where do these turns come from</i> ♪
 
 208
-00:00:00,000 --> 00:00:00,000
-<i>That those we hold dear to us are the ones who break our heart</i>
+00:16:20,911 --> 00:16:22,921
+That he may get a share --
+♪ <i>That those we hold dear to us are the ones who break our heart</i> ♪
 
 209
-00:00:00,000 --> 00:00:00,000
-<i>That those we hold dear to us are the ones who break our heart</i>
+00:16:22,921 --> 00:16:26,062
+Perhaps he'll pay a visit...
+♪ <i>That those we hold dear to us are the ones who break our heart</i> ♪
 
 210
-00:00:00,000 --> 00:00:00,000
-Inheritance --
+00:16:26,062 --> 00:16:34,980
+♪ <i>That those we hold dear to us are the ones who break our heart</i> ♪
 
 211
-00:00:00,000 --> 00:00:00,000
-If word got out
+00:16:34,980 --> 00:16:36,550
+Neelam...
+♪ <i>That those we hold dear to us are the ones who break our heart</i> ♪
 
 212
-00:00:00,000 --> 00:00:00,000
-That he may get a share --
+00:16:36,550 --> 00:16:39,681
+♪ <i>That those we hold dear to us are the ones who break our heart</i> ♪
 
 213
-00:00:00,000 --> 00:00:00,000
-Perhaps he'll pay a visit...
+00:16:39,681 --> 00:16:44,409
+♪ <i>In the tale of love where do these turns come from</i> ♪
 
 214
-00:00:00,000 --> 00:00:00,000
-Neelam...
+00:16:44,409 --> 00:16:46,649
+He's here, Nano.
+♪ <i>In the tale of love where do these turns come from</i> ♪
 
 215
-00:00:00,000 --> 00:00:00,000
-He's here, Nano.
+00:16:46,649 --> 00:16:49,100
+♪ <i>In the tale of love where do these turns come from</i> ♪
 
 216
-00:00:00,000 --> 00:00:00,000
-Only I get the news.
+00:16:49,100 --> 00:16:49,390
+♪ <i>That those we hold dear to us are the ones who break our heart...</i> ♪
 
 217
-00:00:00,000 --> 00:00:00,000
-Whenever he comes here,
+00:16:49,390 --> 00:16:52,031
+Only I get the news.
+♪ <i>That those we hold dear to us are the ones who break our heart...</i> ♪
 
 218
-00:00:00,000 --> 00:00:00,000
-The cacti in Nano's lawn blossom.
+00:16:52,031 --> 00:16:55,072
+Whenever he comes here,
+♪ <i>That those we hold dear to us are the ones who break our heart...</i> ♪
 
 219
-00:00:00,000 --> 00:00:00,000
-Oh God!
+00:16:55,072 --> 00:16:57,870
+The cacti in Nano's lawn blossom.
+♪ <i>That those we hold dear to us are the ones who break our heart...</i> ♪
 
 220
-00:00:00,000 --> 00:00:00,000
-You'd left,
+00:16:57,870 --> 00:16:59,358
+Oh God!
+♪ <i>That those we hold dear to us are the ones who break our heart...</i> ♪
 
 221
-00:00:00,000 --> 00:00:00,000
-But
+00:16:59,358 --> 00:17:09,291
+♪ <i>That those we hold dear to us are the ones who break our heart...</i> ♪
 
 222
-00:00:00,000 --> 00:00:00,000
-Left here a barren,
+00:17:18,660 --> 00:17:20,668
+You'd left,
 
 223
-00:00:00,000 --> 00:00:00,000
-Desolate world.
+00:17:21,511 --> 00:17:22,758
+But
 
 224
-00:00:00,000 --> 00:00:00,000
-Woeful faces,
+00:17:22,758 --> 00:17:25,229
+Left here a barren,
 
 225
-00:00:00,000 --> 00:00:00,000
-Startled eyes,
+00:17:25,229 --> 00:17:27,838
+Desolate world.
 
 226
-00:00:00,000 --> 00:00:00,000
-Hearts beating and stopping;
+00:17:31,029 --> 00:17:33,789
+Woeful faces,
 
 227
-00:00:00,000 --> 00:00:00,000
-It was feared
+00:17:34,319 --> 00:17:36,679
+Startled eyes,
 
 228
-00:00:00,000 --> 00:00:00,000
-That Ammi Begum
+00:17:39,600 --> 00:17:42,558
+Hearts beating and stopping;
 
 229
-00:00:00,000 --> 00:00:00,000
-May not be able to take this sorrow,
+00:17:44,338 --> 00:17:45,978
+It was feared
 
 230
-00:00:00,000 --> 00:00:00,000
-But
+00:17:46,028 --> 00:17:47,718
+That Ammi Begum
 
 231
-00:00:00,000 --> 00:00:00,000
-Her little games of cricket served her well.
+00:17:47,718 --> 00:17:51,359
+May not be able to take this sorrow,
 
 232
-00:00:00,000 --> 00:00:00,000
-She'd known
+00:17:52,640 --> 00:17:54,218
+But
 
 233
-00:00:00,000 --> 00:00:00,000
-That the player can get bowled
+00:17:55,218 --> 00:17:58,748
+Her little games of cricket served her well.
 
 234
-00:00:00,000 --> 00:00:00,000
-Even
+00:17:59,490 --> 00:18:01,771
+She understood
 
 235
-00:00:00,000 --> 00:00:00,000
-On a ball he could've easily scored a four on.
+00:18:01,851 --> 00:18:05,880
+That the player can get bowled
 
 236
-00:00:00,000 --> 00:00:00,000
-By the way, your wound's alright now.
+00:18:06,240 --> 00:18:07,480
+Even
 
 237
-00:00:00,000 --> 00:00:00,000
-You think it's alright.
+00:18:07,480 --> 00:18:10,700
+On a ball he could've easily scored a four on.
 
 238
-00:00:00,000 --> 00:00:00,000
-I feel like an old wound's been opened again.
+00:18:11,280 --> 00:18:14,628
+By the way, your wound's alright now.
 
 239
-00:00:00,000 --> 00:00:00,000
-Munshi Alam,
+00:18:15,398 --> 00:18:18,057
+You think it's alright.
 
 240
-00:00:00,000 --> 00:00:00,000
-May I ask you something?
+00:18:20,288 --> 00:18:23,628
+I feel like an old wound's been opened again.
 
 241
-00:00:00,000 --> 00:00:00,000
-Why did Neelam throw a pebble at me?
+00:18:24,678 --> 00:18:26,208
+Munshi Alam,
 
 242
-00:00:00,000 --> 00:00:00,000
-Apparently, she couldn't find anything better.
+00:18:27,678 --> 00:18:29,818
+May I ask you something?
 
 243
-00:00:00,000 --> 00:00:00,000
-She
+00:18:36,460 --> 00:18:39,160
+Why did Neelam throw a pebble at me?
 
 244
-00:00:00,000 --> 00:00:00,000
-Saw you outside the graveyard, didn't she?
+00:18:41,150 --> 00:18:44,528
+Apparently, she couldn't find anything better.
 
 245
-00:00:00,000 --> 00:00:00,000
-What else
+00:18:46,340 --> 00:18:47,558
+She
 
 246
-00:00:00,000 --> 00:00:00,000
-Could she find there besides a pebble?
+00:18:47,770 --> 00:18:50,601
+Saw you outside the graveyard, didn't she?
 
 247
-00:00:00,000 --> 00:00:00,000
-What should I prepare for dinner?
+00:18:53,300 --> 00:18:54,338
+What else
 
 248
-00:00:00,000 --> 00:00:00,000
-Nothing. I'm not hungry.
+00:18:54,338 --> 00:18:57,043
+Could she find there besides a pebble?
 
 249
-00:00:00,000 --> 00:00:00,000
-You're not right now.
+00:19:07,540 --> 00:19:09,958
+What should I prepare for dinner?
 
 250
-00:00:00,000 --> 00:00:00,000
-Soon, you will be.
+00:19:10,759 --> 00:19:13,269
+Nothing. I'm not hungry.
 
 251
-00:00:00,000 --> 00:00:00,000
-What, now, does the stomach know about serious wounds?
+00:19:14,039 --> 00:19:15,979
+You're not right now.
 
 252
-00:00:00,000 --> 00:00:00,000
-Ammi Begum
+00:19:16,410 --> 00:19:18,520
+Soon, you will be.
 
 253
-00:00:00,000 --> 00:00:00,000
-Didn't have anything for two days, too.
+00:19:19,770 --> 00:19:24,058
+What, now, does the stomach know about serious wounds?
 
 254
-00:00:00,000 --> 00:00:00,000
-I don't know how long
+00:19:26,800 --> 00:19:28,508
+Ammi Begum
 
 255
-00:00:00,000 --> 00:00:00,000
-The others starved themselves.
+00:19:28,878 --> 00:19:32,067
+Didn't have anything for two days, too.
 
 256
-00:00:00,000 --> 00:00:00,000
-They started eating again, soon.
+00:19:34,879 --> 00:19:37,548
+I don't know how long
 
 257
-00:00:00,000 --> 00:00:00,000
-Just like they always used to.
+00:19:37,548 --> 00:19:39,798
+The others starved themselves.
 
 258
-00:00:00,000 --> 00:00:00,000
-They used to laugh,
+00:19:44,450 --> 00:19:46,829
+They started eating again, soon.
 
 259
-00:00:00,000 --> 00:00:00,000
-Have a right merrymaking...
+00:19:47,469 --> 00:19:50,078
+Just like they always used to.
 
 260
-00:00:00,000 --> 00:00:00,000
-And play cricket, too?
+00:19:54,140 --> 00:19:56,060
+They used to laugh,
 
 261
-00:00:00,000 --> 00:00:00,000
-No.
+00:19:56,060 --> 00:19:58,741
+Have a right merrymaking...
 
 262
-00:00:00,000 --> 00:00:00,000
-Nobody there plays cricket now.
+00:20:00,620 --> 00:20:02,899
+And play cricket, too?
 
 263
-00:00:00,000 --> 00:00:00,000
-So did the pebble strike him,
-
-264
-00:00:00,000 --> 00:00:00,000
-Or did you just pick one up and fling it towards him?
-
-265
-00:00:00,000 --> 00:00:00,000
-Hit him right on his forehead, Ammi Begum.
-
-266
-00:00:00,000 --> 00:00:00,000
-Blood gushed out like a fountain before my eyes.
-
-267
-00:00:00,000 --> 00:00:00,000
-Stop it, Nano...
-
-268
-00:00:00,000 --> 00:00:00,000
-Let me
-
-269
-00:00:00,000 --> 00:00:00,000
-Have a good laugh, you wee lassie!
-
-270
-00:00:00,000 --> 00:00:00,000
-It's about time the rapscallion's reckoning began.
-
-271
-00:00:00,000 --> 00:00:00,000
-It delights me to hear
-
-272
-00:00:00,000 --> 00:00:00,000
-That the reprobate is getting sentenced,
-
-273
-00:00:00,000 --> 00:00:00,000
-And the sentence is being carried out in the present instant itself!
-
-274
-00:00:00,000 --> 00:00:00,000
-Didn't he say anything in return?
-
-275
-00:00:00,000 --> 00:00:00,000
+00:20:10,640 --> 00:20:11,989
 No.
 
+264
+00:20:14,109 --> 00:20:16,848
+Nobody there plays cricket now.
+
+265
+00:20:59,010 --> 00:21:01,988
+So did the pebble strike him,
+
+266
+00:21:03,168 --> 00:21:07,900
+Or did you just pick one up and fling it towards him?
+
+267
+00:21:07,950 --> 00:21:10,931
+Hit him right on his forehead, Ammi Begum.
+
+268
+00:21:11,430 --> 00:21:15,191
+Blood gushed out like a fountain before my eyes.
+
+269
+00:21:37,200 --> 00:21:38,679
+Stop it, Nano...
+
+270
+00:21:38,679 --> 00:21:40,010
+Let me
+
+271
+00:21:40,010 --> 00:21:42,710
+Have a good laugh, you wee lassie!
+
+272
+00:21:42,746 --> 00:21:46,753
+It's about time the rapscallion's reckoning began.
+
+273
+00:21:46,881 --> 00:21:49,610
+It delights me to hear
+
+274
+00:21:49,650 --> 00:21:52,409
+That the reprobate is getting sentenced,
+
+275
+00:21:52,409 --> 00:21:58,388
+And the sentence is being carried out in the present instant itself!
+
 276
-00:00:00,000 --> 00:00:00,000
-He just kept staring at me, wide-eyed.
+00:22:04,310 --> 00:22:07,578
+Didn't he say anything in return?
 
 277
-00:00:00,000 --> 00:00:00,000
-The esurient lad!
+00:22:11,620 --> 00:22:13,086
+No.
 
 278
-00:00:00,000 --> 00:00:00,000
-Look at how he came here, running, the moment I signed the will;
+00:22:14,557 --> 00:22:17,817
+He just kept staring at me, wide-eyed.
 
 279
-00:00:00,000 --> 00:00:00,000
-Otherwise,
+00:22:17,817 --> 00:22:19,837
+The esurient lad!
 
 280
-00:00:00,000 --> 00:00:00,000
-He'd been in hiding for eight long years.
+00:22:19,927 --> 00:22:25,187
+Look at how he came here, running, the moment I signed the will;
 
 281
-00:00:00,000 --> 00:00:00,000
-I've given him half the property from Suraiyya and Fatima's share
-
-282
-00:00:00,000 --> 00:00:00,000
-Of the bequeathal.
-
-283
-00:00:00,000 --> 00:00:00,000
-I thought Mashood Ahmed may ask me when I go up there,
-
-284
-00:00:00,000 --> 00:00:00,000
-Now,
-
-285
-00:00:00,000 --> 00:00:00,000
-You can't send photocopies up there, otherwise, I'd shove one in his face, saying,
-
-286
-00:00:00,000 --> 00:00:00,000
-'The piece of land that goes to your son'
-
-287
-00:00:00,000 --> 00:00:00,000
-'Is one where cacti blossom, Mashood Ahmed'!
-
-288
-00:00:00,000 --> 00:00:00,000
-Has he brought his wife and children along?
-
-289
-00:00:00,000 --> 00:00:00,000
-He was alone there, Nano.
-
-290
-00:00:00,000 --> 00:00:00,000
-He must be staying at one of those hotels...
-
-291
-00:00:00,000 --> 00:00:00,000
-Ask Dastoor to send him the will,
-
-292
-00:00:00,000 --> 00:00:00,000
-And say, 'It'll take time for Kaneez Begum to die'.
-
-293
-00:00:00,000 --> 00:00:00,000
-Everything shall be divided after my death.
-
-294
-00:00:00,000 --> 00:00:00,000
-His accursed self will be before my Maheen's eyes.
-
-295
-00:00:00,000 --> 00:00:00,000
-Give him his share of the money and kick him on the back, saying,
-
-296
-00:00:00,000 --> 00:00:00,000
-'Begone'!
-
-297
-00:00:00,000 --> 00:00:00,000
-'Go back to where you came from'!
-
-298
-00:00:00,000 --> 00:00:00,000
-In your place, I'd blooter him!
-
-299
-00:00:00,000 --> 00:00:00,000
-But I wouldn't be there...
-
-300
-00:00:00,000 --> 00:00:00,000
-What happened that night?
-
-301
-00:00:00,000 --> 00:00:00,000
-Tell me, what happened that night?
-
-302
-00:00:00,000 --> 00:00:00,000
-When?
-
-303
-00:00:00,000 --> 00:00:00,000
-The night of the wedding.
-
-304
-00:00:00,000 --> 00:00:00,000
-When I'd left.
-
-305
-00:00:00,000 --> 00:00:00,000
-<i>Love's testimony is not to be asked of it</i>
-
-306
-00:00:00,000 --> 00:00:00,000
-<i>It pulls out tears and drops them from the eyes</i>
-
-307
-00:00:00,000 --> 00:00:00,000
-<i>In the tale of love</i>
-
-308
-00:00:00,000 --> 00:00:00,000
-<i>In the tale of love where do these turns come from</i>
-
-309
-00:00:00,000 --> 00:00:00,000
-<i>In the tale of love where do these turns come from</i>
-
-310
-00:00:00,000 --> 00:00:00,000
-<i>That those we hold dear to us are the ones who break our heart</i>
-
-311
-00:00:00,000 --> 00:00:00,000
-<i>That those we hold dear to us are the ones who break our heart</i>
-
-312
-00:00:00,000 --> 00:00:00,000
-Did you see that?
-
-313
-00:00:00,000 --> 00:00:00,000
-Even as Judgement Day approaches,
-
-314
-00:00:00,000 --> 00:00:00,000
-The expressions of companionship don't change.
-
-315
-00:00:00,000 --> 00:00:00,000
-'Expression'
-
-316
-00:00:00,000 --> 00:00:00,000
-Is an English word, Ammi Begum.
-
-317
-00:00:00,000 --> 00:00:00,000
-Shut up, Dastoor Ahmed.
-
-318
-00:00:00,000 --> 00:00:00,000
-Look over there.
-
-319
-00:00:00,000 --> 00:00:00,000
-She cares for the birds even to this day.
-
-320
-00:00:00,000 --> 00:00:00,000
-The twit has no idea
-
-321
-00:00:00,000 --> 00:00:00,000
-They'd fly away the moment they get the opportunity to.
-
-322
-00:00:00,000 --> 00:00:00,000
-She was saying,
-
-323
-00:00:00,000 --> 00:00:00,000
-'Ammi Begum's fine now'.
-
-324
-00:00:00,000 --> 00:00:00,000
-'I'll be leaving shortly'.
-
-325
-00:00:00,000 --> 00:00:00,000
-What's it to me?
-
-326
-00:00:00,000 --> 00:00:00,000
-I'll fall ill again!
-
-327
-00:00:00,000 --> 00:00:00,000
-Come.
-
-328
-00:00:00,000 --> 00:00:00,000
-Here.
-
-329
-00:00:00,000 --> 00:00:00,000
-I had my reason for leaving her, Munshi Alam.
-
-330
-00:00:00,000 --> 00:00:00,000
-I have evidence for everything.
-
-331
-00:00:00,000 --> 00:00:00,000
-You have but regret.
-
-332
-00:00:00,000 --> 00:00:00,000
-Perfidy has no reason, and
-
-333
-00:00:00,000 --> 00:00:00,000
-Regret has no evidence.
-
-334
-00:00:00,000 --> 00:00:00,000
-I'm dying, Munshi Alam.
-
-335
-00:00:00,000 --> 00:00:00,000
-You just feel you're dying.
-
-336
-00:00:00,000 --> 00:00:00,000
-I've seen
-
-337
-00:00:00,000 --> 00:00:00,000
-Those who die.
-
-338
-00:00:00,000 --> 00:00:00,000
-They quieten,
-
-339
-00:00:00,000 --> 00:00:00,000
-Are petrified,
-
-340
-00:00:00,000 --> 00:00:00,000
-And forget even to blink.
-
-341
-00:00:00,000 --> 00:00:00,000
-Today,
-
-342
-00:00:00,000 --> 00:00:00,000
-You shall get a certified copy of the will.
-
-343
-00:00:00,000 --> 00:00:00,000
-You
-
-344
-00:00:00,000 --> 00:00:00,000
-May leave before nightfall,
-
-345
-00:00:00,000 --> 00:00:00,000
+00:22:25,317 --> 00:22:26,398
 Otherwise,
 
-346
-00:00:00,000 --> 00:00:00,000
-One of these days, I may say to you in person that I
+282
+00:22:26,398 --> 00:22:30,169
+He'd been in hiding for eight long years.
 
-347
-00:00:00,000 --> 00:00:00,000
-Find your very existence
+283
+00:22:32,208 --> 00:22:36,700
+I've given him half the property from Suraiyya and Fatima's share
 
-348
-00:00:00,000 --> 00:00:00,000
-Miasmic.
+284
+00:22:36,700 --> 00:22:39,029
+Of the bequeathal.
 
-349
-00:00:00,000 --> 00:00:00,000
-Talk to me, Munshi Alam.
+285
+00:22:39,090 --> 00:22:44,408
+I thought Mashood Ahmed may ask me when I go up there,
 
-350
-00:00:00,000 --> 00:00:00,000
-Please, talk to me.
+286
+00:22:44,477 --> 00:22:45,497
+Now,
 
-351
-00:00:00,000 --> 00:00:00,000
-Tell me what happened that night.
+287
+00:22:45,497 --> 00:22:51,968
+You can't send photocopies up there, otherwise, I'd shove one in his face, saying,
 
-352
-00:00:00,000 --> 00:00:00,000
-You're under Dado's oath.
+288
+00:22:51,968 --> 00:22:55,988
+'The piece of land that goes to your son'
 
-353
-00:00:00,000 --> 00:00:00,000
-Have a bit more.
+289
+00:22:55,988 --> 00:23:00,997
+'Is one where cacti blossom, Mashood Ahmed'!
 
-354
-00:00:00,000 --> 00:00:00,000
-I'm leaving, Nano...
+290
+00:23:04,940 --> 00:23:08,418
+Has he brought his wife and children along?
 
-355
-00:00:00,000 --> 00:00:00,000
-Go.
+291
+00:23:12,900 --> 00:23:14,748
+He was alone there, Nano.
 
-356
-00:00:00,000 --> 00:00:00,000
-Start running faster.
+292
+00:23:14,748 --> 00:23:18,588
+He must be staying at one of those hotels...
 
-357
-00:00:00,000 --> 00:00:00,000
-Once you've learnt to speak loudly,
+293
+00:23:18,998 --> 00:23:23,838
+Ask Dastoor to send him the will,
 
-358
-00:00:00,000 --> 00:00:00,000
-For once,
+294
+00:23:24,528 --> 00:23:30,828
+And say, 'It'll take time for Kaneez Begum to die'.
 
-359
-00:00:00,000 --> 00:00:00,000
-Come here
+295
+00:23:33,740 --> 00:23:37,978
+Everything shall be divided after my death.
 
-360
-00:00:00,000 --> 00:00:00,000
-And show me.
+296
+00:23:39,830 --> 00:23:44,721
+His accursed self will be before my Maheen's eyes.
 
-361
-00:00:00,000 --> 00:00:00,000
-I would like to
+297
+00:23:45,826 --> 00:23:51,152
+Give him his share of the money and kick him on the back, saying,
 
-362
-00:00:00,000 --> 00:00:00,000
-Capture that moment in my eyes.
+298
+00:23:51,152 --> 00:23:52,681
+'Begone'!
 
-363
-00:00:00,000 --> 00:00:00,000
-It's not an order, Chief,
+299
+00:23:52,681 --> 00:23:55,921
+'Go back to where you came from'!
 
-364
-00:00:00,000 --> 00:00:00,000
-Just my wish.
+300
+00:23:58,460 --> 00:24:02,768
+In your place, I'd blooter him!
 
-365
-00:00:00,000 --> 00:00:00,000
-Alright, Uncle.
+301
+00:24:04,270 --> 00:24:07,589
+But I wouldn't be there...
 
-366
-00:00:00,000 --> 00:00:00,000
-I'll be back, Ammi Begum.
+302
+00:24:32,490 --> 00:24:34,902
+What happened that night?
 
-367
-00:00:00,000 --> 00:00:00,000
-Whatever is it
+303
+00:24:44,360 --> 00:24:46,858
+Tell me, what happened that night?
 
-368
-00:00:00,000 --> 00:00:00,000
-That I should bless you with, my dear?
+304
+00:24:46,910 --> 00:24:48,538
+When?
 
-369
-00:00:00,000 --> 00:00:00,000
-He kept looking for a trace
+305
+00:24:51,490 --> 00:24:53,797
+The night of the wedding.
 
-370
-00:00:00,000 --> 00:00:00,000
-Of where you were.
+306
+00:24:57,460 --> 00:24:59,869
+When I'd left.
 
-371
-00:00:00,000 --> 00:00:00,000
-The clock struck 10.
+307
+00:25:04,690 --> 00:25:18,810
+♪ <i>Love's testimony is not to be asked of it</i> ♪
 
-372
-00:00:00,000 --> 00:00:00,000
-There were so many calls from Kaneez Mahal,
+308
+00:25:18,860 --> 00:25:32,460
+♪ <i>It pulls out tears and drops them from the eyes...</i> ♪
 
-373
-00:00:00,000 --> 00:00:00,000
-He
+309
+00:25:37,030 --> 00:25:43,549
+♪ <i>In the tale of love...</i> ♪
 
-374
-00:00:00,000 --> 00:00:00,000
-Answered one with uncertainty,
+310
+00:25:46,550 --> 00:26:00,160
+♪ <i>In the tale of love where do these turns come from?</i> ♪
 
-375
-00:00:00,000 --> 00:00:00,000
-And didn't answer a handful.
+311
+00:26:03,030 --> 00:26:12,490
+♪ <i>In the tale of love where do these turns come from</i> ♪
 
-376
-00:00:00,000 --> 00:00:00,000
-And when Dr Imran told him
+312
+00:26:12,490 --> 00:26:21,770
+♪ <i>That those we hold dear to us are the ones who break our heart</i> ♪
 
-377
-00:00:00,000 --> 00:00:00,000
-That he's left,
+313
+00:26:21,770 --> 00:26:31,460
+♪ <i>That those we hold dear to us are the ones who break our heart...</i> ♪
 
-378
-00:00:00,000 --> 00:00:00,000
-He made a run for it.
+314
+00:26:46,850 --> 00:26:49,748
+Did you see that?
 
-379
-00:00:00,000 --> 00:00:00,000
-Everybody over at Kaneez Mahal had their suspicions,
+315
+00:26:50,310 --> 00:26:53,478
+Even as Judgement Day approaches,
 
-380
-00:00:00,000 --> 00:00:00,000
-But
+316
+00:26:53,509 --> 00:26:58,588
+The expressions of companionship don't change.
 
-381
-00:00:00,000 --> 00:00:00,000
-Everyone played their part in the pasquinade.
+317
+00:27:01,740 --> 00:27:03,529
+'Expression'
 
-382
-00:00:00,000 --> 00:00:00,000
-Looking at each other,
+318
+00:27:03,529 --> 00:27:06,200
+Is an English word, Ammi Begum.
 
-383
-00:00:00,000 --> 00:00:00,000
-They'd smile for no reason.
+319
+00:27:06,230 --> 00:27:08,820
+Shut up, Dastoor Ahmed.
 
-384
-00:00:00,000 --> 00:00:00,000
-Everyone was distressed,
+320
+00:27:08,860 --> 00:27:10,731
+Look over there.
 
-385
-00:00:00,000 --> 00:00:00,000
-And nobody knew what was going to happen.
+321
+00:27:10,811 --> 00:27:14,963
+She cares for the birds even to this day.
 
-386
-00:00:00,000 --> 00:00:00,000
-Then
+322
+00:27:15,963 --> 00:27:19,693
+The twit has no idea
 
-387
-00:00:00,000 --> 00:00:00,000
-Came that moment.
+323
+00:27:19,943 --> 00:27:24,144
+They'd fly away the moment they get the opportunity.
 
-388
-00:00:00,000 --> 00:00:00,000
-He barged into Kaneez Mahal suddenly, panting,
+324
+00:27:29,350 --> 00:27:31,618
+She was saying,
 
-389
-00:00:00,000 --> 00:00:00,000
-But everybody's eyes searched for you by his side.
+325
+00:27:32,490 --> 00:27:35,330
+'Ammi Begum's fine now'.
 
-390
-00:00:00,000 --> 00:00:00,000
-But
+326
+00:27:38,310 --> 00:27:40,599
+'I'll be leaving shortly'.
 
-391
-00:00:00,000 --> 00:00:00,000
-You
+327
+00:27:44,920 --> 00:27:46,720
+What's it to me?
 
-392
-00:00:00,000 --> 00:00:00,000
-Were nowhere.
+328
+00:27:46,811 --> 00:27:49,312
+I'll fall ill again!
 
-393
-00:00:00,000 --> 00:00:00,000
-You'd
-
-394
-00:00:00,000 --> 00:00:00,000
-Left.
-
-395
-00:00:00,000 --> 00:00:00,000
-Where's that bleedin' bridegroom?
-
-396
-00:00:00,000 --> 00:00:00,000
-Where is he?
-
-397
-00:00:00,000 --> 00:00:00,000
-Where's Maheen?
-
-398
-00:00:00,000 --> 00:00:00,000
-C -- Come with me.
-
-399
-00:00:00,000 --> 00:00:00,000
+329
+00:27:50,730 --> 00:27:52,099
 Come.
 
+330
+00:28:06,240 --> 00:28:07,588
+Here.
+
+331
+00:28:30,650 --> 00:28:34,168
+I had my reasons for leaving her, Munshi Alam.
+
+332
+00:28:35,660 --> 00:28:38,141
+I have evidence for everything.
+
+333
+00:28:39,660 --> 00:28:42,361
+You have but regret.
+
+334
+00:28:43,721 --> 00:28:46,391
+Perfidy has no reason, and
+
+335
+00:28:46,391 --> 00:28:48,740
+Regret has no evidence.
+
+336
+00:28:48,740 --> 00:28:50,911
+I'm dying, Munshi Alam.
+
+337
+00:28:53,540 --> 00:28:56,460
+You just <i>feel</i> you're dying.
+
+338
+00:28:59,700 --> 00:29:00,968
+I've seen
+
+339
+00:29:00,968 --> 00:29:03,388
+Those who die.
+
+340
+00:29:04,137 --> 00:29:06,047
+They quieten,
+
+341
+00:29:08,650 --> 00:29:10,791
+They're petrified,
+
+342
+00:29:11,911 --> 00:29:15,455
+Too petrified to remember to blink.
+
+343
+00:29:18,440 --> 00:29:19,938
+Today,
+
+344
+00:29:21,060 --> 00:29:25,030
+You shall get a certified copy of the will.
+
+345
+00:29:26,150 --> 00:29:27,298
+You
+
+346
+00:29:27,298 --> 00:29:30,048
+May leave before nightfall,
+
+347
+00:29:30,638 --> 00:29:31,540
+Otherwise,
+
+348
+00:29:31,540 --> 00:29:35,120
+One of these days, I may say to you in person that I
+
+349
+00:29:35,120 --> 00:29:37,828
+Find your very existence
+
+350
+00:29:37,828 --> 00:29:39,898
+Miasmic.
+
+351
+00:29:41,080 --> 00:29:43,427
+Talk to me, Munshi Alam.
+
+352
+00:29:43,920 --> 00:29:45,898
+Please, talk to me.
+
+353
+00:29:47,278 --> 00:29:50,119
+Tell me what happened that night.
+
+354
+00:29:52,680 --> 00:29:55,338
+You're under Dado's oath.
+
+355
+00:30:08,400 --> 00:30:10,658
+Have a bit more.
+
+356
+00:30:16,640 --> 00:30:18,669
+I'm leaving, Nano...
+
+357
+00:30:26,900 --> 00:30:28,218
+Go.
+
+358
+00:30:39,940 --> 00:30:42,928
+Start running faster.
+
+359
+00:30:44,408 --> 00:30:48,148
+Once you've learnt to speak loudly,
+
+360
+00:30:49,948 --> 00:30:51,550
+For once,
+
+361
+00:30:51,550 --> 00:30:52,988
+Come here
+
+362
+00:30:52,988 --> 00:30:55,052
+And show me.
+
+363
+00:30:58,930 --> 00:31:01,328
+I would like to
+
+364
+00:31:01,438 --> 00:31:05,398
+Capture that moment in my eyes.
+
+365
+00:31:18,410 --> 00:31:21,128
+It's not an order, Chief,
+
+366
+00:31:21,320 --> 00:31:23,420
+Just my wish.
+
+367
+00:31:42,990 --> 00:31:44,818
+Alright, Uncle.
+
+368
+00:31:51,060 --> 00:31:53,008
+I'll be back, Ammi Begum.
+
+369
+00:31:59,130 --> 00:32:01,699
+Whatever is it
+
+370
+00:32:04,200 --> 00:32:07,622
+That I should bless you with, my dear?
+
+371
+00:32:27,570 --> 00:32:30,159
+He kept looking for a trace
+
+372
+00:32:30,560 --> 00:32:33,928
+Of where you were.
+
+373
+00:32:35,800 --> 00:32:37,898
+The clock struck 10.
+
+374
+00:32:38,578 --> 00:32:42,458
+There were so many calls from Kaneez Mahal,
+
+375
+00:32:42,778 --> 00:32:43,667
+He
+
+376
+00:32:43,667 --> 00:32:46,788
+Answered one or two with uncertainty,
+
+377
+00:32:47,118 --> 00:32:49,898
+But the rest... He didn't answer...
+
+378
+00:32:50,430 --> 00:32:54,727
+And when Dr Imran told him
+
+379
+00:32:54,790 --> 00:32:56,367
+That you've left,
+
+380
+00:32:56,367 --> 00:32:58,517
+He made a run for it.
+
+381
+00:33:01,130 --> 00:33:04,838
+Everybody over at Kaneez Mahal had their suspicions,
+
+382
+00:33:04,838 --> 00:33:05,978
+But
+
+383
+00:33:05,978 --> 00:33:09,168
+Everyone played their part in the pasquinade.
+
+384
+00:33:10,109 --> 00:33:12,290
+Looking at each other,
+
+385
+00:33:12,290 --> 00:33:14,908
+They'd smile for no reason.
+
+386
+00:33:19,880 --> 00:33:22,088
+Everyone was distressed,
+
+387
+00:33:22,390 --> 00:33:25,638
+And nobody knew what was going to happen.
+
+388
+00:33:27,518 --> 00:33:28,640
+Then
+
+389
+00:33:28,640 --> 00:33:30,868
+Came that moment.
+
+390
+00:33:31,780 --> 00:33:35,180
+He barged into Kaneez Mahal suddenly, panting,
+
+391
+00:33:35,180 --> 00:33:39,598
+But everybody's eyes searched for <i>you</i> by his side.
+
+392
+00:33:41,100 --> 00:33:42,441
+But
+
+393
+00:33:42,521 --> 00:33:43,950
+You
+
+394
+00:33:44,380 --> 00:33:46,321
+Were nowhere.
+
+395
+00:33:47,480 --> 00:33:49,053
+You
+
+396
+00:33:49,190 --> 00:33:51,290
+Were long gone...
+
+397
+00:33:55,130 --> 00:33:58,267
+Where's that bleedin' bridegroom?
+
+398
+00:34:17,650 --> 00:34:19,748
+Where is he?
+
+399
+00:34:20,930 --> 00:34:22,938
+Where's Maheen?
+
 400
-00:00:00,000 --> 00:00:00,000
-His phone's switched off.
+00:34:25,930 --> 00:34:27,888
+C -- Come with me.
 
 401
-00:00:00,000 --> 00:00:00,000
-Let it remain switched off, mate.
+00:34:27,888 --> 00:34:29,338
+Come.
 
 402
-00:00:00,000 --> 00:00:00,000
-He'll be here.
+00:34:35,570 --> 00:34:37,260
+His phone's switched off.
 
 403
-00:00:00,000 --> 00:00:00,000
-He's left.
+00:34:37,260 --> 00:34:39,230
+Let it remain switched off, mate.
 
 404
-00:00:00,000 --> 00:00:00,000
-He took off and threw away his sherwani,
+00:34:39,230 --> 00:34:40,968
+He'll be here.
 
 405
-00:00:00,000 --> 00:00:00,000
-And left a letter addressed to you.
+00:35:04,880 --> 00:35:06,649
+He's left.
 
 406
-00:00:00,000 --> 00:00:00,000
-Give me the letter.
+00:35:09,630 --> 00:35:12,848
+He took off and threw away his sherwani,
 
 407
-00:00:00,000 --> 00:00:00,000
-Dear Maheen,
+00:35:15,920 --> 00:35:19,418
+And left a letter addressed to you.
 
 408
-00:00:00,000 --> 00:00:00,000
-It has been a pleasure
+00:35:23,690 --> 00:35:25,438
+Give me the letter.
 
 409
-00:00:00,000 --> 00:00:00,000
-That this chapter of our love began,
+00:35:36,070 --> 00:35:37,808
+'Dear Maheen,'
 
 410
-00:00:00,000 --> 00:00:00,000
-And we fell in love;
+00:35:38,248 --> 00:35:40,278
+'It has been a pleasure'
 
 411
-00:00:00,000 --> 00:00:00,000
-<i>What good is writhing and smouldering in your remembrance</i>
+00:35:40,820 --> 00:35:43,610
+'That this chapter of our love began,'
 
 412
-00:00:00,000 --> 00:00:00,000
-Such love that you agreed to marry me.
+00:35:43,647 --> 00:35:44,678
+'And we fell in love;'
 
 413
-00:00:00,000 --> 00:00:00,000
-Splendid.
+00:35:44,678 --> 00:35:46,138
+'And we fell in love;'
+♪ <i>What good is writhing and smouldering in your remembrance...</i> ♪
 
 414
-00:00:00,000 --> 00:00:00,000
-Does one wager oneself in one's quest for revenge?
+00:35:46,138 --> 00:35:56,720
+♪ <i>What good is writhing and smouldering in your remembrance...</i> ♪
 
 415
-00:00:00,000 --> 00:00:00,000
-And your sister Fajr,
+00:35:56,720 --> 00:36:00,150
+'Such love that you agreed to marry me.'
 
 416
-00:00:00,000 --> 00:00:00,000
-She always kept guessing you'd fallen for me!
+00:36:00,260 --> 00:36:01,850
+'Splendid.'
 
 417
-00:00:00,000 --> 00:00:00,000
-You silly girl,
+00:36:02,620 --> 00:36:06,310
+'Does one wager oneself in one's quest for revenge?'
 
 418
-00:00:00,000 --> 00:00:00,000
-At least you could've thought of Gulrez, if none of them.
+00:36:06,371 --> 00:36:08,591
+'And your sister Fajr,'
 
 419
-00:00:00,000 --> 00:00:00,000
-He kept writhing in love like an animal to be sacrificed,
+00:36:08,974 --> 00:36:13,130
+'She always kept guessing you'd fallen for me!'
 
 420
-00:00:00,000 --> 00:00:00,000
-And kept on doing what you wanted him to.
+00:36:13,510 --> 00:36:15,170
+'You silly girl,'
 
 421
-00:00:00,000 --> 00:00:00,000
-Never before had I wished that you should taste defeat by my hand,
+00:36:15,270 --> 00:36:18,919
+'At least you could've thought of Gulrez, if none of them.'
 
 422
-00:00:00,000 --> 00:00:00,000
-But my heart says that I should leave you bitterly defeated today,
+00:36:19,098 --> 00:36:21,659
+'He kept writhing in love like an animal to be sacrificed,'
 
 423
-00:00:00,000 --> 00:00:00,000
-And show you, Maheen, that to triumph in the name of love,
+00:36:21,659 --> 00:36:24,799
+'And kept on doing what you wanted him to.'
 
 424
-00:00:00,000 --> 00:00:00,000
-One has to yield.
+00:36:26,410 --> 00:36:30,439
+'Never before had I wished that you should taste defeat by my hand,'
 
 425
-00:00:00,000 --> 00:00:00,000
-I depart a victor,
+00:36:31,400 --> 00:36:35,128
+'But my heart says that I should leave you bitterly defeated today,'
 
 426
-00:00:00,000 --> 00:00:00,000
-And I say this as I leave,
+00:36:35,174 --> 00:36:38,935
+'And show you, Maheen, that to triumph in the name of love,'
 
 427
-00:00:00,000 --> 00:00:00,000
-'Bless you'
+00:36:38,935 --> 00:36:41,235
+'One has to yield.'
 
 428
-00:00:00,000 --> 00:00:00,000
-'With this closing checkmate'.
+00:36:43,091 --> 00:36:45,265
+'I depart a victor,'
 
 429
-00:00:00,000 --> 00:00:00,000
-<i>Love's testimony is not to be asked of it</i>
+00:36:45,265 --> 00:36:47,065
+'And I say this as I leave,'
 
 430
-00:00:00,000 --> 00:00:00,000
-<i>It pulls out tears and drops them from the eyes</i>
+00:36:47,065 --> 00:36:49,100
+'"Bless you"'
 
 431
-00:00:00,000 --> 00:00:00,000
-<i>Ask all you will what comes out of love</i>
+00:36:49,100 --> 00:36:50,001
+'"With this closing checkmate".'
 
 432
-00:00:00,000 --> 00:00:00,000
-<i>The heart is its creator, and ends up being destroyed by it</i>
+00:36:50,001 --> 00:36:51,632
+'"With this closing checkmate".'
+♪ <i>Love's testimony is not to be asked of it</i> ♪
 
 433
-00:00:00,000 --> 00:00:00,000
+00:36:51,632 --> 00:37:03,910
+♪ <i>Love's testimony is not to be asked of it</i> ♪
+
+434
+00:37:04,170 --> 00:37:18,100
+♪ <i>It pulls out tears and drops them from the eyes</i> ♪
+
+435
+00:37:18,160 --> 00:37:27,200
+♪ <i>Ask all you will what comes out of love</i> ♪
+
+436
+00:37:27,200 --> 00:37:33,000
+♪ <i>The heart is its creator, and ends up being destroyed by it</i> ♪
+
+437
+00:37:33,000 --> 00:37:38,000
+♪ <i>The heart is its creator, and ends up being destroyed by it</i> ♪
 Translation: Aditya Misra © GEO TV
+
+438
+00:37:38,000 --> 00:37:38,948
+♪ <i>The heart is its creator, and ends up being destroyed by it</i> ♪
 

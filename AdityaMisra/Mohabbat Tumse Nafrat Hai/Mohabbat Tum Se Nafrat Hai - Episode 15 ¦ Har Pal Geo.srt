@@ -1,1590 +1,1747 @@
 1
-00:00:00,000 --> 00:00:00,000
+00:00:10,210 --> 00:00:13,178
 I've seen and heard it myself.
 
 2
-00:00:00,000 --> 00:00:00,000
+00:00:13,290 --> 00:00:15,248
 He leaves on Sunday.
 
 3
-00:00:00,000 --> 00:00:00,000
+00:00:18,250 --> 00:00:21,418
 He was arguing with his agent.
 
 4
-00:00:00,000 --> 00:00:00,000
+00:00:22,758 --> 00:00:29,759
 He wasn't so lucky as to get a flight before Sunday.
 
 5
-00:00:00,000 --> 00:00:00,000
+00:00:31,278 --> 00:00:33,989
 He'll be gone forever on Sunday.
 
 6
-00:00:00,000 --> 00:00:00,000
+00:00:34,038 --> 00:00:35,819
 Because I've asked him to.
 
 7
-00:00:00,000 --> 00:00:00,000
+00:00:35,878 --> 00:00:39,339
 'Don't ever come back if you go'.
 
 8
-00:00:00,000 --> 00:00:00,000
+00:00:43,990 --> 00:00:46,333
 He won't be coming back, Maheen.
 
 9
-00:00:00,000 --> 00:00:00,000
+00:00:46,910 --> 00:00:48,937
 Ever.
 
 10
-00:00:00,000 --> 00:00:00,000
+00:00:55,110 --> 00:00:59,695
 Come and pick your engagement gown. They're waiting for you.
 
 11
-00:00:00,000 --> 00:00:00,000
+00:00:59,748 --> 00:01:02,859
 And please reject the blue one.
 
 12
-00:00:00,000 --> 00:00:00,000
+00:01:02,960 --> 00:01:06,170
 Mum wore it on her engagement.
 
 13
-00:00:00,000 --> 00:00:00,000
+00:01:06,250 --> 00:01:09,952
 She doesn't consider it auspicious.
 
 14
-00:00:00,000 --> 00:00:00,000
-<i>Love's testimony is not to be asked of it</i>
+00:01:10,911 --> 00:01:25,000
+♪ <i>Love's testimony is not to be asked of it</i> ♪
 
 15
-00:00:00,000 --> 00:00:00,000
-<i>It pulls out tears and drops them from the eyes</i>
+00:01:25,150 --> 00:01:39,100
+♪ <i>It pulls out tears and drops them from the eyes...</i> ♪
 
 16
-00:00:00,000 --> 00:00:00,000
-<i>Make it on your own, but we don't have to grow up, we can stay forever young...</i>
+00:01:42,390 --> 00:01:47,018
+♪ <i>Make it on your own, but we don't have to grow up, we can stay forever young...</i> ♪
 
 17
-00:00:00,000 --> 00:00:00,000
-<i>Living on my sofa, drinking rum and cola underneath the rising sun...</i>
+00:01:47,077 --> 00:01:51,640
+♪ <i>Living on my sofa, drinking rum and cola underneath the rising sun...</i> ♪
 
 18
-00:00:00,000 --> 00:00:00,000
-<i>I could give a thousand reasons why</i>
+00:01:51,730 --> 00:01:55,700
+♪ <i>I could give a thousand reasons why</i> ♪
 
 19
-00:00:00,000 --> 00:00:00,000
-<i>But you're going, and you know that</i>
+00:01:55,700 --> 00:01:58,960
+♪ <i>But you're going, and you know that...</i> ♪
 
 20
-00:00:00,000 --> 00:00:00,000
-<i>I don't like any of these colours...
-But you're going, and you know that</i>
+00:01:58,960 --> 00:02:00,481
+I don't like any of these colours...
+♪ <i>But you're going, and you know that...</i> ♪
 
 21
-00:00:00,000 --> 00:00:00,000
+00:02:00,481 --> 00:02:01,854
 I don't like any of these colours...
 
 22
-00:00:00,000 --> 00:00:00,000
+00:02:03,230 --> 00:02:05,258
 Please help me, Waqar?
 
 23
-00:00:00,000 --> 00:00:00,000
+00:02:05,480 --> 00:02:12,422
 I thought you said you'd pick. But you're just looking at me.
 
 24
-00:00:00,000 --> 00:00:00,000
+00:02:12,519 --> 00:02:15,430
 I'm looking at how you're saving all your love for her.
 
 25
-00:00:00,000 --> 00:00:00,000
+00:02:15,430 --> 00:02:19,250
 Otherwise, I'm sure this suit's gonna look very good on you. This one.
--This one?
 
 26
-00:00:00,000 --> 00:00:00,000
-Please pack this one.
-
-27
-00:00:00,000 --> 00:00:00,000
-Let's check out the ties...
-
-28
-00:00:00,000 --> 00:00:00,000
-I've never bought a tie.
-
-29
-00:00:00,000 --> 00:00:00,000
-You can help me pick a matching colour.
-
-30
-00:00:00,000 --> 00:00:00,000
-Yeah, sure.
-
-31
-00:00:00,000 --> 00:00:00,000
-How about this one?
-
-32
-00:00:00,000 --> 00:00:00,000
-Yeah, this one's good.
-
-33
-00:00:00,000 --> 00:00:00,000
-Would you have picked this one in my place?
-
-34
-00:00:00,000 --> 00:00:00,000
-No. I would've picked that one.
-
-35
-00:00:00,000 --> 00:00:00,000
+00:02:19,250 --> 00:02:20,733
 This one?
 
+27
+00:02:25,220 --> 00:02:27,728
+Please pack this one.
+
+28
+00:02:30,750 --> 00:02:32,660
+Let's check out the ties...
+
+29
+00:02:36,019 --> 00:02:38,218
+I've never bought a tie.
+
+30
+00:02:38,261 --> 00:02:40,081
+You can help me pick a matching colour.
+
+31
+00:02:40,081 --> 00:02:41,741
+Yeah, sure.
+
+32
+00:02:42,640 --> 00:02:44,333
+How about this one?
+
+33
+00:02:46,170 --> 00:02:47,919
+Yeah, this one's good.
+
+34
+00:02:50,680 --> 00:02:54,048
+Would you have picked this one in my place?
+
+35
+00:02:55,598 --> 00:02:58,139
+No. I would've picked that one.
+
 36
-00:00:00,000 --> 00:00:00,000
-Okay.
+00:02:59,767 --> 00:03:01,017
+This one?
 
 37
-00:00:00,000 --> 00:00:00,000
-Please pack these...
+00:03:03,078 --> 00:03:04,153
+Okay.
 
 38
-00:00:00,000 --> 00:00:00,000
-Bill, please?
+00:03:04,189 --> 00:03:06,701
+Please pack these...
 
 39
-00:00:00,000 --> 00:00:00,000
-It's been paid, sir.
+00:03:08,790 --> 00:03:10,018
+Bill, please?
 
 40
-00:00:00,000 --> 00:00:00,000
-Paid?
+00:03:10,049 --> 00:03:11,499
+It's been paid, sir.
 
 41
-00:00:00,000 --> 00:00:00,000
-I paid the bill.
+00:03:11,499 --> 00:03:12,970
+Paid?
 
 42
-00:00:00,000 --> 00:00:00,000
-What am I here for? Consider it my gift on your engagement.
+00:03:13,138 --> 00:03:15,130
+I paid the bill.
 
 43
-00:00:00,000 --> 00:00:00,000
-Oh yeah... For the ties.
+00:03:15,189 --> 00:03:16,980
+What am I here for?
 
 44
-00:00:00,000 --> 00:00:00,000
-Thank you.
+00:03:17,910 --> 00:03:21,054
+Consider it my gift on your engagement.
 
 45
-00:00:00,000 --> 00:00:00,000
-Please don't add this one.
+00:03:22,510 --> 00:03:24,088
+Oh yeah... For the ties.
 
 46
-00:00:00,000 --> 00:00:00,000
-Why?
-
-47
-00:00:00,000 --> 00:00:00,000
-Because I'd picked this one for you.
-
-48
-00:00:00,000 --> 00:00:00,000
-I don't know how to tie one.
-
-49
-00:00:00,000 --> 00:00:00,000
-Waqar...
-
-50
-00:00:00,000 --> 00:00:00,000
-I've learnt so much from you. The least I can do is teach you how to.
-
-51
-00:00:00,000 --> 00:00:00,000
+00:03:24,088 --> 00:03:25,339
 Thank you.
 
+47
+00:03:26,220 --> 00:03:27,878
+Please don't add this one.
+
+48
+00:03:27,878 --> 00:03:28,980
+Why?
+
+49
+00:03:29,180 --> 00:03:31,531
+Because I'd picked this one for you.
+
+50
+00:03:32,351 --> 00:03:34,518
+I don't know how to tie one.
+
+51
+00:03:35,042 --> 00:03:36,132
+Waqar...
+
 52
-00:00:00,000 --> 00:00:00,000
-No.
+00:03:36,177 --> 00:03:40,488
+I've learnt so much from you. The least I can do is teach you how to.
 
 53
-00:00:00,000 --> 00:00:00,000
+00:03:43,130 --> 00:03:44,058
 Thank you.
 
 54
-00:00:00,000 --> 00:00:00,000
-Peace be upon you!
+00:03:44,058 --> 00:03:45,178
+No.
 
 55
-00:00:00,000 --> 00:00:00,000
-And upon you, peace.
+00:03:45,319 --> 00:03:46,840
+Thank <i>you</i>.
 
 56
-00:00:00,000 --> 00:00:00,000
-So...
+00:03:52,600 --> 00:03:54,488
+Peace be upon you!
 
 57
-00:00:00,000 --> 00:00:00,000
-Which of these four do you like the most?
+00:03:54,710 --> 00:03:57,503
+And upon you, peace.
 
 58
-00:00:00,000 --> 00:00:00,000
-This one...
+00:03:58,864 --> 00:03:59,814
+So...
 
 59
-00:00:00,000 --> 00:00:00,000
-The blue one.
+00:03:59,814 --> 00:04:01,364
+M'girl...
 
 60
-00:00:00,000 --> 00:00:00,000
-Should I go invite Jiya?
+00:04:01,412 --> 00:04:06,014
+Which of these four do you like the most?
 
 61
-00:00:00,000 --> 00:00:00,000
-How could you not invite her?
+00:04:06,240 --> 00:04:08,067
+Umm...
 
 62
-00:00:00,000 --> 00:00:00,000
-But... Think again before you leave.
+00:04:13,070 --> 00:04:14,578
+Hmm?
 
 63
-00:00:00,000 --> 00:00:00,000
-There's three other gowns here.
+00:04:25,690 --> 00:04:27,039
+Mhm!
 
 64
-00:00:00,000 --> 00:00:00,000
-Why don't you folks wear these? Nano?
+00:04:36,360 --> 00:04:37,918
+This one...
 
 65
-00:00:00,000 --> 00:00:00,000
-Here we are...
+00:04:38,438 --> 00:04:39,978
+I'll pick...
 
 66
-00:00:00,000 --> 00:00:00,000
-You gonna sit there? Come out.
+00:04:40,838 --> 00:04:42,799
+The blue one.
 
 67
-00:00:00,000 --> 00:00:00,000
-No, not today.
+00:04:53,870 --> 00:04:56,097
+Should I go invite Jiya?
 
 68
-00:00:00,000 --> 00:00:00,000
-Please? I'll make you a nice cuppa.
+00:04:56,217 --> 00:04:59,087
+How could you not invite her?
 
 69
-00:00:00,000 --> 00:00:00,000
-No, thank you. Not used to having a nice cuppa.
+00:05:00,027 --> 00:05:05,767
+But... Think again before you leave.
 
 70
-00:00:00,000 --> 00:00:00,000
-Come out already!
+00:05:07,118 --> 00:05:12,313
+There's three other gowns here.
 
 71
-00:00:00,000 --> 00:00:00,000
-You would've left if I hadn't seen you!
+00:05:14,500 --> 00:05:18,598
+Why don't you folks wear these? Nano?
 
 72
-00:00:00,000 --> 00:00:00,000
-Ever gone shopping with him?
--God forgive!
--Yeah God forgive me too!
+00:05:52,680 --> 00:05:54,383
+Here we are...
 
 73
-00:00:00,000 --> 00:00:00,000
-Come.
+00:06:05,540 --> 00:06:08,528
+You gonna sit there? Come out.
 
 74
-00:00:00,000 --> 00:00:00,000
+00:06:08,880 --> 00:06:10,421
+No, not today.
+
+75
+00:06:10,477 --> 00:06:12,800
+Please? I'll make you a nice cuppa.
+
+76
+00:06:12,800 --> 00:06:15,531
+No, thank you. Not used to having a nice cuppa.
+
+77
+00:06:21,480 --> 00:06:23,329
+Come out already!
+
+78
+00:06:23,708 --> 00:06:27,039
+You would've left if I hadn't seen you!
+
+79
+00:06:27,090 --> 00:06:28,481
+Ever gone shopping with him?
+
+80
+00:06:28,481 --> 00:06:29,431
+God forgive!
+
+81
+00:06:29,431 --> 00:06:31,242
+Yeah God forgive me too!
+
+82
+00:06:31,242 --> 00:06:32,444
+Come.
+
+83
+00:06:32,572 --> 00:06:34,883
 Come.
 -Come.
 
-75
-00:00:00,000 --> 00:00:00,000
+84
+00:06:47,062 --> 00:06:48,472
 Hi, Chief.
 
-76
-00:00:00,000 --> 00:00:00,000
+85
+00:06:48,613 --> 00:06:49,793
 Hi.
 
-77
-00:00:00,000 --> 00:00:00,000
+86
+00:06:49,850 --> 00:06:51,472
 Studying hard, I see.
 
-78
-00:00:00,000 --> 00:00:00,000
+87
+00:06:51,472 --> 00:06:53,232
 What are you two up to?
 
-79
-00:00:00,000 --> 00:00:00,000
+88
+00:06:53,232 --> 00:06:54,933
 Who else?
 
-80
-00:00:00,000 --> 00:00:00,000
-I can deal with the second. Where's the third?
-
-81
-00:00:00,000 --> 00:00:00,000
-There's a third?
-
-82
-00:00:00,000 --> 00:00:00,000
-Here yet?
-
-83
-00:00:00,000 --> 00:00:00,000
-Who do you mean? I think I'm mixing the second and the third...
-
-84
-00:00:00,000 --> 00:00:00,000
-You-Know-Who... Waqar the Winner.
-
-85
-00:00:00,000 --> 00:00:00,000
-Well, the Jury's changed that name.
-
-86
-00:00:00,000 --> 00:00:00,000
-He's officially Waqar the Loser now. For losing the match on purpose.
-
-87
-00:00:00,000 --> 00:00:00,000
-Anyway... Where is he?
-
-88
-00:00:00,000 --> 00:00:00,000
-Shopping with Gulrez. For the engagement.
-
 89
-00:00:00,000 --> 00:00:00,000
-What're you up to?
+00:06:55,210 --> 00:06:57,370
+I can deal with the second.
 
 90
-00:00:00,000 --> 00:00:00,000
-Do you think he's poisoning his ears?
+00:06:57,418 --> 00:06:59,070
+Where's the third?
 
 91
-00:00:00,000 --> 00:00:00,000
-Might as well be.
+00:06:59,070 --> 00:07:01,298
+There's a third?
 
 92
-00:00:00,000 --> 00:00:00,000
-Guess what he says.
+00:07:01,958 --> 00:07:03,609
+Here yet?
 
 93
-00:00:00,000 --> 00:00:00,000
-Why do you worry? Let the world say what they want.
+00:07:04,159 --> 00:07:08,809
+Who do you mean? I think I'm mixing the second and the third...
 
 94
-00:00:00,000 --> 00:00:00,000
-He bowled awfully on purpose, didn't he?
+00:07:08,859 --> 00:07:11,620
+You-Know-Who... Waqar the Winner.
 
 95
-00:00:00,000 --> 00:00:00,000
-Yeah.
+00:07:11,709 --> 00:07:14,882
+Well, the Jury's changed that name.
 
 96
-00:00:00,000 --> 00:00:00,000
-But why?
+00:07:14,925 --> 00:07:19,755
+He's officially Waqar the Loser now. For losing the match on purpose.
 
 97
-00:00:00,000 --> 00:00:00,000
-He decided to lose to Gulrez as soon as you were out.
+00:07:21,616 --> 00:07:24,056
+Anyway... Where is he?
 
 98
-00:00:00,000 --> 00:00:00,000
-Why is he so determined to lose?
+00:07:24,102 --> 00:07:27,113
+Shopping with Gulrez. For the engagement.
 
 99
-00:00:00,000 --> 00:00:00,000
-Chief...
+00:07:31,060 --> 00:07:33,108
+What're you up to?
 
 100
-00:00:00,000 --> 00:00:00,000
-He never wants to lose... But he doesn't want to beat you. No idea why...
+00:07:35,500 --> 00:07:37,727
+Do you think he's poisoning his ears?
 
 101
-00:00:00,000 --> 00:00:00,000
-Why does he give a hoot about me?
+00:07:37,727 --> 00:07:39,598
+Might as well be.
 
 102
-00:00:00,000 --> 00:00:00,000
-Oh, Chief... Always thinking about those who have nothing to do with you.
+00:07:40,868 --> 00:07:43,368
+Guess what he says.
 
 103
-00:00:00,000 --> 00:00:00,000
-He's back from his mission impossible after you practically beat him with your boots!
+00:07:43,662 --> 00:07:49,903
+Why do you worry? Let the world say what they want.
 
 104
-00:00:00,000 --> 00:00:00,000
-The very mention of your name wipes the expression clean from his face.
+00:07:54,640 --> 00:07:57,681
+He bowled awfully on purpose,
 
 105
-00:00:00,000 --> 00:00:00,000
-As in, no expression.
+00:07:58,380 --> 00:08:00,460
+Didn't he?
 
 106
-00:00:00,000 --> 00:00:00,000
-Chief...
-
-107
-00:00:00,000 --> 00:00:00,000
-You said a word too much.
-
-108
-00:00:00,000 --> 00:00:00,000
-What?
-
-109
-00:00:00,000 --> 00:00:00,000
-Asking him to get the devil out.
-
-110
-00:00:00,000 --> 00:00:00,000
-Don't you think it was a bit too harsh?
-
-111
-00:00:00,000 --> 00:00:00,000
-Yeah... But why are you talking about that?
-
-112
-00:00:00,000 --> 00:00:00,000
-I didn't beat him with my boots!
-
-113
-00:00:00,000 --> 00:00:00,000
-So Fajr's lying?
-
-114
-00:00:00,000 --> 00:00:00,000
-What'd she say?
-
-115
-00:00:00,000 --> 00:00:00,000
-She said you smacked your boot into his face!
-
-116
-00:00:00,000 --> 00:00:00,000
-I'm sure you did that in your fury... You don't really think, do you?
-
-117
-00:00:00,000 --> 00:00:00,000
-The 'get the devil out' part?
-
-118
-00:00:00,000 --> 00:00:00,000
-Has it hurt him so much?
-
-119
-00:00:00,000 --> 00:00:00,000
-Yeah... Maybe...
-
-120
-00:00:00,000 --> 00:00:00,000
-So he's actually going back?
-
-121
-00:00:00,000 --> 00:00:00,000
-As if you give two boots -- *hem* -- hoots.
-
-122
-00:00:00,000 --> 00:00:00,000
-Where's Gulrez?
-
-123
-00:00:00,000 --> 00:00:00,000
-Trying his new suit.
-
-124
-00:00:00,000 --> 00:00:00,000
-The twit! Why couldn't he wait until the big day?
-
-125
-00:00:00,000 --> 00:00:00,000
-I asked him to try it on.
-
-126
-00:00:00,000 --> 00:00:00,000
-Why?
-
-127
-00:00:00,000 --> 00:00:00,000
-I wanted to see him wear that suit once.
-
-128
-00:00:00,000 --> 00:00:00,000
-You say that like you won't be there at the engagement.
-
-129
-00:00:00,000 --> 00:00:00,000
-The engagement's three days away.
-
-130
-00:00:00,000 --> 00:00:00,000
-Enough to change the world.
-
-131
-00:00:00,000 --> 00:00:00,000
-Who knows? I might not even live to see it... Or be here to attend it.
-
-132
-00:00:00,000 --> 00:00:00,000
-So you're leaving.
-
-133
-00:00:00,000 --> 00:00:00,000
-I won't be so sure... I'm not sure I'll live through it.
-
-134
-00:00:00,000 --> 00:00:00,000
-No, Waqar Ahmed.
-
-135
-00:00:00,000 --> 00:00:00,000
-You've ruled that option out.
-
-136
-00:00:00,000 --> 00:00:00,000
-Those who bring others to life don't die in three days.
-
-137
-00:00:00,000 --> 00:00:00,000
-Would you keep it between ourselves?
-
-138
-00:00:00,000 --> 00:00:00,000
-I promise. What is it?
-
-139
-00:00:00,000 --> 00:00:00,000
-I'm leaving.
-
-140
-00:00:00,000 --> 00:00:00,000
-Without attending the engagement?
-
-141
-00:00:00,000 --> 00:00:00,000
-I'll be there. My flight leaves the same night. At 2.
-
-142
-00:00:00,000 --> 00:00:00,000
-I knew you'd leave.
-
-143
-00:00:00,000 --> 00:00:00,000
-I had to, Neelam...
-
-144
-00:00:00,000 --> 00:00:00,000
-It's been two months.
-
-145
-00:00:00,000 --> 00:00:00,000
-I haven't been here this long.
-
-146
-00:00:00,000 --> 00:00:00,000
-I know you didn't come here to go back.
-
-147
-00:00:00,000 --> 00:00:00,000
-I also know
-
-148
-00:00:00,000 --> 00:00:00,000
-Why you're going.
-
-149
-00:00:00,000 --> 00:00:00,000
-Everyone knows that.
-
-150
-00:00:00,000 --> 00:00:00,000
-I miss my English roses too much.
-
-151
-00:00:00,000 --> 00:00:00,000
-Can it.
-
-152
-00:00:00,000 --> 00:00:00,000
-There's no one.
-
-153
-00:00:00,000 --> 00:00:00,000
-Why d'you want to paint yourself as a loafer, a gadabout?
-
-154
-00:00:00,000 --> 00:00:00,000
-You're just spawning hatred for you in our hearts...
-
-155
-00:00:00,000 --> 00:00:00,000
-And especially... In her heart... She, who lives in yours...
-
-156
-00:00:00,000 --> 00:00:00,000
-No idea what you're talking about... And no idea what's taking him so long!
-
-157
-00:00:00,000 --> 00:00:00,000
-You know what I'm talking about.
-
-158
-00:00:00,000 --> 00:00:00,000
-I know what you're gonna do.
-
-159
-00:00:00,000 --> 00:00:00,000
-Know what, Waqar,
-
-160
-00:00:00,000 --> 00:00:00,000
-One moment
-
-161
-00:00:00,000 --> 00:00:00,000
-Has made me feel like I've wronged you.
-
-162
-00:00:00,000 --> 00:00:00,000
-I admit I'd fallen for Maheen, Neelam...
-
-163
-00:00:00,000 --> 00:00:00,000
-But my love
-
-164
-00:00:00,000 --> 00:00:00,000
-Could never be as powerful as Gulrez's.
-
-165
-00:00:00,000 --> 00:00:00,000
-So...
-
-166
-00:00:00,000 --> 00:00:00,000
-Don't think I'm pitying anyone...
-
-167
-00:00:00,000 --> 00:00:00,000
-I'm giving him what's rightfully his.
-
-168
-00:00:00,000 --> 00:00:00,000
-And I promise you
-
-169
-00:00:00,000 --> 00:00:00,000
-I won't be coming back this time.
-
-170
-00:00:00,000 --> 00:00:00,000
-You're leaving?
-
-171
-00:00:00,000 --> 00:00:00,000
+00:08:00,540 --> 00:08:01,840
 Yeah.
 
+107
+00:08:02,090 --> 00:08:03,619
+But why?
+
+108
+00:08:05,530 --> 00:08:09,938
+He decided to lose to Gulrez as soon as you were out.
+
+109
+00:08:10,032 --> 00:08:13,423
+Why is he so determined to lose?
+
+110
+00:08:13,990 --> 00:08:15,409
+Chief...
+
+111
+00:08:15,568 --> 00:08:17,780
+He never wants to lose...
+
+112
+00:08:17,834 --> 00:08:21,575
+But he doesn't want to beat you. No idea why...
+
+113
+00:08:23,020 --> 00:08:24,950
+Why does he give a hoot about me?
+
+114
+00:08:24,950 --> 00:08:26,468
+Oh, Chief...
+
+115
+00:08:26,708 --> 00:08:30,949
+Always thinking about those who have nothing to do with you.
+
+116
+00:08:31,580 --> 00:08:36,988
+He's back from his mission impossible after you practically beat him with your boots!
+
+117
+00:08:37,662 --> 00:08:43,788
+The very mention of your name wipes the expression clean from his face. Like a fused bulb!
+
+118
+00:08:45,950 --> 00:08:48,938
+As in, no expression.
+
+119
+00:08:49,408 --> 00:08:50,969
+Chief...
+
+120
+00:08:51,438 --> 00:08:55,350
+You said a word too much.
+
+121
+00:08:55,649 --> 00:08:56,819
+What?
+
+122
+00:08:56,899 --> 00:09:00,419
+Asking him to get the devil out.
+
+123
+00:09:00,465 --> 00:09:04,270
+Don't you think it was a bit too harsh?
+
+124
+00:09:05,100 --> 00:09:08,530
+Yeah... But why are you talking about that?
+
+125
+00:09:08,560 --> 00:09:10,237
+I didn't beat him with my boots!
+
+126
+00:09:10,237 --> 00:09:12,078
+So Fajr's lying?
+
+127
+00:09:13,098 --> 00:09:14,649
+What'd she say?
+
+128
+00:09:14,698 --> 00:09:18,379
+She said you smacked your boot into his face!
+
+129
+00:09:20,300 --> 00:09:24,158
+I'm sure you did that in your fury... You don't really think, do you?
+
+130
+00:09:25,330 --> 00:09:28,048
+The 'get the devil out' part?
+
+131
+00:09:28,048 --> 00:09:30,138
+Has it hurt him so much?
+
+132
+00:09:30,240 --> 00:09:31,187
+Yeah...
+
+133
+00:09:31,187 --> 00:09:32,789
+Maybe...
+
+134
+00:09:37,650 --> 00:09:39,557
+So he's actually going back?
+
+135
+00:09:39,557 --> 00:09:42,738
+As if you give two boots -- *hem* -- hoots.
+
+136
+00:10:15,040 --> 00:10:16,939
+Where's Gulrez?
+
+137
+00:10:18,130 --> 00:10:20,024
+Trying his new suit.
+
+138
+00:10:21,461 --> 00:10:26,395
+The twit! Why couldn't he wait until the big day?
+
+139
+00:10:26,830 --> 00:10:28,888
+I asked him to try it on.
+
+140
+00:10:29,638 --> 00:10:31,298
+Why?
+
+141
+00:10:33,470 --> 00:10:36,759
+I wanted to see him wear that suit once.
+
+142
+00:10:38,088 --> 00:10:41,371
+You say that like you won't be there at the engagement.
+
+143
+00:10:42,578 --> 00:10:44,918
+The engagement's three days away.
+
+144
+00:10:46,118 --> 00:10:48,808
+Enough to change the world.
+
+145
+00:10:49,310 --> 00:10:53,408
+Who knows? I might not even live to see it... Or be here to attend it.
+
+146
+00:10:58,420 --> 00:11:00,208
+So you're leaving.
+
+147
+00:11:00,818 --> 00:11:02,749
+I won't be so sure...
+
+148
+00:11:03,029 --> 00:11:05,059
+I'm not sure I'll live through it.
+
+149
+00:11:05,059 --> 00:11:07,000
+No, Waqar Ahmed.
+
+150
+00:11:07,278 --> 00:11:09,828
+You've ruled that option out.
+
+151
+00:11:13,040 --> 00:11:16,898
+Those who bring others to life don't die in three days.
+
+152
+00:11:17,650 --> 00:11:22,221
+Would you keep it between ourselves?
+
+153
+00:11:22,258 --> 00:11:26,031
+I promise. What is it?
+
+154
+00:11:29,960 --> 00:11:31,388
+I'm leaving.
+
+155
+00:11:33,350 --> 00:11:35,607
+Without attending the engagement?
+
+156
+00:11:35,907 --> 00:11:40,389
+I'll be there. My flight leaves the same night. At 2.
+
+157
+00:11:42,510 --> 00:11:44,929
+I knew you'd leave.
+
+158
+00:11:45,550 --> 00:11:47,488
+I had to, Neelam...
+
+159
+00:11:47,738 --> 00:11:49,879
+It's been two months.
+
+160
+00:11:50,548 --> 00:11:52,628
+I haven't been here this long.
+
+161
+00:11:52,880 --> 00:11:56,588
+I know you didn't come here to go back.
+
+162
+00:11:57,570 --> 00:11:59,438
+I also know
+
+163
+00:11:59,650 --> 00:12:01,568
+Why you're going.
+
+164
+00:12:07,230 --> 00:12:09,237
+Everyone knows that.
+
+165
+00:12:09,318 --> 00:12:12,149
+I miss my English roses too much.
+
+166
+00:12:12,279 --> 00:12:13,888
+Can it.
+
+167
+00:12:13,968 --> 00:12:15,959
+There's no one.
+
+168
+00:12:19,250 --> 00:12:23,088
+Why d'you want to paint yourself as a loafer, a gadabout?
+
+169
+00:12:23,228 --> 00:12:26,419
+You're just spawning hatred for you in our hearts...
+
+170
+00:12:26,718 --> 00:12:30,730
+And especially... In <i>her</i> heart... She, who lives in yours...
+
+171
+00:12:40,820 --> 00:12:45,108
+No idea what you're talking about... And no idea what's taking him so long!
+
 172
-00:00:00,000 --> 00:00:00,000
-And this suit?
+00:12:45,108 --> 00:12:47,691
+You know what I'm talking about.
 
 173
-00:00:00,000 --> 00:00:00,000
-You wanted to see me in it.
+00:12:51,070 --> 00:12:53,929
+I know what you're gonna do.
 
 174
-00:00:00,000 --> 00:00:00,000
-Bless you. You look fantastic.
+00:12:59,340 --> 00:13:01,017
+Know what, Waqar,
 
 175
-00:00:00,000 --> 00:00:00,000
-All eyes will be fixed on you.
+00:13:03,077 --> 00:13:05,027
+One moment
 
 176
-00:00:00,000 --> 00:00:00,000
-See you.
+00:13:05,547 --> 00:13:09,578
+Has made me feel like I've wronged you.
 
 177
-00:00:00,000 --> 00:00:00,000
-I'm getting engaged on Sunday.
+00:13:15,510 --> 00:13:18,898
+I admit I'd fallen for Maheen, Neelam...
 
 178
-00:00:00,000 --> 00:00:00,000
-To Gulrez.
+00:13:24,090 --> 00:13:25,888
+But my love
 
 179
-00:00:00,000 --> 00:00:00,000
-I did the right thing... Right?
+00:13:25,955 --> 00:13:28,838
+Could never be as powerful as Gulrez's.
 
 180
-00:00:00,000 --> 00:00:00,000
-You'd know that.
+00:13:31,450 --> 00:13:32,558
+So...
 
 181
-00:00:00,000 --> 00:00:00,000
-No, mate. I'm asking you.
+00:13:33,090 --> 00:13:35,988
+Don't think I'm pitying anyone...
 
 182
-00:00:00,000 --> 00:00:00,000
-Tell me.
+00:13:37,710 --> 00:13:40,588
+I'm giving him what's rightfully his.
 
 183
-00:00:00,000 --> 00:00:00,000
-Do you love Gulrez,
+00:13:44,630 --> 00:13:46,837
+And I promise you
 
 184
-00:00:00,000 --> 00:00:00,000
-Or are you just showing someone?
+00:13:49,710 --> 00:13:52,209
+I won't be coming back this time.
 
 185
-00:00:00,000 --> 00:00:00,000
-You seriously think I'd wager my life to show someone?
+00:14:08,670 --> 00:14:09,968
+You're leaving?
 
 186
-00:00:00,000 --> 00:00:00,000
-Why are you getting engaged? You got engaged as kids.
+00:14:09,968 --> 00:14:11,198
+Yeah.
 
 187
-00:00:00,000 --> 00:00:00,000
-Engagements of kids aren't really engagements.
+00:14:11,542 --> 00:14:12,898
+And this suit?
 
 188
-00:00:00,000 --> 00:00:00,000
-Then why are you asking me if you're doing the right thing?
+00:14:13,010 --> 00:14:15,248
+You wanted to see me in it.
 
 189
-00:00:00,000 --> 00:00:00,000
-Because someone gave me a tip...
+00:14:17,540 --> 00:14:19,773
+Bless you. You look fantastic.
 
 190
-00:00:00,000 --> 00:00:00,000
-If you think you don't know yourself well enough, ask your best friend.
+00:14:20,150 --> 00:14:22,239
+All eyes will be fixed on you.
 
 191
-00:00:00,000 --> 00:00:00,000
-She always knows.
+00:14:23,970 --> 00:14:25,597
+See you.
 
 192
-00:00:00,000 --> 00:00:00,000
-You don't love Gulrez.
+00:14:41,060 --> 00:14:43,201
+I'm getting engaged on Sunday.
 
 193
-00:00:00,000 --> 00:00:00,000
-Not yet.
+00:14:43,350 --> 00:14:45,029
+To Gulrez.
 
 194
-00:00:00,000 --> 00:00:00,000
-You never will.
+00:14:47,158 --> 00:14:49,568
+I did the right thing... Right?
 
 195
-00:00:00,000 --> 00:00:00,000
-Why?
+00:14:49,988 --> 00:14:51,548
+You'd know that.
 
 196
-00:00:00,000 --> 00:00:00,000
-Because you love someone else.
+00:14:51,548 --> 00:14:54,268
+No, mate. I'm asking you.
 
 197
-00:00:00,000 --> 00:00:00,000
-I don't love anyone!
+00:14:54,328 --> 00:14:55,908
+Tell me.
 
 198
-00:00:00,000 --> 00:00:00,000
-You folks are just -- Thinking things!
+00:14:56,188 --> 00:15:00,032
+Do you love Gulrez,
 
 199
-00:00:00,000 --> 00:00:00,000
-<i>You folks?</i>
+00:15:00,688 --> 00:15:03,318
+Or are you just showing someone?
 
 200
-00:00:00,000 --> 00:00:00,000
-So... Who else told you that?
+00:15:03,318 --> 00:15:07,568
+You seriously think I'd wager my life to show someone?
 
 201
-00:00:00,000 --> 00:00:00,000
-Fajr.
+00:15:08,258 --> 00:15:12,539
+Why are you getting engaged? You got engaged as kids.
 
 202
-00:00:00,000 --> 00:00:00,000
-I'm sure she'd know
+00:15:12,539 --> 00:15:16,820
+Engagements of kids aren't really engagements.
 
 203
-00:00:00,000 --> 00:00:00,000
-Who you love?
+00:15:17,310 --> 00:15:21,832
+Then why are you asking me if you're doing the right thing?
 
 204
-00:00:00,000 --> 00:00:00,000
-I hate him! That's all you should know!
+00:15:22,060 --> 00:15:24,061
+Because someone gave me a tip...
 
 205
-00:00:00,000 --> 00:00:00,000
-Waqar Ahmed!
+00:15:24,131 --> 00:15:29,521
+If you think you don't know yourself well enough, ask your best friend.
 
 206
-00:00:00,000 --> 00:00:00,000
-I swear...
+00:15:30,460 --> 00:15:32,419
+She always knows.
 
 207
-00:00:00,000 --> 00:00:00,000
-I hate the sound of his name!
+00:15:38,480 --> 00:15:41,349
+You don't love Gulrez.
 
 208
-00:00:00,000 --> 00:00:00,000
-And you'll see...
+00:15:46,600 --> 00:15:48,309
+<i>Yet</i>!
 
 209
-00:00:00,000 --> 00:00:00,000
-I'll prove it on Sunday...
+00:15:48,729 --> 00:15:51,090
+You never will.
 
 210
-00:00:00,000 --> 00:00:00,000
-Maheen Aurangzeb's heart is an open book...
-
-211
-00:00:00,000 --> 00:00:00,000
-Everyone can read it
-
-212
-00:00:00,000 --> 00:00:00,000
-On her face!
-
-213
-00:00:00,000 --> 00:00:00,000
-Don't forget to come, okay?
-
-214
-00:00:00,000 --> 00:00:00,000
-Hey...
-
-215
-00:00:00,000 --> 00:00:00,000
-Did you just say...
-
-216
-00:00:00,000 --> 00:00:00,000
-Maheen Aurangzeb?
-
-217
-00:00:00,000 --> 00:00:00,000
-As always, as always!
-
-218
-00:00:00,000 --> 00:00:00,000
-Aurangzeb was my Dad.
-
-219
-00:00:00,000 --> 00:00:00,000
-Aye...
-
-220
-00:00:00,000 --> 00:00:00,000
-How'd he die?
-
-221
-00:00:00,000 --> 00:00:00,000
-Car crash...
-
-222
-00:00:00,000 --> 00:00:00,000
-Please don't ask me anything else...
-
-223
-00:00:00,000 --> 00:00:00,000
-Hello, Jiya!
-
-224
-00:00:00,000 --> 00:00:00,000
-Hey, Dad!
-
-225
-00:00:00,000 --> 00:00:00,000
-I'll pick you up at 8.
-
-226
-00:00:00,000 --> 00:00:00,000
-I want to ask something...
-
-227
-00:00:00,000 --> 00:00:00,000
-Yes?
-
-228
-00:00:00,000 --> 00:00:00,000
-About that car crash...
-
-229
-00:00:00,000 --> 00:00:00,000
-Was Aurangzeb with Mum in the car?
-
-230
-00:00:00,000 --> 00:00:00,000
-Please tell me, Dad...
-
-231
-00:00:00,000 --> 00:00:00,000
-For my sake?
-
-232
-00:00:00,000 --> 00:00:00,000
-Yes.
-
-233
-00:00:00,000 --> 00:00:00,000
-And he died on the spot?
-
-234
-00:00:00,000 --> 00:00:00,000
-Aye.
-
-235
-00:00:00,000 --> 00:00:00,000
-Could I have his picture?
-
-236
-00:00:00,000 --> 00:00:00,000
-His picture?
-
-237
-00:00:00,000 --> 00:00:00,000
+00:15:51,750 --> 00:15:52,931
 Why?
 
+211
+00:15:52,968 --> 00:15:55,859
+Because you love someone else.
+
+212
+00:16:00,320 --> 00:16:02,489
+I don't love anyone!
+
+213
+00:16:02,489 --> 00:16:04,829
+You folks are just -- Thinking things!
+
+214
+00:16:04,939 --> 00:16:06,539
+You <i>folks</i>?
+
+215
+00:16:07,910 --> 00:16:10,711
+So... Who else told you that?
+
+216
+00:16:11,030 --> 00:16:12,418
+Aye?
+
+217
+00:16:13,553 --> 00:16:14,948
+Fajr.
+
+218
+00:16:16,399 --> 00:16:18,958
+I'm sure she'd know
+
+219
+00:16:18,958 --> 00:16:21,508
+Who you love?
+
+220
+00:16:21,765 --> 00:16:25,256
+I hate him! That's all you should know!
+
+221
+00:16:25,756 --> 00:16:27,520
+Waqar Ahmed!
+
+222
+00:16:29,550 --> 00:16:30,908
+I swear...
+
+223
+00:16:30,908 --> 00:16:33,518
+I hate the sound of his name!
+
+224
+00:16:37,830 --> 00:16:39,377
+And you'll see...
+
+225
+00:16:39,517 --> 00:16:41,911
+I'll prove it on Sunday...
+
+226
+00:16:41,977 --> 00:16:44,868
+Maheen Aurangzeb's heart is an open book...
+
+227
+00:16:44,868 --> 00:16:46,488
+Everyone can read it
+
+228
+00:16:46,488 --> 00:16:48,968
+On her face!
+
+229
+00:16:52,810 --> 00:16:55,293
+Don't forget to come, okay?
+
+230
+00:16:56,620 --> 00:16:58,097
+Hey...
+
+231
+00:17:00,110 --> 00:17:03,139
+Did you just say...
+
+232
+00:17:03,139 --> 00:17:05,170
+Maheen <i>Aurangzeb</i>?
+
+233
+00:17:05,265 --> 00:17:07,120
+As always, as always!
+
+234
+00:17:07,160 --> 00:17:09,731
+Aurangzeb was my Dad.
+
+235
+00:17:14,660 --> 00:17:15,968
+Aye...
+
+236
+00:17:15,998 --> 00:17:18,248
+How'd he die?
+
+237
+00:17:21,520 --> 00:17:23,383
+Car crash...
+
 238
-00:00:00,000 --> 00:00:00,000
-I said
+00:17:23,788 --> 00:17:27,160
+Please don't ask me anything else...
 
 239
-00:00:00,000 --> 00:00:00,000
-I want his picture.
+00:17:50,670 --> 00:17:51,820
+Hello, Jiya!
 
 240
-00:00:00,000 --> 00:00:00,000
-I don't care if you get late... Get here at 9 or 10...
+00:17:51,820 --> 00:17:53,268
+Hey, Dad!
 
 241
-00:00:00,000 --> 00:00:00,000
-But get me his picture.
+00:17:54,200 --> 00:17:57,637
+I'll pick you up at 8.
 
 242
-00:00:00,000 --> 00:00:00,000
-Please, Dad? Please?
+00:17:58,881 --> 00:18:01,381
+I want to ask something...
 
 243
-00:00:00,000 --> 00:00:00,000
-Please...?
+00:18:01,461 --> 00:18:02,962
+Yes?
 
 244
-00:00:00,000 --> 00:00:00,000
-Not so fast, partner!
+00:18:06,410 --> 00:18:09,124
+About that car crash...
 
 245
-00:00:00,000 --> 00:00:00,000
-What's with the roughness of late?
+00:18:09,948 --> 00:18:11,188
+Was
 
 246
-00:00:00,000 --> 00:00:00,000
-What's on your mind?
+00:18:12,538 --> 00:18:16,209
+Aurangzeb with Mum in the car?
 
 247
-00:00:00,000 --> 00:00:00,000
-What's the news?
+00:18:20,210 --> 00:18:22,029
+Please tell me, Dad...
 
 248
-00:00:00,000 --> 00:00:00,000
-Nothing much... Just... There's this engagement thingy...
+00:18:22,758 --> 00:18:24,808
+For my sake?
 
 249
-00:00:00,000 --> 00:00:00,000
-Good.
+00:18:27,290 --> 00:18:28,441
+Yes.
 
 250
-00:00:00,000 --> 00:00:00,000
-It'll be over by Sunday.
+00:18:30,390 --> 00:18:32,842
+And he died on the spot?
 
 251
-00:00:00,000 --> 00:00:00,000
-Ever thought
+00:18:34,800 --> 00:18:35,988
+Aye.
 
 252
-00:00:00,000 --> 00:00:00,000
-Why happier moments end so quickly?
+00:19:04,220 --> 00:19:06,648
+Could I have his picture?
 
 253
-00:00:00,000 --> 00:00:00,000
-Why's there no Sunday after Sunday?
+00:19:07,708 --> 00:19:09,238
+His picture?
 
 254
-00:00:00,000 --> 00:00:00,000
-Very funny.
+00:19:09,770 --> 00:19:11,037
+Why?
 
 255
-00:00:00,000 --> 00:00:00,000
-Aye, very funny.
+00:19:11,351 --> 00:19:12,908
+I said
 
 256
-00:00:00,000 --> 00:00:00,000
-You're calling the moon a 100-Watt bulb.
+00:19:12,987 --> 00:19:15,722
+I want his picture.
 
 257
-00:00:00,000 --> 00:00:00,000
-It's the entire blimmin' moon, Waqar!
+00:19:16,028 --> 00:19:19,858
+I don't care if you get late... Get here at 9 or 10...
 
 258
-00:00:00,000 --> 00:00:00,000
-Where'd you learn this stuff?
+00:19:21,160 --> 00:19:24,859
+But get me his picture.
 
 259
-00:00:00,000 --> 00:00:00,000
-Sacrifice teaches me.
+00:19:28,140 --> 00:19:30,905
+Please, Dad? Please?
 
 260
-00:00:00,000 --> 00:00:00,000
-As do lies
+00:19:33,090 --> 00:19:34,469
+Please...?
 
 261
-00:00:00,000 --> 00:00:00,000
-That your type tell solemnly.
+00:20:28,920 --> 00:20:30,668
+Not so fast, partner!
 
 262
-00:00:00,000 --> 00:00:00,000
-Truth can be a real ghost.
+00:20:31,810 --> 00:20:34,190
+What's with the roughness of late?
 
 263
-00:00:00,000 --> 00:00:00,000
-It comes back to haunt you.
+00:20:34,190 --> 00:20:36,395
+What's on your mind?
 
 264
-00:00:00,000 --> 00:00:00,000
-Get it?
+00:20:37,362 --> 00:20:38,970
+What's the news?
 
 265
-00:00:00,000 --> 00:00:00,000
-She was here for you.
+00:20:38,970 --> 00:20:41,758
+Nothing much... Just... There's this engagement thingy...
 
 266
-00:00:00,000 --> 00:00:00,000
-Who?
+00:20:41,758 --> 00:20:42,889
+Good.
 
 267
-00:00:00,000 --> 00:00:00,000
-Maheen.
+00:20:42,968 --> 00:20:45,178
+It'll be over by Sunday.
 
 268
-00:00:00,000 --> 00:00:00,000
+00:20:45,289 --> 00:20:47,509
+Ever thought
+
+269
+00:20:47,719 --> 00:20:50,769
+Why happier moments end so quickly?
+
+270
+00:20:50,811 --> 00:20:53,711
+Why's there no Sunday after Sunday?
+
+271
+00:20:54,121 --> 00:20:55,292
+Very funny.
+
+272
+00:20:55,292 --> 00:20:57,262
+Aye, very funny.
+
+273
+00:20:57,262 --> 00:21:00,213
+You're calling the moon a 100-Watt bulb.
+
+274
+00:21:00,213 --> 00:21:03,722
+It's the entire blimmin' moon, Waqar!
+
+275
+00:21:04,572 --> 00:21:07,243
+Where'd you learn this stuff?
+
+276
+00:21:07,284 --> 00:21:09,265
+Sacrifice teaches me.
+
+277
+00:21:09,315 --> 00:21:11,105
+As do lies
+
+278
+00:21:11,159 --> 00:21:14,380
+That your type tell solemnly.
+
+279
+00:21:18,360 --> 00:21:21,089
+Truth can be a real ghost.
+
+280
+00:21:22,980 --> 00:21:25,197
+It comes back to haunt you.
+
+281
+00:21:25,317 --> 00:21:26,654
+Get it?
+
+282
+00:21:45,220 --> 00:21:47,335
+She was here for you.
+
+283
+00:21:47,549 --> 00:21:48,679
+Who?
+
+284
+00:21:48,749 --> 00:21:50,349
+Maheen.
+
+285
+00:21:53,450 --> 00:21:55,450
 Saying sorry I guess?
 -No.
 
-269
-00:00:00,000 --> 00:00:00,000
+286
+00:21:55,450 --> 00:21:59,501
 She said you'd lead Gulrez astray.
 
-270
-00:00:00,000 --> 00:00:00,000
+287
+00:22:01,930 --> 00:22:03,098
 But...
 
-271
-00:00:00,000 --> 00:00:00,000
+288
+00:22:03,200 --> 00:22:05,379
 You've got to see him.
 
-272
-00:00:00,000 --> 00:00:00,000
-Why?
-
-273
-00:00:00,000 --> 00:00:00,000
-You need to figure out why there's no Sunday after Sunday.
-
-274
-00:00:00,000 --> 00:00:00,000
-I know.
-
-275
-00:00:00,000 --> 00:00:00,000
-Monday follows Sunday. It's for the best.
-
-276
-00:00:00,000 --> 00:00:00,000
-Know why happiness is so short-lived?
-
-277
-00:00:00,000 --> 00:00:00,000
-Because one man's happiness is another man's sorrow. God doesn't want such happiness to last long.
-
-278
-00:00:00,000 --> 00:00:00,000
-Okay...
-
-279
-00:00:00,000 --> 00:00:00,000
-Care to tell me whose sorrow this happiness could be?
-
-280
-00:00:00,000 --> 00:00:00,000
-Maybe the girl who's overjoyed about it...
-
-281
-00:00:00,000 --> 00:00:00,000
-Or maybe... You, who's too afraid to face the truth.
-
-282
-00:00:00,000 --> 00:00:00,000
-'Bout time you faced it.
-
-283
-00:00:00,000 --> 00:00:00,000
-Or you'll have to live a lie for the rest of your life.
-
-284
-00:00:00,000 --> 00:00:00,000
-<i>What good is writhing and smouldering in your remembrance</i>
-
-285
-00:00:00,000 --> 00:00:00,000
-Thank you, love.
-
-286
-00:00:00,000 --> 00:00:00,000
-By the way...
-
-287
-00:00:00,000 --> 00:00:00,000
-Why d'you want his picture?
-
-288
-00:00:00,000 --> 00:00:00,000
-I want to see how ugly his type can look.
-
 289
-00:00:00,000 --> 00:00:00,000
-Forget it.
+00:22:05,379 --> 00:22:06,789
+Why?
 
 290
-00:00:00,000 --> 00:00:00,000
-Just... Forget it...
+00:22:07,289 --> 00:22:11,699
+You need to figure out why there's no Sunday after Sunday.
 
 291
-00:00:00,000 --> 00:00:00,000
-Dad...
+00:22:12,170 --> 00:22:13,280
+I know.
 
 292
-00:00:00,000 --> 00:00:00,000
-Never thought you'd be the type who'd mistake remembering for forgetting.
+00:22:13,348 --> 00:22:16,732
+Monday follows Sunday. It's for the best.
 
 293
-00:00:00,000 --> 00:00:00,000
-Show me his pic.
+00:22:16,778 --> 00:22:19,669
+Know why happiness is so short-lived?
 
 294
-00:00:00,000 --> 00:00:00,000
-I need to see the blighter... Remember him one last time before forgetting him...
+00:22:19,760 --> 00:22:25,591
+Because one man's happiness is another man's sorrow. God doesn't want such happiness to last long.
 
 295
-00:00:00,000 --> 00:00:00,000
-<i>O Beloved!</i>
+00:22:25,710 --> 00:22:27,074
+Okay...
 
 296
-00:00:00,000 --> 00:00:00,000
-You may rehearse if you'd like.
+00:22:28,020 --> 00:22:31,387
+Care to tell me whose sorrow this happiness could be?
 
 297
-00:00:00,000 --> 00:00:00,000
-Rehearse for what?
+00:22:31,497 --> 00:22:35,178
+Maybe the girl who's overjoyed about it...
 
 298
-00:00:00,000 --> 00:00:00,000
-Getting ringed.
+00:22:35,178 --> 00:22:36,320
+Or maybe...
 
 299
-00:00:00,000 --> 00:00:00,000
-Why?
+00:22:36,320 --> 00:22:39,066
+You, who's too afraid to face the truth.
 
 300
-00:00:00,000 --> 00:00:00,000
-You won't be able to put it on so suddenly.
+00:22:43,570 --> 00:22:46,058
+'Bout time you faced it.
 
 301
-00:00:00,000 --> 00:00:00,000
-Suddenly?
+00:22:46,058 --> 00:22:49,699
+Or you'll have to live a lie for the rest of your life.
 
 302
-00:00:00,000 --> 00:00:00,000
-Perhaps
+00:22:55,410 --> 00:23:07,940
+♪ <i>What good is writhing and smouldering in your remembrance?</i> ♪
 
 303
-00:00:00,000 --> 00:00:00,000
-You may get bad news at that moment?
+00:23:11,630 --> 00:23:13,338
+Thank you, love.
 
 304
-00:00:00,000 --> 00:00:00,000
-It may be good news for you too.
+00:23:29,820 --> 00:23:31,679
+By the way...
 
 305
-00:00:00,000 --> 00:00:00,000
-That zestful dance of his
+00:23:33,648 --> 00:23:36,149
+Why d'you want his picture?
 
 306
-00:00:00,000 --> 00:00:00,000
-To the beats of the drum
+00:23:37,300 --> 00:23:41,238
+I want to see how ugly his type can look.
 
 307
-00:00:00,000 --> 00:00:00,000
-Is all but an act.
+00:23:43,188 --> 00:23:44,598
+Forget it.
 
 308
-00:00:00,000 --> 00:00:00,000
-All his tears have altered course
+00:23:46,200 --> 00:23:48,589
+Just... Forget it...
 
 309
-00:00:00,000 --> 00:00:00,000
-From his eyes to his heart.
+00:23:49,130 --> 00:23:50,460
+Dad...
 
 310
-00:00:00,000 --> 00:00:00,000
-You're under coercion; he's persevering.
+00:23:50,831 --> 00:23:55,181
+Never thought you'd be the type who'd mistake remembering for forgetting.
 
 311
-00:00:00,000 --> 00:00:00,000
-By the time it's time for you to wear the ring,
+00:24:00,840 --> 00:24:02,938
+Show me his pic.
 
 312
-00:00:00,000 --> 00:00:00,000
-It'd be time for him to leave your life forever.
+00:24:03,040 --> 00:24:07,678
+I need to see the blighter... Remember him one last time before forgetting him...
 
 313
-00:00:00,000 --> 00:00:00,000
-You'll be left watching
+00:24:57,030 --> 00:25:01,939
+♪ <i>O Beloved!</i> ♪
 
 314
-00:00:00,000 --> 00:00:00,000
-As he leaves.
+00:25:02,139 --> 00:25:04,280
+♪ <i>O</i> ♪
 
 315
-00:00:00,000 --> 00:00:00,000
-Does Nano know?
+00:25:04,280 --> 00:25:05,955
+♪ <i>O Beloved!</i> ♪
 
 316
-00:00:00,000 --> 00:00:00,000
-No.
+00:25:24,850 --> 00:25:27,288
+You may rehearse if you'd like.
 
 317
-00:00:00,000 --> 00:00:00,000
-And --
+00:25:27,700 --> 00:25:29,669
+Rehearse for what?
 
 318
-00:00:00,000 --> 00:00:00,000
-Aunt Mehru?
+00:25:31,810 --> 00:25:33,688
+Getting ringed.
 
 319
-00:00:00,000 --> 00:00:00,000
-I'd told you - besides me, it's just Ali who knows.
+00:25:35,144 --> 00:25:36,348
+Why?
 
 320
-00:00:00,000 --> 00:00:00,000
-So why don't you tell Nano?
+00:25:36,348 --> 00:25:39,218
+You won't be able to put it on so suddenly.
 
 321
-00:00:00,000 --> 00:00:00,000
-Why should I?
+00:25:40,880 --> 00:25:42,342
+Suddenly?
 
 322
-00:00:00,000 --> 00:00:00,000
-Everyone wants that he leave.
+00:25:42,688 --> 00:25:44,233
+Perhaps
 
 323
-00:00:00,000 --> 00:00:00,000
-Everyone thinks
+00:25:44,278 --> 00:25:47,119
+You may get bad news at that moment?
 
 324
-00:00:00,000 --> 00:00:00,000
-That if he leaves, he will, as always, bounce back.
+00:25:47,163 --> 00:25:50,269
+It may be good news for you too.
 
 325
-00:00:00,000 --> 00:00:00,000
-But I swear to God, only I know
+00:25:51,929 --> 00:25:54,089
+That zestful dance of his
 
 326
-00:00:00,000 --> 00:00:00,000
-That he won't be coming back.
+00:25:54,089 --> 00:25:56,509
+To the beats of the drum
 
 327
-00:00:00,000 --> 00:00:00,000
-It's 11 p.m. right now.
+00:25:56,599 --> 00:25:58,852
+Is all but an act.
 
 328
-00:00:00,000 --> 00:00:00,000
-You always ask for time to decide.
+00:26:01,030 --> 00:26:03,977
+All his tears have altered course
 
 329
-00:00:00,000 --> 00:00:00,000
-But this time,
+00:26:04,207 --> 00:26:06,818
+From his eyes to his heart.
 
 330
-00:00:00,000 --> 00:00:00,000
-You've only got a few minutes
+00:26:07,200 --> 00:26:10,468
+You're under coercion; he's persevering.
 
 331
-00:00:00,000 --> 00:00:00,000
-Before Maheen Aurangzeb
-
-332
-00:00:00,000 --> 00:00:00,000
-Will be left cursing the hands of the clock.
-
-333
-00:00:00,000 --> 00:00:00,000
-<i>O Beloved!</i>
-
-334
-00:00:00,000 --> 00:00:00,000
-<i>Pull away the veil on your face, O Beloved,</i>
-
-335
-00:00:00,000 --> 00:00:00,000
-<i>Let the curtains fall, O Beloved!</i>
-
-336
-00:00:00,000 --> 00:00:00,000
-<i>Pull away the veil on your face, O Beloved,</i>
-
-337
-00:00:00,000 --> 00:00:00,000
-<i>Let the curtains fall, O Beloved!</i>
-
-338
-00:00:00,000 --> 00:00:00,000
-<i>O Beloved!</i>
-
-339
-00:00:00,000 --> 00:00:00,000
-<i>O Beloved!</i>
-
-340
-00:00:00,000 --> 00:00:00,000
-<i>O Beloved!</i>
-
-341
-00:00:00,000 --> 00:00:00,000
-<i>Show me the beauty of your spring once,</i>
-
-342
-00:00:00,000 --> 00:00:00,000
+00:26:11,968 --> 00:26:15,168
 By the time it's time for you to wear the ring,
 
-343
-00:00:00,000 --> 00:00:00,000
+332
+00:26:15,369 --> 00:26:19,779
 It'd be time for him to leave your life forever.
 
+333
+00:26:23,410 --> 00:26:25,868
+You'll be left watching
+
+334
+00:26:26,260 --> 00:26:27,748
+As he
+
+335
+00:26:27,930 --> 00:26:29,717
+Leaves.
+
+336
+00:26:32,530 --> 00:26:34,598
+Does Nano know?
+
+337
+00:26:35,668 --> 00:26:36,920
+No.
+
+338
+00:26:39,200 --> 00:26:39,907
+And --
+
+339
+00:26:39,907 --> 00:26:41,737
+Aunt Mehru?
+
+340
+00:26:42,100 --> 00:26:45,315
+I told you - besides me, it's just Ali who knows.
+
+341
+00:26:45,530 --> 00:26:47,751
+So why don't you tell Nano?
+
+342
+00:26:47,803 --> 00:26:49,414
+Why should I?
+
+343
+00:26:49,554 --> 00:26:52,185
+Everyone wants him to leave.
+
 344
-00:00:00,000 --> 00:00:00,000
-By God, Matey!
+00:26:53,518 --> 00:26:55,765
+Everyone thinks
 
 345
-00:00:00,000 --> 00:00:00,000
-You look like trouble!
+00:26:55,975 --> 00:26:59,265
+That if he leaves, he will, as always, bounce back.
 
 346
-00:00:00,000 --> 00:00:00,000
-You look like trouble!
+00:27:00,010 --> 00:27:01,961
+But I swear to God,
 
 347
-00:00:00,000 --> 00:00:00,000
-Show me.
+00:27:02,004 --> 00:27:04,057
+Only I know
 
 348
-00:00:00,000 --> 00:00:00,000
-<i>O Beloved!</i>
+00:27:04,571 --> 00:27:07,002
+That he won't be coming back.
 
 349
-00:00:00,000 --> 00:00:00,000
-<i>This life is dull without you</i>
+00:27:25,060 --> 00:27:27,148
+It's 11 p.m. right now.
 
 350
-00:00:00,000 --> 00:00:00,000
-<i>This life is dull without you</i>
+00:27:28,348 --> 00:27:31,668
+You always ask for time to decide.
 
 351
-00:00:00,000 --> 00:00:00,000
-<i>Love's testimony is not to be asked of it</i>
+00:27:32,668 --> 00:27:34,508
+But this time,
 
 352
-00:00:00,000 --> 00:00:00,000
-<i>It pulls out tears and drops them from the eyes</i>
+00:27:35,258 --> 00:27:37,879
+You've only got a few minutes
 
 353
-00:00:00,000 --> 00:00:00,000
-<i>Ask all you will what comes out of love</i>
+00:27:41,570 --> 00:27:44,078
+Before Maheen Aurangzeb
 
 354
-00:00:00,000 --> 00:00:00,000
-<i>The heart is its creator, and ends up being destroyed by it</i>
+00:27:44,940 --> 00:27:48,108
+Will be left cursing the hands of the clock.
 
 355
-00:00:00,000 --> 00:00:00,000
-<i>In the tale of love where do these turns come from</i>
+00:28:19,000 --> 00:28:21,040
+♪ <i>O</i> ♪
 
 356
-00:00:00,000 --> 00:00:00,000
-<i>In the tale of love where do these turns come from</i>
+00:28:21,040 --> 00:28:22,887
+♪ <i>O Beloved!</i> ♪
 
 357
-00:00:00,000 --> 00:00:00,000
-<i>That those we hold dear to us are the ones who break our heart</i>
+00:28:22,937 --> 00:28:27,408
+♪ <i>Pull away the veil on your face, O Beloved,</i> ♪
 
 358
-00:00:00,000 --> 00:00:00,000
-<i>That those we hold dear to us are the ones who break our heart</i>
+00:28:27,488 --> 00:28:31,579
+♪ <i>Let the curtains fall, O Beloved!</i> ♪
 
 359
-00:00:00,000 --> 00:00:00,000
-Are you touched in the head?
+00:28:32,070 --> 00:28:36,570
+♪ <i>Pull away the veil on your face, O Beloved,</i> ♪
 
 360
-00:00:00,000 --> 00:00:00,000
-Somebody might come to suspect I'm leaving.
+00:28:36,630 --> 00:28:40,950
+♪ <i>Let the curtains fall, O Beloved!</i> ♪
 
 361
-00:00:00,000 --> 00:00:00,000
-There's no room for suspicion now.
+00:28:40,950 --> 00:28:43,199
+♪ <i>O Beloved!</i> ♪
 
 362
-00:00:00,000 --> 00:00:00,000
-Because I've told her that you're leaving.
+00:28:43,199 --> 00:28:45,480
+♪ <i>O Beloved!</i> ♪
 
 363
-00:00:00,000 --> 00:00:00,000
-So --
+00:28:45,480 --> 00:28:48,454
+♪ <i>O Beloved!</i> ♪
 
 364
-00:00:00,000 --> 00:00:00,000
-As if telling her makes things any different!
+00:28:48,730 --> 00:28:49,650
+♪ <i>O</i> ♪
 
 365
-00:00:00,000 --> 00:00:00,000
-And if it did?
+00:28:49,650 --> 00:28:53,350
+♪ <i>O Beloved!</i> ♪
 
 366
-00:00:00,000 --> 00:00:00,000
-What absurd questions!
+00:28:53,420 --> 00:28:54,331
+♪ <i>O</i> ♪
 
 367
-00:00:00,000 --> 00:00:00,000
-Like you, I don't know what you'd do.
+00:28:54,331 --> 00:28:57,510
+♪ <i>O Beloved!</i> ♪
 
 368
-00:00:00,000 --> 00:00:00,000
-But take it as a bit of parting advice
+00:28:59,130 --> 00:29:01,391
+♪ <i>O Beloved!</i> ♪
 
 369
-00:00:00,000 --> 00:00:00,000
-If she stops you from leaving,
+00:29:01,391 --> 00:29:03,722
+♪ <i>O Beloved!</i> ♪
 
 370
-00:00:00,000 --> 00:00:00,000
-Don't ever leave.
+00:29:03,722 --> 00:29:06,693
+♪ <i>O Beloved!</i> ♪
 
 371
-00:00:00,000 --> 00:00:00,000
-Or you'll be leaving her in quite the mare's nest!
+00:29:07,010 --> 00:29:08,370
+♪ <i>O</i> ♪
 
 372
-00:00:00,000 --> 00:00:00,000
-<i>I will keep with me the memories of our conversations and of you</i>
+00:29:08,370 --> 00:29:11,813
+♪ <i>O Beloved!</i> ♪
 
 373
-00:00:00,000 --> 00:00:00,000
-<i>Such bounties, O Love, are all one gets from you in benefaction</i>
+00:29:17,620 --> 00:29:22,231
+♪ <i>Show me the beauty of your spring once,</i> ♪
 
 374
-00:00:00,000 --> 00:00:00,000
-<i>I will laugh wholeheartedly at this, I will embrace the heart with rapture</i>
+00:29:22,231 --> 00:29:26,022
+♪ <i>Show me the beauty of your spring once...</i> ♪
 
 375
-00:00:00,000 --> 00:00:00,000
-<i>I will remember you then</i>
+00:29:35,990 --> 00:29:39,168
+By the time it's time for you to wear the ring,
 
 376
-00:00:00,000 --> 00:00:00,000
-Take it as a bit of parting advice
+00:29:39,371 --> 00:29:43,649
+It'd be time for him to leave your life forever.
 
 377
-00:00:00,000 --> 00:00:00,000
-If she stops you from leaving,
+00:30:06,580 --> 00:30:10,342
+By Jove, Matey!
 
 378
-00:00:00,000 --> 00:00:00,000
-Don't ever leave.
+00:30:10,510 --> 00:30:13,578
+You look like trouble!
 
 379
-00:00:00,000 --> 00:00:00,000
-Enough with it already!
+00:30:15,280 --> 00:30:16,618
+Lovely!
 
 380
-00:00:00,000 --> 00:00:00,000
-Will anybody call the girl or are we going to dance all the way until sunrise?
+00:30:18,890 --> 00:30:20,127
+Show me.
 
 381
-00:00:00,000 --> 00:00:00,000
-Come on.
+00:30:41,430 --> 00:30:43,649
+♪ <i>O Beloved!</i> ♪
 
 382
-00:00:00,000 --> 00:00:00,000
-It's time to meet your love.
+00:30:43,649 --> 00:30:45,919
+♪ <i>O Beloved!</i> ♪
 
 383
-00:00:00,000 --> 00:00:00,000
-[You look] Just as God has willed!
+00:30:45,919 --> 00:30:48,942
+♪ <i>O Beloved!</i> ♪
 
 384
-00:00:00,000 --> 00:00:00,000
-Everyone's waiting, c'mon!
+00:30:49,150 --> 00:30:50,100
+♪ <i>O</i> ♪
 
 385
-00:00:00,000 --> 00:00:00,000
-Hey --
+00:30:50,100 --> 00:30:52,869
+♪ <i>O Beloved!</i> ♪
 
 386
-00:00:00,000 --> 00:00:00,000
-Whose picture is it in your feet?
+00:31:08,920 --> 00:31:13,428
+♪ <i>This life is dull without you...</i> ♪
 
 387
-00:00:00,000 --> 00:00:00,000
-This is Dad's picture...
+00:31:13,498 --> 00:31:17,950
+♪ <i>This life is dull without you...</i> ♪
 
 388
-00:00:00,000 --> 00:00:00,000
-How come it's here on the floor?
+00:31:22,640 --> 00:31:26,920
+♪ <i>This life is dull without you...</i> ♪
 
 389
-00:00:00,000 --> 00:00:00,000
-You might've dropped it accidentally.
+00:31:26,999 --> 00:31:40,800
+♪ <i>Love's testimony is not to be asked of it</i> ♪
 
 390
-00:00:00,000 --> 00:00:00,000
-I've never seen this picture of Dad's before...
+00:31:41,170 --> 00:31:54,420
+♪ <i>It pulls out tears and drops them from the eyes</i> ♪
 
 391
-00:00:00,000 --> 00:00:00,000
-You've seen it now!
+00:31:55,160 --> 00:32:04,080
+♪ <i>Ask all you will what comes out of love</i> ♪
 
 392
-00:00:00,000 --> 00:00:00,000
-Come!
+00:32:04,270 --> 00:32:14,559
+♪ <i>The heart is its creator, and ends up being destroyed by it...</i> ♪
 
 393
-00:00:00,000 --> 00:00:00,000
-Everyone's waiting.
+00:32:21,120 --> 00:32:34,609
+♪ <i>In the tale of love where do these turns come from...</i> ♪
 
 394
-00:00:00,000 --> 00:00:00,000
-Aunt's standing outside. Come.
+00:32:37,590 --> 00:32:47,030
+♪ <i>In the tale of love where do these turns come from</i> ♪
 
 395
-00:00:00,000 --> 00:00:00,000
-You look so sweet!
+00:32:47,030 --> 00:32:56,480
+♪ <i>That those we hold dear to us are the ones who break our heart</i> ♪
 
 396
-00:00:00,000 --> 00:00:00,000
+00:32:56,480 --> 00:33:07,204
+♪ <i>That those we hold dear to us are the ones who break our heart...</i> ♪
+
+397
+00:33:08,010 --> 00:33:09,681
+Are you touched in the head?
+
+398
+00:33:09,718 --> 00:33:12,289
+Somebody might come to suspect I'm leaving.
+
+399
+00:33:12,331 --> 00:33:14,402
+There's no room for suspicion now.
+
+400
+00:33:14,402 --> 00:33:17,122
+Because I've told <i>her</i> you're leaving.
+
+401
+00:33:19,340 --> 00:33:20,659
+So --
+
+402
+00:33:21,140 --> 00:33:23,449
+As if telling her makes things any different!
+
+403
+00:33:23,449 --> 00:33:26,250
+And if it did?
+
+404
+00:33:28,200 --> 00:33:30,049
+Codswallop!
+
+405
+00:33:30,540 --> 00:33:33,848
+Like you, I don't know what you'd do.
+
+406
+00:33:35,038 --> 00:33:37,699
+But take it as a bit of parting advice
+
+407
+00:33:37,890 --> 00:33:40,341
+If she stops you from leaving,
+
+408
+00:33:40,901 --> 00:33:42,711
+Don't ever leave.
+
+409
+00:33:46,750 --> 00:33:49,798
+Or you'll be leaving her in quite the mare's nest!
+
+410
+00:33:52,870 --> 00:34:01,770
+♪ <i>I will keep with me the memories of our conversations and of you</i> ♪
+
+411
+00:34:01,770 --> 00:34:02,281
+Take it as a bit of parting advice
+♪ <i>I will keep with me the memories of our conversations and of you</i> ♪
+
+412
+00:34:02,281 --> 00:34:04,580
+Take it as a bit of parting advice
+♪ <i>Such bounties, O Love, are all one gets from you in benefaction</i> ♪
+
+413
+00:34:04,580 --> 00:34:07,630
+If she stops you from leaving,
+♪ <i>Such bounties, O Love, are all one gets from you in benefaction</i> ♪
+
+414
+00:34:07,630 --> 00:34:09,660
+Don't ever leave.
+♪ <i>Such bounties, O Love, are all one gets from you in benefaction</i> ♪
+
+415
+00:34:09,660 --> 00:34:11,661
+♪ <i>Such bounties, O Love, are all one gets from you in benefaction</i> ♪
+
+416
+00:34:11,661 --> 00:34:21,080
+♪ <i>I will laugh wholeheartedly at this, I will embrace the heart with rapture</i> ♪
+
+417
+00:34:21,080 --> 00:34:30,530
+♪ <i>I will remember you then...</i> ♪
+
+418
+00:34:33,640 --> 00:34:36,568
+Enough with it already!
+
+419
+00:34:37,010 --> 00:34:42,820
+Will anybody call the girl or are we going to dance all the way until sunrise?
+
+420
+00:34:50,590 --> 00:34:51,781
+Come on.
+
+421
+00:34:51,826 --> 00:34:54,327
+It's time to meet your love.
+
+422
+00:34:59,120 --> 00:35:01,172
+Just as the Lord God willed!
+
+423
+00:35:03,170 --> 00:35:05,630
+Everyone's waiting, c'mon!
+
+424
+00:35:05,630 --> 00:35:07,427
+Hey --
+
+425
+00:35:07,500 --> 00:35:10,051
+Whose picture is it in your feet?
+
+426
+00:35:13,100 --> 00:35:15,438
+This is Dad's picture...
+
+427
+00:35:19,620 --> 00:35:21,578
+How come it's here on the floor?
+
+428
+00:35:21,578 --> 00:35:23,918
+You might've dropped it accidentally.
+
+429
+00:35:29,370 --> 00:35:32,043
+I've never seen this picture of Dad's before...
+
+430
+00:35:32,043 --> 00:35:34,287
+You've seen it now!
+
+431
+00:35:34,750 --> 00:35:36,168
+Come!
+
+432
+00:35:36,270 --> 00:35:37,736
+Everyone's waiting.
+
+433
+00:35:37,736 --> 00:35:40,238
+Aunt's standing outside. Come.
+
+434
+00:35:41,050 --> 00:35:42,960
+You look so sweet!
+
+435
+00:35:43,000 --> 00:35:48,000
 Translation: Aditya Misra © GEO TV
 
